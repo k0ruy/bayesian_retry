@@ -1,0 +1,365 @@
+﻿Tag;Datum;Zeit;Home;Away;Resultat;Drittel;OT/SO;Status;Versch.;Stadion;Zus.;Id;Liga;Region;Phase
+Do;07.09.2017;19:45;Genève-Servette HC;Lausanne HC; 3:1; 1:0|2:1|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6678;20181105000010;NL;CH;Regular Season
+Fr;08.09.2017;19:45;HC Davos;EV Zug; 2:3; 0:1|2:1|0:0|0:1;SO;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4195;20181105000001;NL;CH;Regular Season
+Fr;08.09.2017;19:45;EHC Kloten;EHC Biel-Bienne; 0:3; 0:0|0:0|0:3;;Ende;False;SWISS Arena, 8302 Kloten ZH;5334;20181105000003;NL;CH;Regular Season
+Fr;08.09.2017;19:45;HC Lugano;HC Ambri-Piotta; 3:4; 0:1|1:1|2:2;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000005;NL;CH;Regular Season
+Fr;08.09.2017;19:45;SCL Tigers;ZSC Lions; 3:4; 1:0|2:2|0:1|0:1;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5519;20181105000006;NL;CH;Regular Season
+Fr;08.09.2017;19:51;Fribourg-Gottéron;Genève-Servette HC; 2:1; 1:0|1:0|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5587;20181105000002;NL;CH;Regular Season
+Sa;09.09.2017;19:45;HC Ambri-Piotta;HC Davos; 1:2; 0:1|0:0|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;20181105000007;NL;CH;Regular Season
+Sa;09.09.2017;19:45;SC Bern;Fribourg-Gottéron; 6:1; 1:0|3:1|2:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000008;NL;CH;Regular Season
+Sa;09.09.2017;19:45;EHC Biel-Bienne;SCL Tigers; 6:3; 3:2|0:1|3:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5289;20181105000009;NL;CH;Regular Season
+Sa;09.09.2017;19:45;ZSC Lions;EHC Kloten; 4:2; 2:0|0:1|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9180;20181105000011;NL;CH;Regular Season
+Sa;09.09.2017;19:45;EV Zug;HC Lugano; 2:4; 1:2|1:0|0:2;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000012;NL;CH;Regular Season
+Di;12.09.2017;19:45;SC Bern;HC Ambri-Piotta; 2:0; 0:0|1:0|1:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15456;20181105000013;NL;CH;Regular Season
+Di;12.09.2017;19:45;EHC Biel-Bienne;Fribourg-Gottéron; 2:3; 0:1|1:2|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4723;20181105000014;NL;CH;Regular Season
+Di;12.09.2017;19:45;HC Davos;Genève-Servette HC; 4:1; 3:0|1:0|0:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;3348;20181105000015;NL;CH;Regular Season
+Di;12.09.2017;19:45;HC Lugano;EHC Kloten; 3:2; 1:1|1:0|1:1;;Ende;False;Piste Resega, 6948 Porza Ti;5153;20181105000016;NL;CH;Regular Season
+Di;12.09.2017;19:45;ZSC Lions;SCL Tigers; 5:3; 0:2|3:1|2:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;7420;20181105000017;NL;CH;Regular Season
+Di;12.09.2017;19:45;EV Zug;Lausanne HC; 5:4; 3:1|1:3|0:0|1:0;OT;Ende;False;BOSSARD Arena, 6303 Zug;6225;20181105000018;NL;CH;Regular Season
+Fr;15.09.2017;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 4:2; 1:2|1:0|2:0;;Ende;False;BCF Arena, 1700 Fribourg FR;5555;20181105000019;NL;CH;Regular Season
+Fr;15.09.2017;19:45;Genève-Servette HC;SC Bern; 2:1; 2:1|0:0|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;5958;20181105000020;NL;CH;Regular Season
+Fr;15.09.2017;19:45;EHC Kloten;HC Davos; 2:3; 0:0|2:0|0:3;;Ende;False;SWISS Arena, 8302 Kloten ZH;5406;20181105000021;NL;CH;Regular Season
+Fr;15.09.2017;19:45;Lausanne HC;EHC Biel-Bienne; 2:3; 1:0|0:2|1:0|0:1;OT;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6003;20181105000022;NL;CH;Regular Season
+Fr;15.09.2017;19:45;HC Lugano;ZSC Lions; 6:1; 2:1|3:0|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5477;20181105000023;NL;CH;Regular Season
+Fr;15.09.2017;19:45;SCL Tigers;EV Zug; 2:3; 0:0|1:2|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5420;20181105000024;NL;CH;Regular Season
+Sa;16.09.2017;19:45;HC Ambri-Piotta;SCL Tigers; 5:3; 2:2|2:0|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;5482;20181105000025;NL;CH;Regular Season
+Sa;16.09.2017;19:45;SC Bern;HC Lugano; 4:5; 2:0|2:1|0:3|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16499;20181105000026;NL;CH;Regular Season
+Sa;16.09.2017;19:45;EHC Biel-Bienne;Genève-Servette HC; 5:4; 1:1|0:2|4:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4867;20181105000027;NL;CH;Regular Season
+Sa;16.09.2017;19:45;HC Davos;Lausanne HC; 4:6; 0:2|0:3|4:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4078;20181105000028;NL;CH;Regular Season
+Sa;16.09.2017;19:45;ZSC Lions;Fribourg-Gottéron; 1:2; 0:0|1:1|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;8173;20181105000029;NL;CH;Regular Season
+Sa;16.09.2017;19:45;EV Zug;EHC Kloten; 2:1; 1:0|1:0|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000030;NL;CH;Regular Season
+Fr;22.09.2017;19:45;SC Bern;Lausanne HC; 4:1; 0:1|3:0|1:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15585;20181105000031;NL;CH;Regular Season
+Fr;22.09.2017;19:45;Fribourg-Gottéron;EHC Kloten; 2:1; 0:1|1:0|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;5189;20181105000033;NL;CH;Regular Season
+Fr;22.09.2017;19:45;SCL Tigers;Genève-Servette HC; 3:2; 0:0|1:1|1:1|1:0;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5248;20181105000035;NL;CH;Regular Season
+Fr;22.09.2017;19:45;ZSC Lions;EHC Biel-Bienne; 2:4; 0:3|2:0|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;7659;20181105000036;NL;CH;Regular Season
+Sa;23.09.2017;19:45;HC Ambri-Piotta;ZSC Lions; 4:5; 2:2|1:1|1:1|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;5102;20181105000037;NL;CH;Regular Season
+Sa;23.09.2017;19:45;EHC Biel-Bienne;SC Bern; 2:5; 1:1|0:2|1:2;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6307;20181105000038;NL;CH;Regular Season
+Sa;23.09.2017;19:45;Genève-Servette HC;Fribourg-Gottéron; 2:4; 0:1|1:1|1:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5823;20181105000039;NL;CH;Regular Season
+Sa;23.09.2017;19:45;EHC Kloten;SCL Tigers; 4:0; 2:0|2:0|0:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;5012;20181105000040;NL;CH;Regular Season
+Sa;23.09.2017;19:45;Lausanne HC;HC Lugano; 4:1; 1:1|1:0|2:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6336;20181105000041;NL;CH;Regular Season
+Sa;23.09.2017;19:45;EV Zug;HC Davos; 5:1; 1:1|2:0|2:0;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000042;NL;CH;Regular Season
+So;24.09.2017;15:45;HC Davos;HC Ambri-Piotta; 4:2; 1:1|0:1|3:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4405;20181105000032;NL;CH;Regular Season
+Di;26.09.2017;19:45;HC Lugano;EV Zug; 2:3; 2:1|0:1|0:1;;Ende;False;Piste Resega, 6948 Porza Ti;5396;20181105000034;NL;CH;Regular Season
+Di;26.09.2017;19:45;ZSC Lions;Lausanne HC; 6:1; 0:0|3:1|3:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;7432;20181105000060;NL;CH;Regular Season
+Do;28.09.2017;19:45;Genève-Servette HC;ZSC Lions; 3:2; 0:0|0:1|2:1|1:0;SO;Ende;False;Les Vernets, 1227 Les Acacias GE;5604;20181105000046;NL;CH;Regular Season
+Fr;29.09.2017;19:45;HC Ambri-Piotta;HC Lugano; 1:4; 1:1|0:2|0:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;20181105000043;NL;CH;Regular Season
+Fr;29.09.2017;19:45;Fribourg-Gottéron;EV Zug; 0:3; 0:1|0:0|0:2;;Ende;False;BCF Arena, 1700 Fribourg FR;5265;20181105000045;NL;CH;Regular Season
+Fr;29.09.2017;19:45;EHC Kloten;Lausanne HC; 2:1; 0:0|0:1|2:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;4531;20181105000047;NL;CH;Regular Season
+Fr;29.09.2017;19:45;SCL Tigers;EHC Biel-Bienne; 2:1; 2:0|0:1|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5606;20181105000048;NL;CH;Regular Season
+Fr;29.09.2017;19:56;SC Bern;HC Davos; 3:2; 1:0|1:1|1:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;16626;20181105000044;NL;CH;Regular Season
+Sa;30.09.2017;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 6:2; 3:0|2:2|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5019;20181105000049;NL;CH;Regular Season
+Sa;30.09.2017;19:45;HC Davos;Fribourg-Gottéron; 3:0; 1:0|2:0|0:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4467;20181105000050;NL;CH;Regular Season
+Sa;30.09.2017;19:45;ZSC Lions;EHC Kloten; 3:0; 1:0|1:0|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9104;20181105000053;NL;CH;Regular Season
+Sa;30.09.2017;19:45;EV Zug;SC Bern; 3:6; 3:2|0:0|0:4;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000054;NL;CH;Regular Season
+Sa;30.09.2017;19:53;HC Lugano;SCL Tigers; 3:1; 1:1|1:0|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5676;20181105000052;NL;CH;Regular Season
+Di;03.10.2017;19:45;Fribourg-Gottéron;Genève-Servette HC; 5:2; 1:0|3:1|1:1;;Ende;False;BCF Arena, 1700 Fribourg FR;4962;20181105000105;NL;CH;Regular Season
+Fr;06.10.2017;19:45;HC Ambri-Piotta;EV Zug; 1:4; 0:0|0:1|1:3;;Ende;False;Stadio Valascia, 6775 Ambri TI;3721;20181105000055;NL;CH;Regular Season
+Fr;06.10.2017;19:45;SC Bern;EHC Kloten; 9:2; 4:0|4:0|1:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;16073;20181105000056;NL;CH;Regular Season
+Fr;06.10.2017;19:45;EHC Biel-Bienne;HC Davos; 2:3; 0:0|0:2|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5375;20181105000057;NL;CH;Regular Season
+Fr;06.10.2017;19:45;Genève-Servette HC;HC Lugano; 0:4; 0:1|0:0|0:3;;Ende;False;Les Vernets, 1227 Les Acacias GE;6201;20181105000058;NL;CH;Regular Season
+Fr;06.10.2017;19:45;SCL Tigers;Fribourg-Gottéron; 3:2; 1:0|1:2|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000059;NL;CH;Regular Season
+Sa;07.10.2017;19:45;HC Davos;ZSC Lions; 4:1; 1:0|1:1|2:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5161;20181105000061;NL;CH;Regular Season
+Sa;07.10.2017;19:45;Fribourg-Gottéron;SC Bern; 4:5; 1:0|2:2|1:2|0:1;OT;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000062;NL;CH;Regular Season
+Sa;07.10.2017;19:45;EHC Kloten;HC Ambri-Piotta; 1:5; 0:1|1:1|0:3;;Ende;False;SWISS Arena, 8302 Kloten ZH;5036;20181105000063;NL;CH;Regular Season
+Sa;07.10.2017;19:45;Lausanne HC;SCL Tigers; 3:4; 1:2|2:1|0:0|0:1;OT;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5780;20181105000064;NL;CH;Regular Season
+Sa;07.10.2017;19:45;HC Lugano;EHC Biel-Bienne; 5:2; 2:0|1:1|2:1;;Ende;False;Piste Resega, 6948 Porza Ti;5473;20181105000065;NL;CH;Regular Season
+Sa;07.10.2017;19:45;EV Zug;Genève-Servette HC; 2:0; 0:0|1:0|1:0;;Ende;False;BOSSARD Arena, 6303 Zug;7061;20181105000066;NL;CH;Regular Season
+Mo;09.10.2017;19:45;ZSC Lions;HC Ambri-Piotta; 6:1; 3:0|1:0|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;7959;20181105000108;NL;CH;Regular Season
+Di;10.10.2017;18:45;Lausanne HC;Genève-Servette HC; 8:4; 1:2|3:2|4:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6446;20181105000051;NL;CH;Regular Season
+Do;12.10.2017;19:45;Genève-Servette HC;HC Ambri-Piotta; 0:3; 0:1|0:0|0:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5358;20181105000074;NL;CH;Regular Season
+Fr;13.10.2017;19:45;HC Ambri-Piotta;Lausanne HC; 2:1; 2:1|0:0|0:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4651;20181105000067;NL;CH;Regular Season
+Fr;13.10.2017;19:45;SC Bern;ZSC Lions; 4:3; 0:1|3:1|0:1|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;16342;20181105000068;NL;CH;Regular Season
+Fr;13.10.2017;19:45;Fribourg-Gottéron;HC Lugano; 1:4; 0:1|1:1|0:2;;Ende;False;BCF Arena, 1700 Fribourg FR;5754;20181105000070;NL;CH;Regular Season
+Fr;13.10.2017;19:45;EHC Kloten;Genève-Servette HC; 1:2; 0:1|0:1|1:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;4429;20181105000071;NL;CH;Regular Season
+Fr;13.10.2017;19:45;EV Zug;EHC Biel-Bienne; 3:2; 0:0|1:0|1:2|1:0;OT;Ende;False;BOSSARD Arena, 6303 Zug;7046;20181105000072;NL;CH;Regular Season
+Sa;14.10.2017;19:45;EHC Biel-Bienne;EHC Kloten; 4:2; 2:0|1:2|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4764;20181105000073;NL;CH;Regular Season
+Sa;14.10.2017;19:45;HC Lugano;HC Davos; 4:3; 1:2|1:1|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;6062;20181105000076;NL;CH;Regular Season
+Sa;14.10.2017;19:45;SCL Tigers;SC Bern; 0:2; 0:1|0:1|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000077;NL;CH;Regular Season
+Sa;14.10.2017;19:45;ZSC Lions;EV Zug; 7:3; 4:1|1:1|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9149;20181105000078;NL;CH;Regular Season
+So;15.10.2017;15:45;HC Davos;SCL Tigers; 4:3; 2:1|2:0|0:2;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4409;20181105000069;NL;CH;Regular Season
+So;15.10.2017;15:45;Lausanne HC;Fribourg-Gottéron; 3:2; 1:0|1:1|0:1|1:0;SO;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6700;20181105000075;NL;CH;Regular Season
+Di;17.10.2017;19:45;HC Ambri-Piotta;SC Bern; 0:1; 0:0|0:0|0:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;4100;20181105000079;NL;CH;Regular Season
+Di;17.10.2017;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 6:2; 1:2|4:0|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;5550;20181105000080;NL;CH;Regular Season
+Di;17.10.2017;19:45;Genève-Servette HC;HC Davos; 3:0; 1:0|1:0|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;4869;20181105000081;NL;CH;Regular Season
+Di;17.10.2017;19:45;EHC Kloten;HC Lugano; 3:1; 1:0|2:1|0:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;5242;20181105000082;NL;CH;Regular Season
+Di;17.10.2017;19:45;SCL Tigers;ZSC Lions; 3:2; 0:2|3:0|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5143;20181105000084;NL;CH;Regular Season
+Di;17.10.2017;20:15;Lausanne HC;EV Zug; 1:0; 1:0|0:0|0:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5678;20181105000083;NL;CH;Regular Season
+Do;19.10.2017;19:45;ZSC Lions;HC Lugano; 4:1; 1:0|2:1|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8719;20181105000089;NL;CH;Regular Season
+Fr;20.10.2017;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 2:1; 1:0|0:0|0:1|1:0;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;4628;20181105000085;NL;CH;Regular Season
+Fr;20.10.2017;19:45;SC Bern;Genève-Servette HC; 3:2; 2:0|0:0|0:2|1:0;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;15838;20181105000086;NL;CH;Regular Season
+Fr;20.10.2017;19:45;EHC Biel-Bienne;Lausanne HC; 3:4; 2:1|1:2|0:0|0:1;SO;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5027;20181105000087;NL;CH;Regular Season
+Fr;20.10.2017;19:45;HC Davos;EHC Kloten; 4:1; 1:0|2:1|1:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4196;20181105000088;NL;CH;Regular Season
+Fr;20.10.2017;19:45;EV Zug;SCL Tigers; 1:3; 0:1|0:0|1:2;;Ende;False;BOSSARD Arena, 6303 Zug;6784;20181105000090;NL;CH;Regular Season
+Di;24.10.2017;19:45;Fribourg-Gottéron;ZSC Lions; 2:3; 1:1|0:1|1:0|0:1;SO;Ende;False;BCF Arena, 1700 Fribourg FR;5587;20181105000091;NL;CH;Regular Season
+Di;24.10.2017;19:45;Genève-Servette HC;EHC Biel-Bienne; 4:1; 1:0|3:0|0:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;5469;20181105000092;NL;CH;Regular Season
+Di;24.10.2017;19:45;EHC Kloten;EV Zug; 4:3; 1:2|0:1|2:0|1:0;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;4634;20181105000093;NL;CH;Regular Season
+Di;24.10.2017;19:45;Lausanne HC;HC Davos; 4:3; 1:1|1:2|1:0|1:0;SO;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5777;20181105000094;NL;CH;Regular Season
+Di;24.10.2017;19:45;HC Lugano;SC Bern; 2:0; 1:0|0:0|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5462;20181105000095;NL;CH;Regular Season
+Di;24.10.2017;20:20;SCL Tigers;HC Ambri-Piotta; 3:2; 1:1|1:0|0:1|1:0;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5557;20181105000096;NL;CH;Regular Season
+Fr;27.10.2017;19:45;HC Ambri-Piotta;HC Davos; 7:5; 3:3|2:1|2:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;4571;20181105000097;NL;CH;Regular Season
+Fr;27.10.2017;19:45;EHC Biel-Bienne;ZSC Lions; 2:4; 0:2|0:2|2:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4886;20181105000098;NL;CH;Regular Season
+Fr;27.10.2017;19:45;Genève-Servette HC;SCL Tigers; 4:5; 1:1|3:2|0:1|0:1;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;6620;20181105000099;NL;CH;Regular Season
+Fr;27.10.2017;19:45;EHC Kloten;Fribourg-Gottéron; 3:2; 0:0|2:0|0:2|1:0;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5324;20181105000100;NL;CH;Regular Season
+Fr;27.10.2017;19:45;Lausanne HC;SC Bern; 2:4; 0:4|1:0|1:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6601;20181105000101;NL;CH;Regular Season
+Sa;28.10.2017;19:45;SC Bern;EHC Biel-Bienne; 4:1; 1:1|1:0|2:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;17003;20181105000103;NL;CH;Regular Season
+Sa;28.10.2017;19:45;HC Davos;EV Zug; 4:3; 2:0|1:2|1:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4900;20181105000104;NL;CH;Regular Season
+Sa;28.10.2017;19:45;HC Lugano;Lausanne HC; 6:4; 2:2|1:2|3:0;;Ende;False;Piste Resega, 6948 Porza Ti;5604;20181105000106;NL;CH;Regular Season
+Di;31.10.2017;19:45;SCL Tigers;EHC Kloten; 2:3; 2:0|0:1|0:1|0:1;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5355;20181105000107;NL;CH;Regular Season
+Do;02.11.2017;19:45;Genève-Servette HC;Lausanne HC; 6:1; 1:0|2:1|3:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6308;20181105000118;NL;CH;Regular Season
+Fr;03.11.2017;19:45;EHC Biel-Bienne;SCL Tigers; 2:1; 0:0|2:0|0:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5486;20181105000109;NL;CH;Regular Season
+Fr;03.11.2017;19:45;HC Davos;SC Bern; 1:6; 0:3|0:2|1:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4924;20181105000110;NL;CH;Regular Season
+Fr;03.11.2017;19:45;HC Lugano;HC Ambri-Piotta; 3:1; 0:0|1:1|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000112;NL;CH;Regular Season
+Fr;03.11.2017;19:45;EV Zug;Fribourg-Gottéron; 4:6; 1:2|3:3|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;7100;20181105000114;NL;CH;Regular Season
+Sa;04.11.2017;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 3:4; 1:0|1:1|1:2|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;5315;20181105000115;NL;CH;Regular Season
+Sa;04.11.2017;19:45;SC Bern;EV Zug; 2:1; 2:0|0:1|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000116;NL;CH;Regular Season
+Sa;04.11.2017;19:45;Fribourg-Gottéron;HC Davos; 3:1; 2:0|0:1|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6120;20181105000117;NL;CH;Regular Season
+Sa;04.11.2017;19:45;EHC Kloten;ZSC Lions; 3:5; 2:1|1:3|0:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;6323;20181105000119;NL;CH;Regular Season
+Sa;04.11.2017;19:45;SCL Tigers;HC Lugano; 2:4; 0:1|0:1|2:2;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000120;NL;CH;Regular Season
+Di;14.11.2017;19:45;EHC Biel-Bienne;EV Zug; 1:4; 0:2|0:1|1:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4837;20181105000121;NL;CH;Regular Season
+Di;14.11.2017;19:45;Genève-Servette HC;EHC Kloten; 4:3; 1:1|1:1|1:1|1:0;SO;Ende;False;Les Vernets, 1227 Les Acacias GE;5398;20181105000122;NL;CH;Regular Season
+Di;14.11.2017;19:45;Lausanne HC;HC Ambri-Piotta; 1:0; 1:0|0:0|0:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6006;20181105000123;NL;CH;Regular Season
+Di;14.11.2017;19:45;HC Lugano;Fribourg-Gottéron; 2:4; 2:0|0:1|0:3;;Ende;False;Piste Resega, 6948 Porza Ti;5303;20181105000124;NL;CH;Regular Season
+Di;14.11.2017;19:45;SCL Tigers;HC Davos; 2:1; 0:1|1:0|0:0|1:0;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5778;20181105000125;NL;CH;Regular Season
+Di;14.11.2017;19:45;ZSC Lions;SC Bern; 3:1; 0:1|2:0|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9379;20181105000126;NL;CH;Regular Season
+Do;16.11.2017;19:45;Genève-Servette HC;EV Zug; 0:3; 0:0|0:1|0:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5159;20181105000136;NL;CH;Regular Season
+Fr;17.11.2017;19:45;HC Davos;EHC Biel-Bienne; 3:2; 1:2|2:0|0:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;3907;20181105000127;NL;CH;Regular Season
+Fr;17.11.2017;19:45;Fribourg-Gottéron;SCL Tigers; 4:2; 1:0|0:1|3:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5694;20181105000128;NL;CH;Regular Season
+Fr;17.11.2017;19:45;Lausanne HC;ZSC Lions; 2:5; 2:3|0:1|0:1;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6321;20181105000130;NL;CH;Regular Season
+Fr;17.11.2017;19:45;EV Zug;HC Ambri-Piotta; 4:2; 1:2|1:0|2:0;;Ende;False;BOSSARD Arena, 6303 Zug;7100;20181105000132;NL;CH;Regular Season
+Sa;18.11.2017;19:45;HC Ambri-Piotta;EHC Kloten; 6:3; 2:0|2:1|2:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;5532;20181105000133;NL;CH;Regular Season
+Sa;18.11.2017;19:45;SC Bern;Fribourg-Gottéron; 5:2; 0:0|2:0|3:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000134;NL;CH;Regular Season
+Sa;18.11.2017;19:45;EHC Biel-Bienne;HC Lugano; 4:2; 1:0|1:1|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5325;20181105000135;NL;CH;Regular Season
+Sa;18.11.2017;19:45;SCL Tigers;Lausanne HC; 3:5; 2:0|1:1|0:4;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5645;20181105000137;NL;CH;Regular Season
+So;19.11.2017;15:45;EHC Kloten;SC Bern; 1:2; 1:0|0:0|0:2;;Ende;False;SWISS Arena, 8302 Kloten ZH;5365;20181105000129;NL;CH;Regular Season
+So;19.11.2017;15:45;ZSC Lions;HC Davos; 1:3; 1:0|0:1|0:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000138;NL;CH;Regular Season
+Do;23.11.2017;19:45;ZSC Lions;SCL Tigers; 2:3; 0:2|1:1|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8233;20181105000144;NL;CH;Regular Season
+Fr;24.11.2017;19:45;HC Davos;HC Ambri-Piotta; 2:7; 2:2|0:2|0:3;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4963;20181105000140;NL;CH;Regular Season
+Fr;24.11.2017;19:45;Fribourg-Gottéron;SC Bern; 2:7; 1:2|0:3|1:2;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000141;NL;CH;Regular Season
+Fr;24.11.2017;19:45;Lausanne HC;Genève-Servette HC; 1:3; 0:0|0:1|1:2;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6700;20181105000142;NL;CH;Regular Season
+Fr;24.11.2017;19:45;HC Lugano;EV Zug; 2:5; 0:2|2:2|0:1;;Ende;False;Piste Resega, 6948 Porza Ti;5379;20181105000143;NL;CH;Regular Season
+Fr;24.11.2017;20:00;EHC Biel-Bienne;EHC Kloten; 0:3; 0:1|0:1|0:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4821;20181105000139;NL;CH;Regular Season
+Sa;25.11.2017;19:45;HC Ambri-Piotta;HC Lugano; 1:4; 0:1|0:1|1:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;20181105000145;NL;CH;Regular Season
+Sa;25.11.2017;19:45;SC Bern;Lausanne HC; 6:3; 2:3|2:0|2:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16012;20181105000146;NL;CH;Regular Season
+Sa;25.11.2017;19:45;Genève-Servette HC;Fribourg-Gottéron; 1:4; 1:2|0:1|0:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6540;20181105000147;NL;CH;Regular Season
+Sa;25.11.2017;19:45;EHC Kloten;ZSC Lions; 1:4; 0:3|1:0|0:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;5719;20181105000148;NL;CH;Regular Season
+Sa;25.11.2017;19:45;SCL Tigers;EHC Biel-Bienne; 1:2; 0:1|0:0|1:0|0:1;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5969;20181105000149;NL;CH;Regular Season
+Sa;25.11.2017;19:45;EV Zug;HC Davos; 3:4; 2:2|1:1|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000150;NL;CH;Regular Season
+Mo;27.11.2017;19:45;ZSC Lions;Genève-Servette HC; 3:2; 1:0|0:1|1:1|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;8213;20181105000113;NL;CH;Regular Season
+Di;28.11.2017;19:45;HC Ambri-Piotta;Genève-Servette HC; 2:3; 1:0|0:0|1:2|0:1;SO;Ende;False;Stadio Valascia, 6775 Ambri TI;3783;20181105000151;NL;CH;Regular Season
+Di;28.11.2017;19:45;SC Bern;SCL Tigers; 3:5; 2:0|1:2|0:3;;Ende;False;PostFinance-Arena, 3014 Bern BE;16003;20181105000152;NL;CH;Regular Season
+Di;28.11.2017;19:45;HC Davos;HC Lugano; 4:5; 3:3|0:0|1:2;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4285;20181105000153;NL;CH;Regular Season
+Di;28.11.2017;19:45;Fribourg-Gottéron;Lausanne HC; 0:4; 0:1|0:3|0:0;;Ende;False;BCF Arena, 1700 Fribourg FR;5707;20181105000154;NL;CH;Regular Season
+Di;28.11.2017;19:45;EHC Kloten;EHC Biel-Bienne; 2:3; 0:2|1:0|1:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;4837;20181105000155;NL;CH;Regular Season
+Di;28.11.2017;19:45;EV Zug;ZSC Lions; 4:3; 0:1|2:2|1:0|1:0;SO;Ende;False;BOSSARD Arena, 6303 Zug;6850;20181105000156;NL;CH;Regular Season
+Do;30.11.2017;19:45;Genève-Servette HC;HC Lugano; 0:4; 0:3|0:1|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;5349;20181105000165;NL;CH;Regular Season
+Fr;01.12.2017;19:45;EHC Biel-Bienne;EV Zug; 2:1; 0:0|2:0|0:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4793;20181105000157;NL;CH;Regular Season
+Fr;01.12.2017;19:45;Fribourg-Gottéron;EHC Kloten; 5:4; 1:2|1:1|2:1|1:0;SO;Ende;False;BCF Arena, 1700 Fribourg FR;6280;20181105000159;NL;CH;Regular Season
+Fr;01.12.2017;19:45;Lausanne HC;HC Ambri-Piotta; 6:4; 3:1|0:2|3:1;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6060;20181105000160;NL;CH;Regular Season
+Sa;02.12.2017;19:45;HC Ambri-Piotta;ZSC Lions; 4:0; 0:0|2:0|2:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4237;20181105000163;NL;CH;Regular Season
+Sa;02.12.2017;19:45;EHC Kloten;HC Davos; 4:5; 1:1|1:2|2:1|0:1;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5664;20181105000166;NL;CH;Regular Season
+Sa;02.12.2017;19:45;SCL Tigers;Lausanne HC; 4:1; 1:1|1:0|2:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5848;20181105000167;NL;CH;Regular Season
+Sa;02.12.2017;19:55;SC Bern;EHC Biel-Bienne; 4:5; 2:0|1:3|1:1|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16294;20181105000164;NL;CH;Regular Season
+So;03.12.2017;15:45;HC Davos;Genève-Servette HC; 1:4; 0:1|0:2|1:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4276;20181105000158;NL;CH;Regular Season
+So;03.12.2017;15:45;HC Lugano;SCL Tigers; 4:2; 1:0|2:2|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5685;20181105000161;NL;CH;Regular Season
+So;03.12.2017;15:45;ZSC Lions;SC Bern; 3:2; 0:1|1:1|1:0|1:0;SO;Ende;False;Hallenstadion, 8050 Zürich ZH;10519;20181105000162;NL;CH;Regular Season
+Di;05.12.2017;19:45;Lausanne HC;EHC Kloten; 4:0; 2:0|2:0|0:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5898;20181105000111;NL;CH;Regular Season
+Do;07.12.2017;19:45;Genève-Servette HC;Fribourg-Gottéron; 1:0; 0:0|1:0|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;5650;20181105000176;NL;CH;Regular Season
+Fr;08.12.2017;19:45;HC Ambri-Piotta;EV Zug; 1:3; 0:0|1:1|0:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;4723;20181105000169;NL;CH;Regular Season
+Fr;08.12.2017;19:45;SC Bern;Genève-Servette HC; 3:4; 2:1|1:0|0:2|0:1;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;15225;20181105000170;NL;CH;Regular Season
+Fr;08.12.2017;19:45;EHC Biel-Bienne;ZSC Lions; 5:2; 2:1|1:1|2:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4759;20181105000171;NL;CH;Regular Season
+Fr;08.12.2017;19:45;Fribourg-Gottéron;HC Davos; 3:4; 2:2|1:0|0:2;;Ende;False;BCF Arena, 1700 Fribourg FR;6079;20181105000172;NL;CH;Regular Season
+Fr;08.12.2017;19:45;HC Lugano;Lausanne HC; 3:5; 1:2|2:1|0:2;;Ende;False;Piste Resega, 6948 Porza Ti;5478;20181105000174;NL;CH;Regular Season
+Sa;09.12.2017;19:45;HC Davos;EHC Biel-Bienne; 3:2; 0:1|1:0|2:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5250;20181105000175;NL;CH;Regular Season
+Sa;09.12.2017;19:45;Lausanne HC;SC Bern; 2:3; 1:0|1:1|0:1|0:1;OT;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6543;20181105000177;NL;CH;Regular Season
+Sa;09.12.2017;19:45;SCL Tigers;HC Ambri-Piotta; 9:4; 2:1|4:3|3:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000178;NL;CH;Regular Season
+Sa;09.12.2017;19:45;ZSC Lions;EHC Kloten; 1:5; 0:1|1:2|0:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;9423;20181105000179;NL;CH;Regular Season
+Sa;09.12.2017;19:45;EV Zug;HC Lugano; 3:4; 0:2|3:0|0:1|0:1;SO;Ende;False;BOSSARD Arena, 6303 Zug;7057;20181105000180;NL;CH;Regular Season
+So;10.12.2017;16:00;EHC Kloten;SCL Tigers; 1:4; 0:0|1:4|0:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;6087;20181105000173;NL;CH;Regular Season
+Di;12.12.2017;19:45;HC Lugano;Genève-Servette HC; 3:4; 1:2|2:0|0:1|0:1;OT;Ende;False;Piste Resega, 6948 Porza Ti;5225;20181105000131;NL;CH;Regular Season
+Di;12.12.2017;19:45;EHC Biel-Bienne;Lausanne HC; 4:1; 1:0|2:1|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4737;20181105000199;NL;CH;Regular Season
+Do;14.12.2017;19:45;Genève-Servette HC;EV Zug; 3:4; 1:1|2:0|0:2|0:1;SO;Ende;False;Les Vernets, 1227 Les Acacias GE;5467;20181105000189;NL;CH;Regular Season
+Fr;15.12.2017;19:45;SC Bern;HC Lugano; 2:1; 1:0|1:0|0:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;16333;20181105000181;NL;CH;Regular Season
+Fr;15.12.2017;19:45;Fribourg-Gottéron;SCL Tigers; 1:3; 0:0|1:1|0:2;;Ende;False;BCF Arena, 1700 Fribourg FR;5735;20181105000183;NL;CH;Regular Season
+Fr;15.12.2017;19:45;Lausanne HC;Genève-Servette HC; 3:5; 0:1|2:1|1:3;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6556;20181105000184;NL;CH;Regular Season
+Fr;15.12.2017;19:45;ZSC Lions;HC Davos; 3:2; 1:1|2:0|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9565;20181105000185;NL;CH;Regular Season
+Fr;15.12.2017;19:45;EV Zug;EHC Kloten; 5:4; 0:2|3:0|1:2|1:0;SO;Ende;False;BOSSARD Arena, 6303 Zug;6926;20181105000186;NL;CH;Regular Season
+Sa;16.12.2017;19:45;HC Ambri-Piotta;SC Bern; 3:4; 1:1|1:2|1:0|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;4806;20181105000187;NL;CH;Regular Season
+Sa;16.12.2017;19:45;HC Davos;Lausanne HC; 2:5; 1:3|0:2|1:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4652;20181105000188;NL;CH;Regular Season
+Sa;16.12.2017;19:45;EHC Kloten;EHC Biel-Bienne; 3:2; 2:0|0:2|0:0|1:0;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5308;20181105000190;NL;CH;Regular Season
+Sa;16.12.2017;19:45;HC Lugano;Fribourg-Gottéron; 8:2; 2:2|4:0|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;5636;20181105000191;NL;CH;Regular Season
+Sa;16.12.2017;19:45;SCL Tigers;ZSC Lions; 2:1; 0:1|2:0|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5906;20181105000192;NL;CH;Regular Season
+So;17.12.2017;15:45;EHC Biel-Bienne;HC Ambri-Piotta; 5:1; 3:1|2:0|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5836;20181105000182;NL;CH;Regular Season
+Di;19.12.2017;19:45;SC Bern;EHC Kloten; 2:0; 0:0|1:0|1:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15876;20181105000193;NL;CH;Regular Season
+Di;19.12.2017;19:45;Genève-Servette HC;HC Ambri-Piotta; 4:2; 1:0|2:0|1:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;6006;20181105000194;NL;CH;Regular Season
+Di;19.12.2017;19:45;Lausanne HC;Fribourg-Gottéron; 1:5; 0:2|0:2|1:1;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6333;20181105000195;NL;CH;Regular Season
+Di;19.12.2017;19:45;HC Lugano;HC Davos; 3:4; 1:1|0:3|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;5379;20181105000196;NL;CH;Regular Season
+Di;19.12.2017;19:45;SCL Tigers;EHC Biel-Bienne; 1:4; 0:3|0:0|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5840;20181105000197;NL;CH;Regular Season
+Di;19.12.2017;19:45;ZSC Lions;EV Zug; 2:3; 0:1|2:1|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;8089;20181105000198;NL;CH;Regular Season
+Do;21.12.2017;19:55;Genève-Servette HC;EHC Kloten; 4:1; 1:1|2:0|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6441;20181105000207;NL;CH;Regular Season
+Fr;22.12.2017;19:45;HC Davos;SCL Tigers; 1:0; 1:0|0:0|0:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;3979;20181105000200;NL;CH;Regular Season
+Fr;22.12.2017;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 4:5; 0:0|4:2|0:3;;Ende;False;BCF Arena, 1700 Fribourg FR;6079;20181105000201;NL;CH;Regular Season
+Fr;22.12.2017;19:45;EHC Kloten;HC Lugano; 5:1; 2:0|3:0|0:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;6311;20181105000202;NL;CH;Regular Season
+Fr;22.12.2017;19:45;ZSC Lions;Genève-Servette HC; 3:4; 1:1|1:2|1:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9044;20181105000203;NL;CH;Regular Season
+Fr;22.12.2017;19:50;EV Zug;SC Bern; 2:5; 2:0|0:4|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000204;NL;CH;Regular Season
+Sa;23.12.2017;19:45;HC Ambri-Piotta;HC Davos; 0:3; 0:1|0:1|0:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;5947;20181105000205;NL;CH;Regular Season
+Sa;23.12.2017;19:45;SC Bern;Fribourg-Gottéron; 3:0; 1:0|2:0|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000206;NL;CH;Regular Season
+Sa;23.12.2017;19:45;Lausanne HC;ZSC Lions; 1:2; 0:0|1:0|0:1|0:1;OT;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6444;20181105000208;NL;CH;Regular Season
+Sa;23.12.2017;19:45;HC Lugano;EHC Biel-Bienne; 3:4; 0:1|1:3|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;6059;20181105000209;NL;CH;Regular Season
+Sa;23.12.2017;19:45;SCL Tigers;EV Zug; 1:4; 0:1|0:2|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000210;NL;CH;Regular Season
+Di;02.01.2018;15:45;ZSC Lions;HC Lugano; 6:1; 0:0|4:0|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;10328;20181105000215;NL;CH;Regular Season
+Di;02.01.2018;15:45;EV Zug;Lausanne HC; 6:3; 2:0|2:2|2:1;;Ende;False;BOSSARD Arena, 6303 Zug;6907;20181105000216;NL;CH;Regular Season
+Di;02.01.2018;19:45;EHC Biel-Bienne;Fribourg-Gottéron; 2:0; 2:0|0:0|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000211;NL;CH;Regular Season
+Di;02.01.2018;19:45;HC Davos;SC Bern; 4:1; 2:1|1:0|1:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;6148;20181105000212;NL;CH;Regular Season
+Di;02.01.2018;19:45;Genève-Servette HC;SCL Tigers; 4:2; 2:0|1:1|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6422;20181105000213;NL;CH;Regular Season
+Di;02.01.2018;19:45;EHC Kloten;HC Ambri-Piotta; 1:2; 0:1|0:0|1:0|0:1;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5988;20181105000214;NL;CH;Regular Season
+Fr;05.01.2018;19:45;EHC Kloten;Lausanne HC; 2:3; 1:1|0:1|1:0|0:1;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;4565;20181105000225;NL;CH;Regular Season
+Fr;05.01.2018;19:45;HC Lugano;HC Ambri-Piotta; 4:2; 2:0|1:0|1:2;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000226;NL;CH;Regular Season
+Sa;06.01.2018;19:45;HC Ambri-Piotta;HC Lugano; 2:4; 0:1|0:0|2:3;;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;20181105000217;NL;CH;Regular Season
+Sa;06.01.2018;19:45;SC Bern;SCL Tigers; 3:2; 1:1|1:0|0:1|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000218;NL;CH;Regular Season
+Sa;06.01.2018;19:45;EHC Biel-Bienne;Genève-Servette HC; 7:3; 2:1|3:1|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5464;20181105000219;NL;CH;Regular Season
+Sa;06.01.2018;19:45;Fribourg-Gottéron;ZSC Lions; 2:0; 0:0|1:0|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6262;20181105000220;NL;CH;Regular Season
+Sa;06.01.2018;19:45;Lausanne HC;EHC Kloten; 9:3; 3:1|3:1|3:1;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6336;20181105000221;NL;CH;Regular Season
+Sa;06.01.2018;19:45;EV Zug;HC Davos; 5:1; 0:0|3:0|2:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000222;NL;CH;Regular Season
+So;07.01.2018;15:45;HC Davos;EV Zug; 1:2; 0:0|1:1|0:0|0:1;SO;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5013;20181105000223;NL;CH;Regular Season
+So;07.01.2018;15:45;SCL Tigers;SC Bern; 1:5; 0:3|0:0|1:2;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000227;NL;CH;Regular Season
+So;07.01.2018;15:45;ZSC Lions;Fribourg-Gottéron; 3:4; 1:1|1:0|1:2|0:1;SO;Ende;False;Hallenstadion, 8050 Zürich ZH;10092;20181105000228;NL;CH;Regular Season
+Di;09.01.2018;19:45;EV Zug;HC Lugano; 2:0; 1:0|1:0|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;6526;20181105000102;NL;CH;Regular Season
+Di;09.01.2018;19:45;Genève-Servette HC;EHC Biel-Bienne; 1:4; 0:1|0:1|1:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5346;20181105000224;NL;CH;Regular Season
+Do;11.01.2018;19:45;Lausanne HC;SCL Tigers; 0:1; 0:0|0:0|0:0|0:1;SO;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5896;20181105000238;NL;CH;Regular Season
+Fr;12.01.2018;19:45;Genève-Servette HC;HC Davos; 6:5; 2:2|2:1|1:2|1:0;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;6257;20181105000231;NL;CH;Regular Season
+Fr;12.01.2018;19:45;SCL Tigers;HC Lugano; 4:0; 1:0|3:0|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5899;20181105000233;NL;CH;Regular Season
+Fr;12.01.2018;19:45;EV Zug;EHC Biel-Bienne; 5:4; 3:0|0:4|1:0|1:0;SO;Ende;False;BOSSARD Arena, 6303 Zug;7107;20181105000234;NL;CH;Regular Season
+Fr;12.01.2018;19:55;SC Bern;ZSC Lions; 2:4; 0:1|2:1|0:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;16395;20181105000230;NL;CH;Regular Season
+Sa;13.01.2018;19:45;EHC Biel-Bienne;SC Bern; 4:3; 0:1|4:1|0:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000235;NL;CH;Regular Season
+Sa;13.01.2018;19:45;HC Davos;EHC Kloten; 2:6; 2:4|0:0|0:2;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5137;20181105000236;NL;CH;Regular Season
+Sa;13.01.2018;19:45;Fribourg-Gottéron;EV Zug; 6:0; 0:0|2:0|4:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6014;20181105000237;NL;CH;Regular Season
+Sa;13.01.2018;19:45;HC Lugano;Genève-Servette HC; 7:1; 1:0|6:1|0:0;;Ende;False;Piste Resega, 6948 Porza Ti;5523;20181105000239;NL;CH;Regular Season
+Sa;13.01.2018;19:45;ZSC Lions;HC Ambri-Piotta; 2:3; 0:0|2:2|0:0|0:1;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;8910;20181105000240;NL;CH;Regular Season
+So;14.01.2018;15:45;HC Ambri-Piotta;Lausanne HC; 2:5; 1:1|0:3|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;5346;20181105000229;NL;CH;Regular Season
+So;14.01.2018;15:45;EHC Kloten;Fribourg-Gottéron; 1:2; 1:0|0:0|0:1|0:1;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5902;20181105000232;NL;CH;Regular Season
+Di;16.01.2018;19:45;EV Zug;Fribourg-Gottéron; 2:1; 0:0|1:1|0:0|1:0;OT;Ende;False;BOSSARD Arena, 6303 Zug;6748;20181105000168;NL;CH;Regular Season
+Di;16.01.2018;19:45;Genève-Servette HC;SC Bern; 2:3; 0:0|2:0|0:2|0:1;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;5133;20181105000242;NL;CH;Regular Season
+Fr;19.01.2018;19:45;HC Davos;Fribourg-Gottéron; 6:5; 1:0|2:3|3:2;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4056;20181105000241;NL;CH;Regular Season
+Fr;19.01.2018;19:45;Lausanne HC;HC Lugano; 3:6; 1:3|1:0|1:3;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6700;20181105000243;NL;CH;Regular Season
+Fr;19.01.2018;19:45;SCL Tigers;EHC Kloten; 1:0; 1:0|0:0|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5879;20181105000244;NL;CH;Regular Season
+Fr;19.01.2018;19:45;ZSC Lions;EHC Biel-Bienne; 2:1; 0:1|1:0|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9230;20181105000245;NL;CH;Regular Season
+Fr;19.01.2018;19:45;EV Zug;HC Ambri-Piotta; 7:3; 2:1|3:0|2:2;;Ende;False;BOSSARD Arena, 6303 Zug;6898;20181105000246;NL;CH;Regular Season
+Sa;20.01.2018;19:45;HC Ambri-Piotta;SCL Tigers; 2:3; 1:1|0:1|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;4872;20181105000247;NL;CH;Regular Season
+Sa;20.01.2018;19:45;SC Bern;Lausanne HC; 4:3; 0:0|2:0|1:3|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;16741;20181105000248;NL;CH;Regular Season
+Sa;20.01.2018;19:45;EHC Biel-Bienne;HC Davos; 5:1; 2:0|1:1|2:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6307;20181105000249;NL;CH;Regular Season
+Sa;20.01.2018;19:45;Fribourg-Gottéron;Genève-Servette HC; 5:4; 0:0|2:1|2:3|1:0;SO;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000250;NL;CH;Regular Season
+Sa;20.01.2018;19:45;EHC Kloten;ZSC Lions; 4:3; 1:1|2:1|0:1|1:0;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;6054;20181105000251;NL;CH;Regular Season
+Sa;20.01.2018;19:45;HC Lugano;EV Zug; 1:0; 1:0|0:0|0:0;;Ende;False;Piste Resega, 6948 Porza Ti;5763;20181105000252;NL;CH;Regular Season
+Di;23.01.2018;19:45;Lausanne HC;SC Bern; 5:3; 2:1|1:1|2:1;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6547;20181105000004;NL;CH;Regular Season
+Di;23.01.2018;19:45;EHC Biel-Bienne;SCL Tigers; 3:1; 1:1|1:0|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5496;20181105000266;NL;CH;Regular Season
+Di;23.01.2018;19:45;EV Zug;ZSC Lions; 3:1; 2:0|1:1|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;6762;20181105000270;NL;CH;Regular Season
+Fr;26.01.2018;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 3:2; 0:1|2:0|0:1|1:0;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;3929;20181105000253;NL;CH;Regular Season
+Fr;26.01.2018;19:45;EHC Kloten;EV Zug; 2:3; 0:1|1:1|1:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;5741;20181105000256;NL;CH;Regular Season
+Fr;26.01.2018;19:45;HC Lugano;SC Bern; 4:0; 1:0|1:0|2:0;;Ende;False;Piste Resega, 6948 Porza Ti;6048;20181105000257;NL;CH;Regular Season
+Fr;26.01.2018;19:45;SCL Tigers;Fribourg-Gottéron; 2:1; 0:0|0:1|2:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000258;NL;CH;Regular Season
+Fr;26.01.2018;19:50;Genève-Servette HC;Lausanne HC; 4:3; 2:2|2:0|0:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6880;20181105000255;NL;CH;Regular Season
+Sa;27.01.2018;19:45;SC Bern;HC Ambri-Piotta; 6:4; 3:0|2:0|1:4;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000259;NL;CH;Regular Season
+Sa;27.01.2018;19:45;EHC Biel-Bienne;EHC Kloten; 2:3; 0:1|1:1|1:0|0:1;SO;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5372;20181105000260;NL;CH;Regular Season
+Sa;27.01.2018;19:45;Fribourg-Gottéron;HC Lugano; 3:2; 2:1|1:1|0:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000261;NL;CH;Regular Season
+Sa;27.01.2018;19:45;Lausanne HC;HC Davos; 4:5; 2:1|2:2|0:1|0:1;OT;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6700;20181105000262;NL;CH;Regular Season
+Sa;27.01.2018;19:45;EV Zug;Genève-Servette HC; 3:0; 2:0|1:0|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;6810;20181105000264;NL;CH;Regular Season
+So;28.01.2018;15:45;HC Davos;ZSC Lions; 2:1; 0:0|1:1|1:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5339;20181105000254;NL;CH;Regular Season
+Di;30.01.2018;19:45;ZSC Lions;SCL Tigers; 1:0; 0:0|1:0|0:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8191;20181105000263;NL;CH;Regular Season
+Di;30.01.2018;19:45;HC Ambri-Piotta;Genève-Servette HC; 5:2; 1:1|2:0|2:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;3427;20181105000265;NL;CH;Regular Season
+Di;30.01.2018;19:45;HC Davos;HC Lugano; 1:2; 0:1|1:0|0:0|0:1;SO;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5245;20181105000267;NL;CH;Regular Season
+Di;30.01.2018;19:45;Fribourg-Gottéron;Lausanne HC; 4:1; 3:0|0:0|1:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5688;20181105000268;NL;CH;Regular Season
+Di;30.01.2018;19:45;EHC Kloten;SC Bern; 0:2; 0:0|0:1|0:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;5231;20181105000269;NL;CH;Regular Season
+Do;01.02.2018;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 4:3; 2:1|1:1|0:1|1:0;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;2917;20181105000271;NL;CH;Regular Season
+Do;01.02.2018;19:45;Genève-Servette HC;ZSC Lions; 1:4; 0:1|1:1|0:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;6131;20181105000273;NL;CH;Regular Season
+Do;01.02.2018;19:45;Lausanne HC;EHC Biel-Bienne; 1:2; 0:0|0:0|1:1|0:1;SO;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5987;20181105000274;NL;CH;Regular Season
+Do;01.02.2018;19:45;SCL Tigers;HC Davos; 2:1; 0:0|0:1|2:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5954;20181105000276;NL;CH;Regular Season
+Fr;02.02.2018;19:45;EHC Biel-Bienne;HC Lugano; 3:1; 2:0|1:1|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5876;20181105000277;NL;CH;Regular Season
+Fr;02.02.2018;19:45;HC Davos;HC Ambri-Piotta; 2:3; 0:1|1:0|1:2;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4918;20181105000278;NL;CH;Regular Season
+Fr;02.02.2018;19:45;Fribourg-Gottéron;SC Bern; 3:2; 2:0|0:2|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000279;NL;CH;Regular Season
+Fr;02.02.2018;19:45;EHC Kloten;Genève-Servette HC; 3:4; 1:1|1:0|1:2|0:1;SO;Ende;False;SWISS Arena, 8302 Kloten ZH;5049;20181105000280;NL;CH;Regular Season
+Fr;02.02.2018;19:45;ZSC Lions;Lausanne HC; 8:4; 3:2|4:0|1:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;8146;20181105000281;NL;CH;Regular Season
+Fr;02.02.2018;19:45;EV Zug;SCL Tigers; 3:2; 2:1|0:0|1:1;;Ende;False;BOSSARD Arena, 6303 Zug;7148;20181105000282;NL;CH;Regular Season
+Sa;03.02.2018;19:45;SC Bern;EV Zug; 2:0; 0:0|0:0|2:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16833;20181105000272;NL;CH;Regular Season
+Sa;03.02.2018;19:45;HC Lugano;EHC Kloten; 2:7; 1:2|0:5|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5774;20181105000275;NL;CH;Regular Season
+Mi;28.02.2018;19:45;HC Ambri-Piotta;EHC Kloten; 5:3; 1:0|1:2|3:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;2518;20181105000283;NL;CH;Regular Season
+Mi;28.02.2018;19:45;SC Bern;HC Davos; 2:0; 0:0|1:0|1:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16534;20181105000284;NL;CH;Regular Season
+Mi;28.02.2018;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 2:1; 0:0|0:1|1:0|1:0;OT;Ende;False;BCF Arena, 1700 Fribourg FR;6072;20181105000285;NL;CH;Regular Season
+Mi;28.02.2018;19:45;Lausanne HC;EV Zug; 3:4; 1:2|1:1|1:0|0:1;SO;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6002;20181105000286;NL;CH;Regular Season
+Mi;28.02.2018;19:45;HC Lugano;ZSC Lions; 3:1; 0:1|3:0|0:0;;Ende;False;Piste Resega, 6948 Porza Ti;5444;20181105000287;NL;CH;Regular Season
+Mi;28.02.2018;19:45;SCL Tigers;Genève-Servette HC; 1:3; 1:1|0:0|0:2;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5860;20181105000288;NL;CH;Regular Season
+Sa;03.03.2018;19:45;EHC Biel-Bienne;ZSC Lions; 4:1; 1:0|1:0|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5828;20181105000289;NL;CH;Regular Season
+Sa;03.03.2018;19:45;HC Davos;HC Lugano; 4:3; 0:1|2:1|1:1|1:0;SO;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;5773;20181105000290;NL;CH;Regular Season
+Sa;03.03.2018;19:45;Genève-Servette HC;SC Bern; 2:3; 0:1|1:1|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;7135;20181105000291;NL;CH;Regular Season
+Sa;03.03.2018;19:45;Lausanne HC;Fribourg-Gottéron; 4:1; 1:0|1:1|2:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6700;20181105000292;NL;CH;Regular Season
+Sa;03.03.2018;19:45;SCL Tigers;EHC Kloten; 3:5; 0:2|2:2|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;20181105000293;NL;CH;Regular Season
+Sa;03.03.2018;19:45;EV Zug;HC Ambri-Piotta; 5:3; 2:2|3:1|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;7125;20181105000294;NL;CH;Regular Season
+Mo;05.03.2018;19:45;HC Ambri-Piotta;EV Zug; 3:2; 1:1|1:1|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;2648;20181105000295;NL;CH;Regular Season
+Mo;05.03.2018;19:45;SC Bern;Genève-Servette HC; 3:4; 1:1|1:0|1:2|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;15423;20181105000296;NL;CH;Regular Season
+Mo;05.03.2018;19:45;Fribourg-Gottéron;Lausanne HC; 3:2; 0:0|2:1|1:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5555;20181105000297;NL;CH;Regular Season
+Mo;05.03.2018;19:45;EHC Kloten;SCL Tigers; 3:4; 1:2|2:0|0:2;;Ende;False;SWISS Arena, 8302 Kloten ZH;4805;20181105000298;NL;CH;Regular Season
+Mo;05.03.2018;19:45;HC Lugano;HC Davos; 5:0; 2:0|2:0|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;5457;20181105000299;NL;CH;Regular Season
+Mo;05.03.2018;19:45;ZSC Lions;EHC Biel-Bienne; 1:4; 1:2|0:1|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;8212;20181105000300;NL;CH;Regular Season
+Sa;10.03.2018;20:15;SCL Tigers;Lausanne HC; 5:4; 2:3|2:1|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5127;20181105000301;NL;CH;Ranking Round
+Sa;10.03.2018;20:15;HC Ambri-Piotta;EHC Kloten; 3:1; 0:0|1:1|2:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4442;20181105000302;NL;CH;Ranking Round
+Sa;10.03.2018;20:15;SC Bern;Genève-Servette HC; 7:0; 4:0|2:0|1:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16876;20181105000331;NL;CH;Playoff 1/4 Final
+Sa;10.03.2018;20:15;EV Zug;ZSC Lions; 4:1; 1:0|2:0|1:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000332;NL;CH;Playoff 1/4 Final
+Sa;10.03.2018;20:15;EHC Biel-Bienne;HC Davos; 2:5; 2:0|0:3|0:2;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000333;NL;CH;Playoff 1/4 Final
+Sa;10.03.2018;20:15;HC Lugano;Fribourg-Gottéron; 6:2; 3:1|0:0|3:1;;Ende;False;Piste Resega, 6948 Porza Ti;6536;20181105000334;NL;CH;Playoff 1/4 Final
+Di;13.03.2018;20:15;EHC Kloten;SCL Tigers; 4:3; 1:0|2:3|1:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;3361;20181105000303;NL;CH;Ranking Round
+Di;13.03.2018;20:15;Lausanne HC;HC Ambri-Piotta; 3:2; 0:2|3:0|0:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;4789;20181105000304;NL;CH;Ranking Round
+Di;13.03.2018;20:15;Genève-Servette HC;SC Bern; 2:5; 1:1|0:1|1:3;;Ende;False;Les Vernets, 1227 Les Acacias GE;6240;20181105000335;NL;CH;Playoff 1/4 Final
+Di;13.03.2018;20:15;ZSC Lions;EV Zug; 5:4; 2:1|2:0|1:3;;Ende;False;Hallenstadion, 8050 Zürich ZH;9715;20181105000336;NL;CH;Playoff 1/4 Final
+Di;13.03.2018;20:15;HC Davos;EHC Biel-Bienne; 1:3; 0:1|0:1|1:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4837;20181105000337;NL;CH;Playoff 1/4 Final
+Di;13.03.2018;20:15;Fribourg-Gottéron;HC Lugano; 2:5; 0:2|1:1|1:2;;Ende;False;BCF Arena, 1700 Fribourg FR;6336;20181105000338;NL;CH;Playoff 1/4 Final
+Do;15.03.2018;20:15;SC Bern;Genève-Servette HC; 5:1; 1:0|3:0|1:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;16421;20181105000339;NL;CH;Playoff 1/4 Final
+Do;15.03.2018;20:15;EV Zug;ZSC Lions; 2:3; 1:2|1:1|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000340;NL;CH;Playoff 1/4 Final
+Do;15.03.2018;20:15;EHC Biel-Bienne;HC Davos; 5:3; 0:1|1:1|4:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000341;NL;CH;Playoff 1/4 Final
+Do;15.03.2018;20:15;HC Lugano;Fribourg-Gottéron; 3:4; 3:1|0:0|0:2|0:1;OT;Ende;False;Piste Resega, 6948 Porza Ti;6162;20181105000342;NL;CH;Playoff 1/4 Final
+Sa;17.03.2018;20:15;SCL Tigers;HC Ambri-Piotta; 4:1; 1:0|2:0|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5729;20181105000305;NL;CH;Ranking Round
+Sa;17.03.2018;20:15;Lausanne HC;EHC Kloten; 6:0; 1:0|3:0|2:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;5274;20181105000306;NL;CH;Ranking Round
+Sa;17.03.2018;20:15;Genève-Servette HC;SC Bern; 4:1; 1:0|0:0|3:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6303;20181105000343;NL;CH;Playoff 1/4 Final
+Sa;17.03.2018;20:15;ZSC Lions;EV Zug; 5:0; 0:0|2:0|3:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000344;NL;CH;Playoff 1/4 Final
+Sa;17.03.2018;20:15;HC Davos;EHC Biel-Bienne; 4:2; 1:0|2:2|1:0;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;6800;20181105000345;NL;CH;Playoff 1/4 Final
+Sa;17.03.2018;20:15;Fribourg-Gottéron;HC Lugano; 1:3; 1:1|0:2|0:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;20181105000346;NL;CH;Playoff 1/4 Final
+Di;20.03.2018;20:15;HC Ambri-Piotta;SCL Tigers; 2:5; 1:0|1:2|0:3;;Ende;False;Stadio Valascia, 6775 Ambri TI;2169;20181105000307;NL;CH;Ranking Round
+Di;20.03.2018;20:15;EHC Kloten;Lausanne HC; 2:7; 0:3|1:1|1:3;;Ende;False;SWISS Arena, 8302 Kloten ZH;3571;20181105000308;NL;CH;Ranking Round
+Di;20.03.2018;20:15;SC Bern;Genève-Servette HC; 5:2; 0:1|2:0|3:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;15921;20181105000347;NL;CH;Playoff 1/4 Final
+Di;20.03.2018;20:15;EV Zug;ZSC Lions; 2:3; 1:0|0:2|1:0|0:1;OT;Ende;False;BOSSARD Arena, 6303 Zug;7200;20181105000348;NL;CH;Playoff 1/4 Final
+Di;20.03.2018;20:15;EHC Biel-Bienne;HC Davos; 4:2; 2:0|2:2|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000349;NL;CH;Playoff 1/4 Final
+Di;20.03.2018;20:15;HC Lugano;Fribourg-Gottéron; 5:3; 1:2|3:1|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;6089;20181105000350;NL;CH;Playoff 1/4 Final
+Do;22.03.2018;20:15;SCL Tigers;EHC Kloten; 4:3; 2:2|1:0|1:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5203;20181105000309;NL;CH;Ranking Round
+Do;22.03.2018;20:15;HC Ambri-Piotta;Lausanne HC; 6:3; 3:2|1:0|2:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;1500;20181105000310;NL;CH;Ranking Round
+Do;22.03.2018;20:15;HC Davos;EHC Biel-Bienne; 2:5; 0:1|1:3|1:1;;Ende;False;Vaillant Arena, 7270 Davos-Platz GR;4512;20181105000353;NL;CH;Playoff 1/4 Final
+Sa;24.03.2018;20:15;Lausanne HC;SCL Tigers; 2:1; 1:1|1:0|0:0;;Ende;False;Centre Sportif Malley, 1008 Lausanne VD;6345;20181105000311;NL;CH;Ranking Round
+Sa;24.03.2018;20:15;EHC Kloten;HC Ambri-Piotta; 2:5; 0:0|1:4|1:1;;Ende;False;SWISS Arena, 8302 Kloten ZH;4070;20181105000312;NL;CH;Ranking Round
+Di;27.03.2018;20:15;HC Ambri-Piotta;EHC Kloten; 4:0; 1:0|2:0|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4322;20181105000313;NL;CH;Playout Final
+Di;27.03.2018;20:15;SC Bern;ZSC Lions; 2:3; 1:2|1:0|0:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;16669;20181105000359;NL;CH;Playoff 1/2 Final
+Di;27.03.2018;20:15;EHC Biel-Bienne;HC Lugano; 7:3; 1:1|4:1|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000360;NL;CH;Playoff 1/2 Final
+Do;29.03.2018;20:15;EHC Kloten;HC Ambri-Piotta; 3:1; 1:1|1:0|1:0;;Ende;False;SWISS Arena, 8302 Kloten ZH;6286;20181105000314;NL;CH;Playout Final
+Do;29.03.2018;20:15;ZSC Lions;SC Bern; 3:4; 2:2|1:1|0:0|0:1;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000361;NL;CH;Playoff 1/2 Final
+Do;29.03.2018;20:15;HC Lugano;EHC Biel-Bienne; 1:2; 0:0|1:2|0:0;;Ende;False;Piste Resega, 6948 Porza Ti;7109;20181105000362;NL;CH;Playoff 1/2 Final
+Sa;31.03.2018;20:15;HC Ambri-Piotta;EHC Kloten; 4:2; 2:2|1:0|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;5855;20181105000315;NL;CH;Playout Final
+Sa;31.03.2018;20:15;SC Bern;ZSC Lions; 2:3; 1:1|0:1|1:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000363;NL;CH;Playoff 1/2 Final
+Sa;31.03.2018;20:15;EHC Biel-Bienne;HC Lugano; 3:6; 2:0|1:4|0:2;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000364;NL;CH;Playoff 1/2 Final
+Mo;02.04.2018;20:15;EHC Kloten;HC Ambri-Piotta; 2:3; 0:1|1:0|1:1|0:1;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;5175;20181105000316;NL;CH;Playout Final
+Mo;02.04.2018;20:15;ZSC Lions;SC Bern; 3:1; 2:0|0:0|1:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000365;NL;CH;Playoff 1/2 Final
+Mo;02.04.2018;20:15;HC Lugano;EHC Biel-Bienne; 5:1; 0:1|2:0|3:0;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000366;NL;CH;Playoff 1/2 Final
+Do;05.04.2018;20:15;HC Ambri-Piotta;EHC Kloten; 2:1; 2:0|0:1|0:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;6408;20181105000317;NL;CH;Playout Final
+Do;05.04.2018;20:15;SC Bern;ZSC Lions; 4:3; 1:1|3:2|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;20181105000367;NL;CH;Playoff 1/2 Final
+Do;05.04.2018;20:15;EHC Biel-Bienne;HC Lugano; 2:4; 0:0|0:3|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;20181105000368;NL;CH;Playoff 1/2 Final
+Sa;07.04.2018;20:15;ZSC Lions;SC Bern; 3:2; 1:2|1:0|0:0|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000369;NL;CH;Playoff 1/2 Final
+Sa;07.04.2018;20:15;HC Lugano;EHC Biel-Bienne; 6:2; 2:1|3:0|1:1;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000370;NL;CH;Playoff 1/2 Final
+Do;12.04.2018;20:15;EHC Kloten;SC Rapperswil-Jona Lakers; 1:4; 0:1|0:1|1:2;;Ende;False;SWISS Arena, 8302 Kloten ZH;7011;20181105000321;NL;CH;League Qualification
+Do;12.04.2018;20:15;HC Lugano;ZSC Lions; 0:1; 0:0|0:1|0:0;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000373;NL;CH;Playoff Final
+Sa;14.04.2018;20:15;SC Rapperswil-Jona Lakers;EHC Kloten; 4:0; 1:0|1:0|2:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;6011;20181105000322;NL;CH;League Qualification
+Sa;14.04.2018;20:15;ZSC Lions;HC Lugano; 5:4; 2:2|1:1|1:1|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000374;NL;CH;Playoff Final
+Mo;16.04.2018;20:15;HC Lugano;ZSC Lions; 3:0; 1:0|1:0|1:0;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000375;NL;CH;Playoff Final
+Di;17.04.2018;20:15;EHC Kloten;SC Rapperswil-Jona Lakers; 3:2; 0:1|1:0|1:1|0:0|0:0|1:0;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;6863;20181105000323;NL;CH;League Qualification
+Mi;18.04.2018;20:15;ZSC Lions;HC Lugano; 3:2; 0:2|1:0|1:0|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000376;NL;CH;Playoff Final
+Do;19.04.2018;20:15;SC Rapperswil-Jona Lakers;EHC Kloten; 0:4; 0:2|0:2|0:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;6100;20181105000324;NL;CH;League Qualification
+Sa;21.04.2018;20:15;EHC Kloten;SC Rapperswil-Jona Lakers; 4:3; 2:0|0:3|1:0|1:0;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;7624;20181105000325;NL;CH;League Qualification
+Sa;21.04.2018;20:15;HC Lugano;ZSC Lions; 4:0; 1:0|0:0|3:0;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000377;NL;CH;Playoff Final
+Mo;23.04.2018;20:15;SC Rapperswil-Jona Lakers;EHC Kloten; 2:1; 1:0|1:1|0:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;5742;20181105000326;NL;CH;League Qualification
+Mi;25.04.2018;20:15;EHC Kloten;SC Rapperswil-Jona Lakers; 1:2; 0:1|0:0|1:0|0:1;OT;Ende;False;SWISS Arena, 8302 Kloten ZH;7624;20181105000327;NL;CH;League Qualification
+Mi;25.04.2018;20:15;ZSC Lions;HC Lugano; 2:3; 0:1|1:0|1:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;20181105000378;NL;CH;Playoff Final
+Fr;27.04.2018;20:15;HC Lugano;ZSC Lions; 0:2; 0:1|0:0|0:1;;Ende;False;Piste Resega, 6948 Porza Ti;7200;20181105000379;NL;CH;Playoff Final

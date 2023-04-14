@@ -1,0 +1,352 @@
+﻿Tag;Datum;Zeit;Home;Away;Resultat;Drittel;OT/SO;Status;Versch.;Stadion;Zus.;Id;Liga;Region;Phase
+Mi;09.09.2015;19:45;ZSC Lions;SC Bern; 5:3; 1:0|2:3|2:0;;Ende;False;Hallenstadion AG, Zürich;9038;20161105071114;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;SC Bern;SCL Tigers; 7:1; 1:0|4:1|2:0;;Ende;False;PostFinance-Arena, Bern;17031;20161105071001;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;HC Davos;Fribourg-Gottéron; 4:5; 1:0|1:3|2:1|0:1;SO;Ende;False;Vaillant Arena, Davos;4488;20161105071002;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;Genève-Servette HC;HC Ambri-Piotta; 8:2; 1:2|4:0|3:0;;Ende;False;Les Vernets, Genève;5804;20161105071003;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;EHC Kloten;EHC Biel-Bienne; 3:7; 2:1|0:3|1:3;;Ende;False;SWISS Arena, Kloten;4152;20161105071004;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;HC Lugano;EV Zug; 2:5; 1:2|1:3|0:0;;Ende;False;Pista Resega, Porza;5732;20161105071005;NL A;CH;Regular Season
+Fr;11.09.2015;19:45;ZSC Lions;Lausanne HC; 1:0; 0:0|0:0|1:0;;Ende;False;Hallenstadion AG, Zürich;8248;20161105071006;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;HC Ambri-Piotta;ZSC Lions; 3:2; 2:1|0:1|0:0|1:0;SO;Ende;False;Stadio Valascia, Ambri;5923;20161105071007;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;EHC Biel-Bienne;SC Bern; 4:5; 2:1|2:1|0:2;OT;Ende;False;Tissot Arena, Biel-Bienne;6521;20161105071008;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;Fribourg-Gottéron;EHC Kloten; 6:3; 4:1|1:1|1:1;;Ende;False;BCF Arena, Fribourg;5585;20161105071009;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;SCL Tigers;Genève-Servette HC; 2:3; 0:2|1:0|1:1;;Ende;False;Ilfis Stadion, Langnau;5416;20161105071010;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;Lausanne HC;HC Lugano; 3:4; 2:1|0:2|1:0;OT;Ende;False;P. de Malley, Lausanne;6282;20161105071011;NL A;CH;Regular Season
+Sa;12.09.2015;19:45;EV Zug;HC Davos; 1:4; 0:0|1:2|0:2;;Ende;False;BOSSARD Arena, Zug;6862;20161105071012;NL A;CH;Regular Season
+Di;15.09.2015;19:45;HC Ambri-Piotta;SC Bern; 2:4; 0:1|1:1|1:2;;Ende;False;Stadio Valascia, Ambri;4465;20161105071013;NL A;CH;Regular Season
+Di;15.09.2015;19:45;EHC Biel-Bienne;ZSC Lions; 3:2; 1:1|1:0|1:1;;Ende;False;Tissot Arena, Biel-Bienne;5140;20161105071014;NL A;CH;Regular Season
+Di;15.09.2015;19:45;Fribourg-Gottéron;Genève-Servette HC; 4:2; 1:0|2:2|1:0;;Ende;False;BCF Arena, Fribourg;5475;20161105071015;NL A;CH;Regular Season
+Di;15.09.2015;19:45;SCL Tigers;Lausanne HC; 3:1; 2:0|1:0|0:1;;Ende;False;Ilfis Stadion, Langnau;5184;20161105071016;NL A;CH;Regular Season
+Di;15.09.2015;19:45;HC Lugano;HC Davos; 3:4; 1:2|0:0|2:1;OT;Ende;False;Pista Resega, Porza;5112;20161105071017;NL A;CH;Regular Season
+Di;15.09.2015;19:45;EV Zug;EHC Kloten; 4:3; 1:0|2:2|1:1;;Ende;False;BOSSARD Arena, Zug;5827;20161105071018;NL A;CH;Regular Season
+Fr;18.09.2015;19:45;SC Bern;EV Zug; 2:3; 0:1|1:1|1:1;;Ende;False;PostFinance-Arena, Bern;15456;20161105071019;NL A;CH;Regular Season
+Fr;18.09.2015;19:45;HC Davos;HC Ambri-Piotta; 3:4; 1:1|2:1|0:2;;Ende;False;Vaillant Arena, Davos;3890;20161105071020;NL A;CH;Regular Season
+Fr;18.09.2015;19:45;EHC Kloten;SCL Tigers; 3:2; 1:0|2:1|0:1;;Ende;False;SWISS Arena, Kloten;3614;20161105071022;NL A;CH;Regular Season
+Fr;18.09.2015;19:45;HC Lugano;EHC Biel-Bienne; 1:2; 0:2|1:0|0:0;;Ende;False;Pista Resega, Porza;5063;20161105071023;NL A;CH;Regular Season
+Fr;18.09.2015;19:45;ZSC Lions;Fribourg-Gottéron; 3:4; 2:0|1:2|0:1|0:1;SO;Ende;False;Hallenstadion AG, Zürich;8931;20161105071024;NL A;CH;Regular Season
+Fr;18.09.2015;19:47;Genève-Servette HC;Lausanne HC; 1:3; 0:1|1:2|0:0;;Ende;False;Les Vernets, Genève;6684;20161105071021;NL A;CH;Regular Season
+Sa;19.09.2015;19:45;EHC Biel-Bienne;HC Davos; 5:1; 2:0|2:0|1:1;;Ende;False;Tissot Arena, Biel-Bienne;6521;20161105071026;NL A;CH;Regular Season
+Sa;19.09.2015;19:45;Fribourg-Gottéron;SC Bern; 5:3; 2:1|1:0|2:2;;Ende;False;BCF Arena, Fribourg;6700;20161105071027;NL A;CH;Regular Season
+Sa;19.09.2015;19:45;SCL Tigers;ZSC Lions; 4:6; 1:3|1:1|2:2;;Ende;False;Ilfis Stadion, Langnau;5917;20161105071028;NL A;CH;Regular Season
+Sa;19.09.2015;19:45;Lausanne HC;EHC Kloten; 4:2; 3:0|0:1|1:1;;Ende;False;P. de Malley, Lausanne;5544;20161105071029;NL A;CH;Regular Season
+Sa;19.09.2015;19:45;EV Zug;Genève-Servette HC; 3:0; 2:0|0:0|1:0;;Ende;False;BOSSARD Arena, Zug;6446;20161105071030;NL A;CH;Regular Season
+Sa;19.09.2015;20:30;HC Ambri-Piotta;HC Lugano; 3:1; 2:0|0:1|1:0;;Ende;False;Stadio Valascia, Ambri;6500;20161105071025;NL A;CH;Regular Season
+Do;24.09.2015;19:45;HC Lugano;Genève-Servette HC; 5:1; 2:0|2:1|1:0;;Ende;False;Pista Resega, Porza;4887;20161105071041;NL A;CH;Regular Season
+Fr;25.09.2015;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 1:3; 0:2|1:0|0:1;;Ende;False;Stadio Valascia, Ambri;5157;20161105071031;NL A;CH;Regular Season
+Fr;25.09.2015;19:45;SCL Tigers;HC Lugano; 3:4; 0:1|2:0|1:2|0:1;SO;Ende;False;Ilfis Stadion, Langnau;5638;20161105071034;NL A;CH;Regular Season
+Fr;25.09.2015;19:45;Lausanne HC;EV Zug; 2:5; 0:0|1:2|1:3;;Ende;False;P. de Malley, Lausanne;5850;20161105071035;NL A;CH;Regular Season
+Fr;25.09.2015;19:45;ZSC Lions;EHC Kloten; 3:4; 0:2|1:1|2:1;;Ende;False;Hallenstadion AG, Zürich;9581;20161105071036;NL A;CH;Regular Season
+Fr;25.09.2015;19:48;Genève-Servette HC;EHC Biel-Bienne; 3:2; 1:0|0:1|2:1;;Ende;False;Les Vernets, Genève;5956;20161105071033;NL A;CH;Regular Season
+Sa;26.09.2015;19:45;SC Bern;ZSC Lions; 1:2; 0:1|1:1|0:0;;Ende;False;PostFinance-Arena, Bern;15503;20161105071037;NL A;CH;Regular Season
+Sa;26.09.2015;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 0:5; 0:2|0:1|0:2;;Ende;False;Tissot Arena, Biel-Bienne;5883;20161105071038;NL A;CH;Regular Season
+Sa;26.09.2015;19:45;Fribourg-Gottéron;Lausanne HC; 2:0; 1:0|0:0|1:0;;Ende;False;BCF Arena, Fribourg;6700;20161105071039;NL A;CH;Regular Season
+Sa;26.09.2015;19:45;EHC Kloten;HC Davos; 5:1; 0:1|5:0|0:0;;Ende;False;SWISS Arena, Kloten;4710;20161105071040;NL A;CH;Regular Season
+Sa;26.09.2015;19:45;EV Zug;SCL Tigers; 5:0; 4:0|1:0|0:0;;Ende;False;BOSSARD Arena, Zug;6622;20161105071042;NL A;CH;Regular Season
+So;27.09.2015;15:45;HC Davos;SC Bern; 3:1; 2:0|0:0|1:1;;Ende;False;Vaillant Arena, Davos;5048;20161105071032;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;HC Ambri-Piotta;EV Zug; 1:4; 0:3|0:1|1:0;;Ende;False;Stadio Valascia, Ambri;5256;20161105071043;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;HC Davos;SCL Tigers; 4:2; 1:1|1:0|2:1;;Ende;False;Vaillant Arena, Davos;4049;20161105071044;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 6:1; 1:0|1:0|4:1;;Ende;False;BCF Arena, Fribourg;6079;20161105071045;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;EHC Kloten;HC Lugano; 2:1; 1:0|0:0|0:1|1:0;SO;Ende;False;SWISS Arena, Kloten;5706;20161105071046;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;Lausanne HC;SC Bern; 1:4; 1:1|0:2|0:1;;Ende;False;P. de Malley, Lausanne;6715;20161105071047;NL A;CH;Regular Season
+Fr;02.10.2015;19:45;ZSC Lions;Genève-Servette HC; 0:4; 0:3|0:0|0:1;;Ende;False;Hallenstadion AG, Zürich;8347;20161105071048;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;SC Bern;EHC Kloten; 2:1; 1:0|0:1|1:0;;Ende;False;PostFinance-Arena, Bern;15364;20161105071049;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;EHC Biel-Bienne;Lausanne HC; 0:2; 0:0|0:0|0:2;;Ende;False;Tissot Arena, Biel-Bienne;5565;20161105071050;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;Genève-Servette HC;HC Davos; 2:4; 0:1|1:0|1:3;;Ende;False;Les Vernets, Genève;6497;20161105071051;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;SCL Tigers;HC Ambri-Piotta; 4:2; 2:1|0:1|2:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071052;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;HC Lugano;Fribourg-Gottéron; 4:1; 3:0|0:0|1:1;;Ende;False;Pista Resega, Porza;5461;20161105071053;NL A;CH;Regular Season
+Sa;03.10.2015;19:45;EV Zug;ZSC Lions; 1:3; 1:1|0:0|0:2;;Ende;False;BOSSARD Arena, Zug;6788;20161105071054;NL A;CH;Regular Season
+Di;06.10.2015;19:45;Lausanne HC;HC Ambri-Piotta; 2:1; 1:0|1:0|0:1;;Ende;False;P. de Malley, Lausanne;6211;20161105071059;NL A;CH;Regular Season
+Fr;09.10.2015;19:45;SC Bern;HC Lugano; 3:1; 2:1|0:0|1:0;;Ende;False;PostFinance-Arena, Bern;15801;20161105071055;NL A;CH;Regular Season
+Fr;09.10.2015;19:45;EHC Biel-Bienne;SCL Tigers; 2:5; 2:2|0:1|0:2;;Ende;False;Tissot Arena, Biel-Bienne;6374;20161105071056;NL A;CH;Regular Season
+Fr;09.10.2015;19:45;Fribourg-Gottéron;EV Zug; 6:3; 3:1|1:2|2:0;;Ende;False;BCF Arena, Fribourg;5819;20161105071057;NL A;CH;Regular Season
+Fr;09.10.2015;19:45;EHC Kloten;Genève-Servette HC; 3:1; 1:1|1:0|1:0;;Ende;False;SWISS Arena, Kloten;3328;20161105071058;NL A;CH;Regular Season
+Fr;09.10.2015;19:45;ZSC Lions;HC Davos; 3:2; 1:1|1:0|1:1;;Ende;False;Hallenstadion AG, Zürich;9947;20161105071060;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;HC Ambri-Piotta;EHC Kloten; 1:4; 0:2|0:0|1:2;;Ende;False;Stadio Valascia, Ambri;5236;20161105071061;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;HC Davos;Lausanne HC; 2:4; 2:0|0:3|0:1;;Ende;False;Vaillant Arena, Davos;4718;20161105071062;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;Genève-Servette HC;SC Bern; 5:4; 2:1|1:0|2:3;;Ende;False;Les Vernets, Genève;6599;20161105071063;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;SCL Tigers;Fribourg-Gottéron; 5:2; 1:0|1:0|3:2;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071064;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;HC Lugano;ZSC Lions; 2:3; 1:1|1:1|0:0;OT;Ende;False;Pista Resega, Porza;5634;20161105071065;NL A;CH;Regular Season
+Sa;10.10.2015;19:45;EV Zug;EHC Biel-Bienne; 3:4; 1:0|1:2|1:1|0:1;SO;Ende;False;BOSSARD Arena, Zug;5917;20161105071066;NL A;CH;Regular Season
+Di;13.10.2015;19:45;SC Bern;Genève-Servette HC; 3:2; 1:1|1:0|0:1|1:0;SO;Ende;False;PostFinance-Arena, Bern;15056;20161105071067;NL A;CH;Regular Season
+Di;13.10.2015;19:45;EHC Biel-Bienne;EV Zug; 2:3; 1:0|0:2|1:1;;Ende;False;Tissot Arena, Biel-Bienne;5351;20161105071068;NL A;CH;Regular Season
+Di;13.10.2015;19:45;Fribourg-Gottéron;SCL Tigers; 2:1; 0:0|1:0|1:1;;Ende;False;BCF Arena, Fribourg;5606;20161105071069;NL A;CH;Regular Season
+Di;13.10.2015;19:45;EHC Kloten;HC Ambri-Piotta; 2:5; 0:2|2:2|0:1;;Ende;False;SWISS Arena, Kloten;3896;20161105071070;NL A;CH;Regular Season
+Di;13.10.2015;19:45;Lausanne HC;HC Davos; 1:6; 1:0|0:4|0:2;;Ende;False;P. de Malley, Lausanne;6747;20161105071071;NL A;CH;Regular Season
+Di;13.10.2015;19:45;ZSC Lions;HC Lugano; 5:3; 0:1|4:1|1:1;;Ende;False;Hallenstadion AG, Zürich;9109;20161105071072;NL A;CH;Regular Season
+Do;15.10.2015;19:45;Genève-Servette HC;SCL Tigers; 4:0; 2:0|2:0|0:0;;Ende;False;Les Vernets, Genève;5981;20161105071081;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;HC Ambri-Piotta;Genève-Servette HC; 5:2; 1:1|1:1|3:0;;Ende;False;Stadio Valascia, Ambri;5080;20161105071073;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;EHC Biel-Bienne;EHC Kloten; 3:2; 3:1|0:0|0:1;;Ende;False;Tissot Arena, Biel-Bienne;5519;20161105071074;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;Fribourg-Gottéron;HC Davos; 4:2; 1:1|0:1|3:0;;Ende;False;BCF Arena, Fribourg;6173;20161105071075;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;SCL Tigers;SC Bern; 4:2; 1:2|2:0|1:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071076;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;Lausanne HC;ZSC Lions; 1:2; 1:0|0:0|0:1;OT;Ende;False;P. de Malley, Lausanne;6447;20161105071077;NL A;CH;Regular Season
+Fr;16.10.2015;19:45;EV Zug;HC Lugano; 5:1; 2:0|3:0|0:1;;Ende;False;BOSSARD Arena, Zug;6626;20161105071078;NL A;CH;Regular Season
+Sa;17.10.2015;19:45;SC Bern;EHC Biel-Bienne; 4:1; 1:0|2:1|1:0;;Ende;False;PostFinance-Arena, Bern;15903;20161105071079;NL A;CH;Regular Season
+Sa;17.10.2015;19:45;HC Davos;EV Zug; 2:3; 0:0|0:2|2:0;OT;Ende;False;Vaillant Arena, Davos;4705;20161105071080;NL A;CH;Regular Season
+Sa;17.10.2015;19:45;EHC Kloten;Fribourg-Gottéron; 3:1; 1:1|1:0|1:0;;Ende;False;SWISS Arena, Kloten;4054;20161105071082;NL A;CH;Regular Season
+Sa;17.10.2015;19:45;HC Lugano;Lausanne HC; 2:0; 0:0|1:0|1:0;;Ende;False;Pista Resega, Porza;5534;20161105071083;NL A;CH;Regular Season
+Sa;17.10.2015;19:45;ZSC Lions;HC Ambri-Piotta; 5:2; 3:1|1:1|1:0;;Ende;False;Hallenstadion AG, Zürich;9544;20161105071084;NL A;CH;Regular Season
+Di;20.10.2015;19:45;SC Bern;HC Ambri-Piotta; 6:3; 0:2|1:1|5:0;;Ende;False;PostFinance-Arena, Bern;14952;20161105071085;NL A;CH;Regular Season
+Di;20.10.2015;19:45;HC Davos;HC Lugano; 5:0; 0:0|2:0|3:0;;Ende;False;Vaillant Arena, Davos;3989;20161105071086;NL A;CH;Regular Season
+Di;20.10.2015;19:45;Genève-Servette HC;Fribourg-Gottéron; 3:5; 0:1|1:2|2:2;;Ende;False;Les Vernets, Genève;6778;20161105071087;NL A;CH;Regular Season
+Di;20.10.2015;19:45;Lausanne HC;SCL Tigers; 4:3; 0:0|0:1|3:2;OT;Ende;False;P. de Malley, Lausanne;6644;20161105071089;NL A;CH;Regular Season
+Di;20.10.2015;20:05;EHC Kloten;EV Zug; 3:1; 0:0|1:1|2:0;;Ende;False;SWISS Arena, Kloten;3589;20161105071088;NL A;CH;Regular Season
+Di;20.10.2015;21:05;ZSC Lions;EHC Biel-Bienne; 6:1; 2:1|3:0|1:0;;Ende;False;Hallenstadion AG, Zürich;8837;20161105071090;NL A;CH;Regular Season
+Fr;23.10.2015;19:45;HC Ambri-Piotta;HC Davos; 4:5; 0:2|3:2|1:1;;Ende;False;Stadio Valascia, Ambri;5128;20161105071091;NL A;CH;Regular Season
+Fr;23.10.2015;19:45;EHC Biel-Bienne;HC Lugano; 5:1; 2:0|1:1|2:0;;Ende;False;Tissot Arena, Biel-Bienne;5665;20161105071092;NL A;CH;Regular Season
+Fr;23.10.2015;19:45;Fribourg-Gottéron;ZSC Lions; 3:1; 0:0|1:1|2:0;;Ende;False;BCF Arena, Fribourg;6157;20161105071093;NL A;CH;Regular Season
+Fr;23.10.2015;19:45;SCL Tigers;EHC Kloten; 4:5; 0:3|2:1|2:1;;Ende;False;Ilfis Stadion, Langnau;5842;20161105071094;NL A;CH;Regular Season
+Fr;23.10.2015;19:45;EV Zug;SC Bern; 3:0; 1:0|2:0|0:0;;Ende;False;BOSSARD Arena, Zug;6570;20161105071096;NL A;CH;Regular Season
+Sa;24.10.2015;19:45;SC Bern;Fribourg-Gottéron; 5:1; 1:0|3:1|1:0;;Ende;False;PostFinance-Arena, Bern;16974;20161105071097;NL A;CH;Regular Season
+Sa;24.10.2015;19:45;HC Davos;EHC Biel-Bienne; 6:3; 1:1|2:0|3:2;;Ende;False;Vaillant Arena, Davos;4341;20161105071098;NL A;CH;Regular Season
+Sa;24.10.2015;19:45;Genève-Servette HC;EV Zug; 4:3; 2:0|1:1|0:2|1:0;SO;Ende;False;Les Vernets, Genève;6453;20161105071099;NL A;CH;Regular Season
+Sa;24.10.2015;19:45;EHC Kloten;Lausanne HC; 4:5; 1:1|2:2|1:2;;Ende;False;SWISS Arena, Kloten;3657;20161105071100;NL A;CH;Regular Season
+Sa;24.10.2015;20:30;HC Lugano;HC Ambri-Piotta; 6:3; 3:2|0:0|3:1;;Ende;False;Pista Resega, Porza;7800;20161105071101;NL A;CH;Regular Season
+So;25.10.2015;15:45;ZSC Lions;SCL Tigers; 6:3; 2:1|1:1|3:1;;Ende;False;Hallenstadion AG, Zürich;10430;20161105071102;NL A;CH;Regular Season
+Fr;30.10.2015;19:45;SC Bern;HC Davos; 2:5; 0:2|1:1|1:2;;Ende;False;PostFinance-Arena, Bern;16895;20161105071103;NL A;CH;Regular Season
+Fr;30.10.2015;19:45;EHC Biel-Bienne;Genève-Servette HC; 2:3; 0:1|2:0|0:1|0:1;SO;Ende;False;Tissot Arena, Biel-Bienne;5111;20161105071104;NL A;CH;Regular Season
+Fr;30.10.2015;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 2:5; 2:2|0:2|0:1;;Ende;False;BCF Arena, Fribourg;6425;20161105071105;NL A;CH;Regular Season
+Fr;30.10.2015;19:45;EHC Kloten;ZSC Lions; 3:5; 0:1|2:2|1:2;;Ende;False;SWISS Arena, Kloten;6124;20161105071106;NL A;CH;Regular Season
+Fr;30.10.2015;19:45;HC Lugano;SCL Tigers; 4:2; 1:2|0:0|3:0;;Ende;False;Pista Resega, Porza;5227;20161105071107;NL A;CH;Regular Season
+Sa;31.10.2015;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 2:3; 2:0|0:1|0:1;OT;Ende;False;Stadio Valascia, Ambri;5207;20161105071109;NL A;CH;Regular Season
+Sa;31.10.2015;19:45;HC Davos;EHC Kloten; 3:1; 2:0|0:0|1:1;;Ende;False;Vaillant Arena, Davos;4725;20161105071110;NL A;CH;Regular Season
+Sa;31.10.2015;19:45;Genève-Servette HC;HC Lugano; 4:2; 2:1|1:1|1:0;;Ende;False;Les Vernets, Genève;6513;20161105071111;NL A;CH;Regular Season
+Sa;31.10.2015;19:45;Lausanne HC;Fribourg-Gottéron; 4:1; 1:0|2:0|1:1;;Ende;False;P. de Malley, Lausanne;7140;20161105071113;NL A;CH;Regular Season
+Di;10.11.2015;19:45;Lausanne HC;HC Lugano; 2:6; 2:1|0:2|0:3;;Ende;False;P. de Malley, Lausanne;6687;20161105071155;NL A;CH;Regular Season
+Do;12.11.2015;19:45;Genève-Servette HC;ZSC Lions; 4:3; 1:1|1:1|1:1|1:0;SO;Ende;False;Les Vernets, Genève;6406;20161105071117;NL A;CH;Regular Season
+Fr;13.11.2015;19:45;SC Bern;Lausanne HC; 2:5; 0:2|0:2|2:1;;Ende;False;PostFinance-Arena, Bern;15803;20161105071115;NL A;CH;Regular Season
+Fr;13.11.2015;19:45;EHC Biel-Bienne;Fribourg-Gottéron; 1:3; 1:1|0:1|0:1;;Ende;False;Tissot Arena, Biel-Bienne;6521;20161105071116;NL A;CH;Regular Season
+Fr;13.11.2015;19:45;SCL Tigers;HC Davos; 6:0; 2:0|1:0|3:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071118;NL A;CH;Regular Season
+Fr;13.11.2015;19:45;HC Lugano;EHC Kloten; 3:2; 1:1|1:0|1:1;;Ende;False;Pista Resega, Porza;5426;20161105071119;NL A;CH;Regular Season
+Fr;13.11.2015;19:45;EV Zug;HC Ambri-Piotta; 5:0; 2:0|2:0|1:0;;Ende;False;BOSSARD Arena, Zug;6726;20161105071120;NL A;CH;Regular Season
+Sa;14.11.2015;19:45;HC Ambri-Piotta;SCL Tigers; 4:2; 1:1|2:0|1:1;;Ende;False;Stadio Valascia, Ambri;5217;20161105071121;NL A;CH;Regular Season
+Sa;14.11.2015;19:45;HC Davos;Genève-Servette HC; 2:3; 0:2|1:1|1:0;;Ende;False;Vaillant Arena, Davos;4345;20161105071122;NL A;CH;Regular Season
+Sa;14.11.2015;19:45;Fribourg-Gottéron;HC Lugano; 3:1; 0:0|2:1|1:0;;Ende;False;BCF Arena, Fribourg;6221;20161105071123;NL A;CH;Regular Season
+Sa;14.11.2015;19:45;EHC Kloten;SC Bern; 4:2; 2:1|0:0|2:1;;Ende;False;SWISS Arena, Kloten;5154;20161105071124;NL A;CH;Regular Season
+Sa;14.11.2015;19:45;Lausanne HC;EHC Biel-Bienne; 3:2; 1:0|1:2|1:0;;Ende;False;P. de Malley, Lausanne;6553;20161105071125;NL A;CH;Regular Season
+So;15.11.2015;15:45;ZSC Lions;EV Zug; 5:3; 1:0|1:2|3:1;;Ende;False;Hallenstadion AG, Zürich;11200;20161105071126;NL A;CH;Regular Season
+Di;17.11.2015;19:45;HC Ambri-Piotta;Lausanne HC; 4:1; 1:0|1:1|2:0;;Ende;False;Stadio Valascia, Ambri;4280;20161105071127;NL A;CH;Regular Season
+Di;17.11.2015;19:45;HC Davos;ZSC Lions; 4:2; 1:0|1:2|2:0;;Ende;False;Vaillant Arena, Davos;4445;20161105071128;NL A;CH;Regular Season
+Di;17.11.2015;19:45;Genève-Servette HC;EHC Kloten; 3:1; 0:0|2:0|1:1;;Ende;False;Les Vernets, Genève;5855;20161105071129;NL A;CH;Regular Season
+Di;17.11.2015;19:45;SCL Tigers;EHC Biel-Bienne; 7:0; 1:0|5:0|1:0;;Ende;False;Ilfis Stadion, Langnau;5945;20161105071130;NL A;CH;Regular Season
+Di;17.11.2015;19:45;HC Lugano;SC Bern; 6:3; 1:0|3:2|2:1;;Ende;False;Pista Resega, Porza;5236;20161105071131;NL A;CH;Regular Season
+Di;17.11.2015;19:45;EV Zug;Fribourg-Gottéron; 3:2; 2:1|0:0|1:1;;Ende;False;BOSSARD Arena, Zug;6098;20161105071132;NL A;CH;Regular Season
+Fr;20.11.2015;19:45;SC Bern;Fribourg-Gottéron; 4:2; 2:0|0:2|2:0;;Ende;False;PostFinance-Arena, Bern;16228;20161105071133;NL A;CH;Regular Season
+Fr;20.11.2015;19:45;EHC Biel-Bienne;EV Zug; 0:6; 0:1|0:3|0:2;;Ende;False;Tissot Arena, Biel-Bienne;5535;20161105071134;NL A;CH;Regular Season
+Fr;20.11.2015;19:45;Genève-Servette HC;Lausanne HC; 3:0; 2:0|1:0|0:0;;Ende;False;Les Vernets, Genève;7018;20161105071135;NL A;CH;Regular Season
+Fr;20.11.2015;19:45;EHC Kloten;ZSC Lions; 4:3; 1:2|3:1|0:0;;Ende;False;SWISS Arena, Kloten;5739;20161105071136;NL A;CH;Regular Season
+Fr;20.11.2015;19:45;SCL Tigers;HC Davos; 3:6; 0:4|1:1|2:1;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071137;NL A;CH;Regular Season
+Sa;21.11.2015;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 2:1; 0:0|1:0|1:1;;Ende;False;Stadio Valascia, Ambri;5153;20161105071139;NL A;CH;Regular Season
+Sa;21.11.2015;19:45;Fribourg-Gottéron;Genève-Servette HC; 2:4; 0:1|1:1|1:2;;Ende;False;BCF Arena, Fribourg;6189;20161105071141;NL A;CH;Regular Season
+Sa;21.11.2015;19:45;Lausanne HC;SC Bern; 0:1; 0:0|0:0|0:1;;Ende;False;P. de Malley, Lausanne;6383;20161105071142;NL A;CH;Regular Season
+Sa;21.11.2015;19:45;EV Zug;HC Lugano; 3:4; 0:0|2:4|1:0;;Ende;False;BOSSARD Arena, Zug;6550;20161105071144;NL A;CH;Regular Season
+Sa;21.11.2015;20:00;HC Davos;EHC Kloten; 3:1; 1:0|1:0|1:1;;Ende;False;Vaillant Arena, Davos;5010;20161105071140;NL A;CH;Regular Season
+Mo;23.11.2015;19:45;ZSC Lions;SCL Tigers; 2:1; 0:0|2:1|0:0;;Ende;False;Hallenstadion AG, Zürich;9040;20161105071143;NL A;CH;Regular Season
+Fr;27.11.2015;19:45;SC Bern;SCL Tigers; 5:6; 0:0|4:3|1:2|0:1;SO;Ende;False;PostFinance-Arena, Bern;16956;20161105071145;NL A;CH;Regular Season
+Fr;27.11.2015;19:45;HC Lugano;EV Zug; 1:2; 0:1|0:0|1:1;;Ende;False;Pista Resega, Porza;5675;20161105071149;NL A;CH;Regular Season
+Fr;27.11.2015;19:45;ZSC Lions;Lausanne HC; 2:0; 0:0|1:0|1:0;;Ende;False;Hallenstadion AG, Zürich;9218;20161105071150;NL A;CH;Regular Season
+Sa;28.11.2015;19:45;HC Ambri-Piotta;ZSC Lions; 1:4; 0:1|1:3|0:0;;Ende;False;Stadio Valascia, Ambri;5028;20161105071151;NL A;CH;Regular Season
+Sa;28.11.2015;19:45;HC Davos;SC Bern; 4:3; 2:0|1:1|0:2;OT;Ende;False;Vaillant Arena, Davos;6027;20161105071152;NL A;CH;Regular Season
+Sa;28.11.2015;19:45;Fribourg-Gottéron;EHC Kloten; 5:2; 2:1|0:0|3:1;;Ende;False;BCF Arena, Fribourg;6095;20161105071153;NL A;CH;Regular Season
+Sa;28.11.2015;19:45;SCL Tigers;Genève-Servette HC; 4:3; 1:1|2:0|0:2;OT;Ende;False;Ilfis Stadion, Langnau;5883;20161105071154;NL A;CH;Regular Season
+Sa;28.11.2015;19:45;EV Zug;EHC Biel-Bienne; 5:2; 0:0|2:2|3:0;;Ende;False;BOSSARD Arena, Zug;6206;20161105071156;NL A;CH;Regular Season
+So;29.11.2015;15:45;EHC Biel-Bienne;Fribourg-Gottéron; 5:4; 1:3|1:0|2:1|1:0;SO;Ende;False;Tissot Arena, Biel-Bienne;6521;20161105071146;NL A;CH;Regular Season
+So;29.11.2015;15:45;EHC Kloten;HC Ambri-Piotta; 7:4; 1:1|3:1|3:2;;Ende;False;SWISS Arena, Kloten;5156;20161105071148;NL A;CH;Regular Season
+Di;01.12.2015;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 3:6; 1:3|1:0|1:3;;Ende;False;Tissot Arena, Biel-Bienne;5577;20161105071157;NL A;CH;Regular Season
+Di;01.12.2015;19:45;Genève-Servette HC;SC Bern; 4:2; 1:0|2:0|1:2;;Ende;False;Les Vernets, Genève;6477;20161105071158;NL A;CH;Regular Season
+Di;01.12.2015;19:45;SCL Tigers;ZSC Lions; 1:5; 0:1|1:3|0:1;;Ende;False;Ilfis Stadion, Langnau;5344;20161105071159;NL A;CH;Regular Season
+Di;01.12.2015;19:45;Lausanne HC;Fribourg-Gottéron; 6:3; 2:1|1:1|3:1;;Ende;False;P. de Malley, Lausanne;6951;20161105071160;NL A;CH;Regular Season
+Di;01.12.2015;19:45;HC Lugano;EHC Kloten; 4:3; 2:1|2:2|0:0;;Ende;False;Pista Resega, Porza;5068;20161105071161;NL A;CH;Regular Season
+Fr;04.12.2015;19:45;SC Bern;EHC Biel-Bienne; 4:3; 1:1|0:1|3:1;;Ende;False;PostFinance-Arena, Bern;15678;20161105071164;NL A;CH;Regular Season
+Fr;04.12.2015;19:45;HC Davos;Lausanne HC; 7:5; 2:1|2:1|3:3;;Ende;False;Vaillant Arena, Davos;4044;20161105071165;NL A;CH;Regular Season
+Fr;04.12.2015;19:45;Fribourg-Gottéron;HC Lugano; 3:4; 1:2|0:1|2:0|0:1;SO;Ende;False;BCF Arena, Fribourg;5703;20161105071166;NL A;CH;Regular Season
+Fr;04.12.2015;19:45;EHC Kloten;SCL Tigers; 4:2; 1:1|2:0|1:1;;Ende;False;SWISS Arena, Kloten;3840;20161105071167;NL A;CH;Regular Season
+Fr;04.12.2015;19:45;ZSC Lions;EV Zug; 5:1; 0:0|3:1|2:0;;Ende;False;Hallenstadion AG, Zürich;9555;20161105071168;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;EHC Biel-Bienne;HC Davos; 1:5; 0:3|0:0|1:2;;Ende;False;Tissot Arena, Biel-Bienne;6392;20161105071169;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;Genève-Servette HC;ZSC Lions; 3:1; 0:0|2:1|1:0;;Ende;False;Les Vernets, Genève;6856;20161105071170;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;SCL Tigers;HC Ambri-Piotta; 2:1; 1:1|1:0|0:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071171;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;Lausanne HC;EHC Kloten; 2:1; 1:1|0:0|1:0;;Ende;False;P. de Malley, Lausanne;6374;20161105071172;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;HC Lugano;SC Bern; 4:2; 2:1|0:1|2:0;;Ende;False;Pista Resega, Porza;5618;20161105071173;NL A;CH;Regular Season
+Sa;05.12.2015;19:45;EV Zug;Fribourg-Gottéron; 3:2; 2:2|0:0|0:0|1:0;SO;Ende;False;BOSSARD Arena, Zug;6606;20161105071174;NL A;CH;Regular Season
+So;06.12.2015;15:45;HC Ambri-Piotta;Genève-Servette HC; 5:3; 0:1|1:2|4:0;;Ende;False;Stadio Valascia, Ambri;5343;20161105071163;NL A;CH;Regular Season
+Di;08.12.2015;19:45;HC Lugano;EHC Biel-Bienne; 3:1; 0:0|0:0|3:1;;Ende;False;Pista Resega, Porza;4943;20161105071179;NL A;CH;Regular Season
+Di;08.12.2015;19:45;ZSC Lions;Fribourg-Gottéron; 4:1; 1:0|1:1|2:0;;Ende;False;Hallenstadion AG, Zürich;9718;20161105071180;NL A;CH;Regular Season
+Di;08.12.2015;20:00;SC Bern;Lausanne HC; 2:3; 0:1|2:0|0:1|0:1;SO;Ende;False;PostFinance-Arena, Bern;14967;20161105071176;NL A;CH;Regular Season
+Fr;11.12.2015;19:45;SC Bern;HC Ambri-Piotta; 3:5; 0:1|2:3|1:1;;Ende;False;PostFinance-Arena, Bern;15881;20161105071181;NL A;CH;Regular Season
+Fr;11.12.2015;19:45;EHC Biel-Bienne;Lausanne HC; 1:2; 0:1|1:0|0:1;;Ende;False;Tissot Arena, Biel-Bienne;5315;20161105071182;NL A;CH;Regular Season
+Fr;11.12.2015;19:45;Fribourg-Gottéron;HC Davos; 1:9; 0:1|0:5|1:3;;Ende;False;BCF Arena, Fribourg;5991;20161105071183;NL A;CH;Regular Season
+Fr;11.12.2015;19:45;EHC Kloten;ZSC Lions; 3:1; 1:0|1:0|1:1;;Ende;False;SWISS Arena, Kloten;5677;20161105071185;NL A;CH;Regular Season
+Fr;11.12.2015;19:45;SCL Tigers;HC Lugano; 1:4; 0:2|0:1|1:1;;Ende;False;Ilfis Stadion, Langnau;5873;20161105071186;NL A;CH;Regular Season
+Fr;11.12.2015;20:15;Genève-Servette HC;EV Zug; 4:2; 0:1|3:0|1:1;;Ende;False;Les Vernets, Genève;6469;20161105071184;NL A;CH;Regular Season
+Sa;12.12.2015;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 3:1; 0:0|2:1|1:0;;Ende;False;Stadio Valascia, Ambri;4896;20161105071187;NL A;CH;Regular Season
+Sa;12.12.2015;19:45;HC Davos;EHC Kloten; 3:2; 1:0|1:1|1:1;;Ende;False;Vaillant Arena, Davos;5463;20161105071188;NL A;CH;Regular Season
+Sa;12.12.2015;19:45;Lausanne HC;SCL Tigers; 6:3; 0:0|2:1|4:2;;Ende;False;P. de Malley, Lausanne;6129;20161105071189;NL A;CH;Regular Season
+Sa;12.12.2015;19:45;HC Lugano;Genève-Servette HC; 7:2; 2:2|3:0|2:0;;Ende;False;Pista Resega, Porza;5335;20161105071190;NL A;CH;Regular Season
+Sa;12.12.2015;19:45;EV Zug;SC Bern; 5:6; 2:2|1:3|2:1;;Ende;False;BOSSARD Arena, Zug;6751;20161105071192;NL A;CH;Regular Season
+So;13.12.2015;15:45;ZSC Lions;EHC Biel-Bienne; 2:5; 0:0|1:3|1:2;;Ende;False;Hallenstadion AG, Zürich;10240;20161105071191;NL A;CH;Regular Season
+Mo;14.12.2015;19:45;Lausanne HC;Genève-Servette HC; 5:1; 1:0|3:1|1:0;;Ende;False;P. de Malley, Lausanne;7600;20161105071095;NL A;CH;Regular Season
+Mo;14.12.2015;19:45;HC Davos;EHC Biel-Bienne; 2:5; 1:0|1:4|0:1;;Ende;False;Vaillant Arena, Davos;3554;20161105071249;NL A;CH;Regular Season
+Di;22.12.2015;19:45;EHC Biel-Bienne;EHC Kloten; 2:3; 2:1|0:1|0:0;OT;Ende;False;Tissot Arena 1, Biel-Bienne;5940;20161105071193;NL A;CH;Regular Season
+Di;22.12.2015;19:45;HC Davos;HC Ambri-Piotta; 2:1; 1:0|0:0|0:1;OT;Ende;False;Vaillant Arena, Davos;5587;20161105071194;NL A;CH;Regular Season
+Di;22.12.2015;19:45;Fribourg-Gottéron;SC Bern; 1:3; 0:1|1:2|0:0;;Ende;False;BCF Arena, Fribourg;6700;20161105071195;NL A;CH;Regular Season
+Di;22.12.2015;19:45;Lausanne HC;Genève-Servette HC; 0:3; 0:0|0:0|0:3;;Ende;False;P. de Malley, Lausanne;7600;20161105071196;NL A;CH;Regular Season
+Di;22.12.2015;19:45;ZSC Lions;HC Lugano; 4:2; 1:0|2:1|1:1;;Ende;False;Hallenstadion AG, Zürich;11022;20161105071197;NL A;CH;Regular Season
+Di;22.12.2015;19:45;EV Zug;SCL Tigers; 2:3; 0:0|1:1|1:1|0:1;SO;Ende;False;BOSSARD Arena, Zug;7015;20161105071198;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;HC Ambri-Piotta;Lausanne HC; 5:2; 2:1|1:0|2:1;;Ende;False;Stadio Valascia, Ambri;6350;20161105071199;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;SC Bern;ZSC Lions; 6:5; 1:0|2:3|2:2|1:0;SO;Ende;False;PostFinance-Arena, Bern;16912;20161105071200;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;Genève-Servette HC;Fribourg-Gottéron; 5:2; 3:1|1:1|1:0;;Ende;False;Les Vernets, Genève;7076;20161105071201;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;EHC Kloten;EV Zug; 4:7; 1:3|1:0|2:4;;Ende;False;SWISS Arena, Kloten;4952;20161105071202;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;SCL Tigers;EHC Biel-Bienne; 3:4; 1:2|2:0|0:1;OT;Ende;False;Ilfis Stadion, Langnau;6000;20161105071203;NL A;CH;Regular Season
+Mi;23.12.2015;19:45;HC Lugano;HC Davos; 3:2; 1:0|0:1|2:1;;Ende;False;Pista Resega, Porza;6491;20161105071204;NL A;CH;Regular Season
+Sa;02.01.2016;15:45;SC Bern;EHC Kloten; 4:5; 1:1|1:2|2:1;OT;Ende;False;PostFinance-Arena, Bern;16543;20161105071205;NL A;CH;Regular Season
+Sa;02.01.2016;15:45;Fribourg-Gottéron;SCL Tigers; 2:3; 1:0|1:0|0:2;OT;Ende;False;BCF Arena, Fribourg;6700;20161105071206;NL A;CH;Regular Season
+Sa;02.01.2016;15:45;Genève-Servette HC;EHC Biel-Bienne; 5:1; 2:0|2:1|1:0;;Ende;False;Les Vernets, Genève;6435;20161105071207;NL A;CH;Regular Season
+Sa;02.01.2016;19:45;ZSC Lions;HC Davos; 4:0; 2:0|1:0|1:0;;Ende;False;Hallenstadion AG, Zürich;11200;20161105071209;NL A;CH;Regular Season
+Sa;02.01.2016;19:45;EV Zug;Lausanne HC; 3:4; 0:1|3:2|0:0;OT;Ende;False;BOSSARD Arena, Zug;6387;20161105071210;NL A;CH;Regular Season
+Sa;02.01.2016;20:30;HC Lugano;HC Ambri-Piotta; 3:2; 0:0|1:1|1:1|1:0;SO;Ende;False;Pista Resega, Porza;7800;20161105071208;NL A;CH;Regular Season
+So;03.01.2016;15:45;EHC Biel-Bienne;Genève-Servette HC; 4:5; 2:1|2:2|0:1;OT;Ende;False;Tissot Arena 1, Biel-Bienne;5989;20161105071212;NL A;CH;Regular Season
+So;03.01.2016;15:45;HC Davos;ZSC Lions; 2:1; 0:0|1:1|1:0;;Ende;False;Vaillant Arena, Davos;5838;20161105071213;NL A;CH;Regular Season
+So;03.01.2016;15:45;EHC Kloten;SC Bern; 2:3; 0:1|1:0|1:1;OT;Ende;False;SWISS Arena, Kloten;5185;20161105071214;NL A;CH;Regular Season
+So;03.01.2016;15:45;Lausanne HC;EV Zug; 4:2; 1:0|1:0|2:2;;Ende;False;P. de Malley, Lausanne;7600;20161105071215;NL A;CH;Regular Season
+So;03.01.2016;15:45;SCL Tigers;Fribourg-Gottéron; 3:2; 1:1|1:1|0:0;OT;Ende;False;Ilfis Stadion, Langnau;6000;20161105071216;NL A;CH;Regular Season
+So;03.01.2016;16:00;HC Ambri-Piotta;HC Lugano; 3:2; 1:0|0:2|2:0;;Ende;False;Stadio Valascia, Ambri;6500;20161105071211;NL A;CH;Regular Season
+Fr;08.01.2016;19:45;Fribourg-Gottéron;Lausanne HC; 4:1; 1:1|0:0|3:0;;Ende;False;BCF Arena, Fribourg;6500;20161105071218;NL A;CH;Regular Season
+Fr;08.01.2016;19:45;SCL Tigers;ZSC Lions; 0:7; 0:1|0:3|0:3;;Ende;False;Ilfis Stadion, Langnau;5900;20161105071220;NL A;CH;Regular Season
+Fr;08.01.2016;19:45;EV Zug;HC Ambri-Piotta; 4:3; 1:1|2:1|0:1;OT;Ende;False;BOSSARD Arena, Zug;6618;20161105071222;NL A;CH;Regular Season
+Fr;08.01.2016;19:49;EHC Kloten;HC Davos; 3:4; 0:1|3:2|0:0;OT;Ende;False;SWISS Arena, Kloten;6284;20161105071219;NL A;CH;Regular Season
+Sa;09.01.2016;19:45;HC Ambri-Piotta;EV Zug; 2:4; 1:2|1:1|0:1;;Ende;False;Stadio Valascia, Ambri;5737;20161105071223;NL A;CH;Regular Season
+Sa;09.01.2016;19:45;EHC Biel-Bienne;HC Lugano; 2:3; 0:1|0:2|2:0;;Ende;False;Tissot Arena 1, Biel-Bienne;5884;20161105071224;NL A;CH;Regular Season
+Sa;09.01.2016;19:45;HC Davos;SCL Tigers; 1:3; 1:0|0:2|0:1;;Ende;False;Vaillant Arena, Davos;5236;20161105071225;NL A;CH;Regular Season
+Sa;09.01.2016;19:45;SC Bern;Genève-Servette HC; 3:4; 0:2|2:1|1:0;OT;Ende;False;PostFinance-Arena, Bern;16003;20161105071226;NL A;CH;Regular Season
+Sa;09.01.2016;19:45;Lausanne HC;Fribourg-Gottéron; 3:5; 1:2|1:2|1:1;;Ende;False;P. de Malley, Lausanne;7600;20161105071227;NL A;CH;Regular Season
+So;10.01.2016;15:45;HC Lugano;EHC Biel-Bienne; 3:2; 2:0|0:1|1:1;;Ende;False;Pista Resega, Porza;5528;20161105071221;NL A;CH;Regular Season
+Di;12.01.2016;19:45;EV Zug;Lausanne HC; 2:0; 1:0|0:0|1:0;;Ende;False;BOSSARD Arena, Zug;6088;20161105071108;NL A;CH;Regular Season
+Di;12.01.2016;19:45;ZSC Lions;EHC Kloten; 2:1; 1:1|0:0|1:0;;Ende;False;Hallenstadion AG, Zürich;9949;20161105071228;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;HC Ambri-Piotta;EHC Kloten; 1:3; 1:0|0:1|0:2;;Ende;False;Stadio Valascia, Ambri;4723;20161105071229;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;HC Davos;Genève-Servette HC; 1:4; 0:2|0:2|1:0;;Ende;False;Vaillant Arena, Davos;3534;20161105071230;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 3:0; 0:0|1:0|2:0;;Ende;False;BCF Arena, Fribourg;5797;20161105071231;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;SCL Tigers;SC Bern; 2:1; 0:0|1:1|1:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071232;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;Lausanne HC;ZSC Lions; 3:2; 0:1|1:0|1:1|1:0;SO;Ende;False;P. de Malley, Lausanne;6102;20161105071233;NL A;CH;Regular Season
+Fr;15.01.2016;19:45;EV Zug;HC Lugano; 3:2; 1:0|1:1|0:1;OT;Ende;False;BOSSARD Arena, Zug;6687;20161105071234;NL A;CH;Regular Season
+Sa;16.01.2016;19:45;SC Bern;HC Davos; 1:2; 0:0|1:0|0:1|0:1;SO;Ende;False;PostFinance-Arena, Bern;17031;20161105071235;NL A;CH;Regular Season
+Sa;16.01.2016;19:45;EHC Kloten;Fribourg-Gottéron; 2:3; 2:2|0:0|0:1;;Ende;False;SWISS Arena, Kloten;4734;20161105071238;NL A;CH;Regular Season
+Sa;16.01.2016;19:46;Genève-Servette HC;SCL Tigers; 3:5; 1:1|2:2|0:2;;Ende;False;Les Vernets, Genève;7135;20161105071237;NL A;CH;Regular Season
+So;17.01.2016;15:45;HC Lugano;Lausanne HC; 7:4; 2:2|1:1|4:1;;Ende;False;Pista Resega, Porza;6415;20161105071239;NL A;CH;Regular Season
+So;17.01.2016;15:45;ZSC Lions;HC Ambri-Piotta; 7:2; 2:0|4:0|1:2;;Ende;False;Hallenstadion AG, Zürich;11056;20161105071240;NL A;CH;Regular Season
+Di;19.01.2016;19:45;HC Ambri-Piotta;EV Zug; 3:2; 0:0|0:2|2:0;OT;Ende;False;Stadio Valascia, Ambri;3772;20161105071175;NL A;CH;Regular Season
+Di;19.01.2016;19:45;Genève-Servette HC;SC Bern; 4:1; 2:1|1:0|1:0;;Ende;False;Les Vernets, Genève;6215;20161105071217;NL A;CH;Regular Season
+Di;19.01.2016;19:45;EHC Biel-Bienne;HC Lugano; 6:2; 3:2|3:0|0:0;;Ende;False;Tissot Arena 1, Biel-Bienne;5343;20161105071253;NL A;CH;Regular Season
+Fr;22.01.2016;19:45;Genève-Servette HC;HC Ambri-Piotta; 7:4; 0:1|5:2|2:1;;Ende;False;Les Vernets, Genève;6464;20161105071242;NL A;CH;Regular Season
+Fr;22.01.2016;19:45;SCL Tigers;EHC Kloten; 3:2; 0:0|2:2|1:0;;Ende;False;Ilfis Stadion, Langnau;5912;20161105071243;NL A;CH;Regular Season
+Fr;22.01.2016;19:45;Lausanne HC;HC Davos; 3:4; 0:0|1:2|2:1|0:1;SO;Ende;False;P. de Malley, Lausanne;6734;20161105071244;NL A;CH;Regular Season
+Fr;22.01.2016;19:45;HC Lugano;Fribourg-Gottéron; 7:4; 3:1|2:0|2:3;;Ende;False;Pista Resega, Porza;5338;20161105071245;NL A;CH;Regular Season
+Fr;22.01.2016;19:45;EV Zug;ZSC Lions; 5:4; 0:1|2:1|3:2;;Ende;False;BOSSARD Arena, Zug;6750;20161105071246;NL A;CH;Regular Season
+Sa;23.01.2016;19:45;HC Ambri-Piotta;SCL Tigers; 2:0; 1:0|0:0|1:0;;Ende;False;Stadio Valascia, Ambri;5122;20161105071247;NL A;CH;Regular Season
+Sa;23.01.2016;19:45;SC Bern;HC Lugano; 2:3; 0:2|0:0|2:0|0:1;SO;Ende;False;PostFinance-Arena, Bern;16198;20161105071248;NL A;CH;Regular Season
+Sa;23.01.2016;19:45;Fribourg-Gottéron;EV Zug; 3:4; 1:0|1:1|1:3;;Ende;False;BCF Arena, Fribourg;6100;20161105071250;NL A;CH;Regular Season
+Sa;23.01.2016;19:45;EHC Kloten;Lausanne HC; 4:1; 2:0|0:1|2:0;;Ende;False;SWISS Arena, Kloten;4236;20161105071251;NL A;CH;Regular Season
+Sa;23.01.2016;19:45;ZSC Lions;Genève-Servette HC; 4:2; 2:1|0:1|2:0;;Ende;False;Hallenstadion AG, Zürich;9185;20161105071252;NL A;CH;Regular Season
+So;24.01.2016;15:45;EHC Biel-Bienne;SC Bern; 4:3; 0:1|3:2|0:0;OT;Ende;False;Tissot Arena 1, Biel-Bienne;6521;20161105071241;NL A;CH;Regular Season
+Di;26.01.2016;19:45;Fribourg-Gottéron;ZSC Lions; 2:3; 0:0|1:2|1:1;;Ende;False;BCF Arena, Fribourg;5501;20161105071254;NL A;CH;Regular Season
+Di;26.01.2016;19:45;SCL Tigers;HC Davos; 3:7; 2:4|0:3|1:0;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071256;NL A;CH;Regular Season
+Di;26.01.2016;19:45;Lausanne HC;SC Bern; 5:4; 1:0|1:1|2:3|1:0;SO;Ende;False;P. de Malley, Lausanne;6623;20161105071257;NL A;CH;Regular Season
+Di;26.01.2016;19:45;EV Zug;HC Ambri-Piotta; 5:4; 0:0|2:3|2:1|1:0;SO;Ende;False;BOSSARD Arena, Zug;6227;20161105071258;NL A;CH;Regular Season
+Di;26.01.2016;19:47;Genève-Servette HC;EHC Kloten; 4:3; 2:2|1:0|1:1;;Ende;False;Les Vernets, Genève;6354;20161105071255;NL A;CH;Regular Season
+Fr;29.01.2016;19:45;HC Ambri-Piotta;SC Bern; 3:4; 1:1|1:2|1:0;OT;Ende;False;Stadio Valascia, Ambri;6022;20161105071259;NL A;CH;Regular Season
+Fr;29.01.2016;19:45;HC Lugano;SCL Tigers; 6:2; 5:0|1:1|0:1;;Ende;False;Pista Resega, Porza;5343;20161105071262;NL A;CH;Regular Season
+Fr;29.01.2016;19:45;EV Zug;Genève-Servette HC; 2:1; 0:0|0:1|2:0;;Ende;False;BOSSARD Arena, Zug;6146;20161105071264;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;SC Bern;EV Zug; 5:2; 2:1|0:1|3:0;;Ende;False;PostFinance-Arena, Bern;16731;20161105071265;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;EHC Biel-Bienne;ZSC Lions; 6:5; 1:2|3:1|1:2;OT;Ende;False;Tissot Arena 1, Biel-Bienne;6179;20161105071266;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 4:1; 1:1|2:0|1:0;;Ende;False;BCF Arena, Fribourg;6500;20161105071267;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;Genève-Servette HC;HC Lugano; 3:2; 1:0|0:2|1:0;OT;Ende;False;Les Vernets, Genève;6977;20161105071268;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;EHC Kloten;HC Davos; 6:2; 2:1|3:0|1:1;;Ende;False;SWISS Arena, Kloten;5931;20161105071269;NL A;CH;Regular Season
+Sa;30.01.2016;19:45;SCL Tigers;Lausanne HC; 2:1; 0:0|1:1|0:0|1:0;SO;Ende;False;Ilfis Stadion, Langnau;6000;20161105071270;NL A;CH;Regular Season
+So;31.01.2016;15:45;HC Davos;Fribourg-Gottéron; 5:3; 2:0|1:2|2:1;;Ende;False;Vaillant Arena, Davos;6137;20161105071260;NL A;CH;Regular Season
+So;31.01.2016;15:45;Lausanne HC;EHC Biel-Bienne; 5:2; 3:1|2:1|0:0;;Ende;False;P. de Malley, Lausanne;6770;20161105071261;NL A;CH;Regular Season
+Fr;05.02.2016;19:45;HC Ambri-Piotta;HC Davos; 3:4; 2:1|0:1|1:1|0:1;SO;Ende;False;Stadio Valascia, Ambri;4736;20161105071271;NL A;CH;Regular Season
+Fr;05.02.2016;19:45;SC Bern;Fribourg-Gottéron; 0:4; 0:1|0:1|0:2;;Ende;False;PostFinance-Arena, Bern;16827;20161105071272;NL A;CH;Regular Season
+Fr;05.02.2016;19:45;Genève-Servette HC;Lausanne HC; 3:1; 1:0|1:1|1:0;;Ende;False;Les Vernets, Genève;7032;20161105071273;NL A;CH;Regular Season
+Fr;05.02.2016;19:45;SCL Tigers;EV Zug; 3:4; 1:0|0:2|2:2;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071275;NL A;CH;Regular Season
+Sa;06.02.2016;19:45;EHC Biel-Bienne;SCL Tigers; 4:1; 1:0|2:0|1:1;;Ende;False;Tissot Arena 1, Biel-Bienne;6438;20161105071277;NL A;CH;Regular Season
+Sa;06.02.2016;19:45;HC Davos;HC Lugano; 6:3; 2:1|2:1|2:1;;Ende;False;Vaillant Arena, Davos;5848;20161105071278;NL A;CH;Regular Season
+Sa;06.02.2016;19:45;Fribourg-Gottéron;Genève-Servette HC; 2:4; 2:1|0:2|0:1;;Ende;False;BCF Arena, Fribourg;6177;20161105071279;NL A;CH;Regular Season
+Sa;06.02.2016;19:45;Lausanne HC;HC Ambri-Piotta; 2:1; 1:0|0:1|0:0|1:0;SO;Ende;False;P. de Malley, Lausanne;6813;20161105071280;NL A;CH;Regular Season
+Sa;06.02.2016;19:45;EV Zug;EHC Kloten; 3:4; 1:1|1:3|1:0;;Ende;False;BOSSARD Arena, Zug;6587;20161105071282;NL A;CH;Regular Season
+So;07.02.2016;15:45;EHC Kloten;EHC Biel-Bienne; 3:2; 0:1|0:0|2:1|1:0;SO;Ende;False;SWISS Arena, Kloten;4969;20161105071274;NL A;CH;Regular Season
+So;07.02.2016;15:45;HC Lugano;ZSC Lions; 0:4; 0:1|0:2|0:1;;Ende;False;Pista Resega, Porza;6538;20161105071276;NL A;CH;Regular Season
+Di;16.02.2016;19:45;SCL Tigers;EV Zug; 3:2; 1:1|0:1|2:0;;Ende;False;Ilfis Stadion, Langnau;5856;20161105071112;NL A;CH;Regular Season
+Di;16.02.2016;19:45;Genève-Servette HC;HC Davos; 1:6; 0:2|1:3|0:1;;Ende;False;Les Vernets, Genève;6861;20161105071147;NL A;CH;Regular Season
+Di;16.02.2016;19:45;ZSC Lions;EHC Kloten; 3:4; 1:2|0:1|2:0|0:1;SO;Ende;False;Hallenstadion AG, Zürich;11073;20161105071263;NL A;CH;Regular Season
+Fr;19.02.2016;19:45;HC Davos;SCL Tigers; 4:5; 1:2|3:1|0:2;;Ende;False;Vaillant Arena, Davos;5245;20161105071177;NL A;CH;Regular Season
+Fr;19.02.2016;19:45;EHC Biel-Bienne;EV Zug; 3:4; 1:1|0:2|2:1;;Ende;False;Tissot Arena 1, Biel-Bienne;5544;20161105071236;NL A;CH;Regular Season
+Fr;19.02.2016;20:30;HC Lugano;HC Ambri-Piotta; 4:2; 0:1|1:0|3:1;;Ende;False;Pista Resega, Porza;7800;20161105071138;NL A;CH;Regular Season
+Sa;20.02.2016;19:45;EV Zug;HC Davos; 2:4; 0:3|1:0|1:1;;Ende;False;BOSSARD Arena, Zug;7015;20161105071162;NL A;CH;Regular Season
+Sa;20.02.2016;19:45;EHC Kloten;Genève-Servette HC; 1:4; 0:1|0:2|1:1;;Ende;False;SWISS Arena, Kloten;4927;20161105071178;NL A;CH;Regular Season
+Sa;20.02.2016;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 5:1; 3:0|1:0|1:1;;Ende;False;Stadio Valascia, Ambri;5125;20161105071295;NL A;CH;Regular Season
+Sa;20.02.2016;19:45;Fribourg-Gottéron;Lausanne HC; 3:0; 1:0|0:0|2:0;;Ende;False;BCF Arena, Fribourg;6500;20161105071298;NL A;CH;Regular Season
+So;21.02.2016;15:45;ZSC Lions;SC Bern; 5:2; 2:1|1:0|2:1;;Ende;False;Hallenstadion AG, Zürich;11186;20161105071281;NL A;CH;Regular Season
+Di;23.02.2016;19:45;SC Bern;Genève-Servette HC; 4:1; 0:1|1:0|3:0;;Ende;False;PostFinance-Arena, Bern;15899;20161105071296;NL A;CH;Regular Season
+Di;23.02.2016;19:45;HC Davos;EV Zug; 5:1; 1:1|3:0|1:0;;Ende;False;Vaillant Arena, Davos;4690;20161105071297;NL A;CH;Regular Season
+Di;23.02.2016;19:45;EHC Kloten;HC Lugano; 5:4; 2:0|3:2|0:2;;Ende;False;SWISS Arena, Kloten;4801;20161105071299;NL A;CH;Regular Season
+Di;23.02.2016;19:45;ZSC Lions;SCL Tigers; 4:1; 1:1|2:0|1:0;;Ende;False;Hallenstadion AG, Zürich;8719;20161105071300;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;SC Bern;Lausanne HC; 3:2; 0:0|1:1|2:1;;Ende;False;PostFinance-Arena, Bern;17031;20161105071283;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 4:2; 2:2|0:0|2:0;;Ende;False;Tissot Arena 1, Biel-Bienne;6048;20161105071284;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;HC Davos;ZSC Lions; 5:6; 2:2|0:1|3:3;;Ende;False;Vaillant Arena, Davos;5596;20161105071285;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;Genève-Servette HC;Fribourg-Gottéron; 5:1; 0:1|3:0|2:0;;Ende;False;Les Vernets, Genève;7017;20161105071286;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;EHC Kloten;SCL Tigers; 5:3; 2:0|1:2|2:1;;Ende;False;SWISS Arena, Kloten;5335;20161105071287;NL A;CH;Regular Season
+Fr;26.02.2016;19:45;HC Lugano;EV Zug; 3:2; 1:1|1:0|0:1;OT;Ende;False;Pista Resega, Porza;5568;20161105071288;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;HC Ambri-Piotta;HC Lugano; 6:4; 1:1|1:1|4:2;;Ende;False;Stadio Valascia, Ambri;6500;20161105071289;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;Fribourg-Gottéron;SC Bern; 5:3; 1:2|2:0|2:1;;Ende;False;BCF Arena, Fribourg;6500;20161105071290;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;SCL Tigers;EHC Kloten; 1:4; 0:1|0:0|1:3;;Ende;False;Ilfis Stadion, Langnau;6000;20161105071291;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;Lausanne HC;Genève-Servette HC; 5:3; 1:1|1:2|3:0;;Ende;False;P. de Malley, Lausanne;7196;20161105071292;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;ZSC Lions;HC Davos; 1:4; 0:0|1:2|0:2;;Ende;False;Hallenstadion AG, Zürich;11088;20161105071293;NL A;CH;Regular Season
+Sa;27.02.2016;19:45;EV Zug;EHC Biel-Bienne; 3:1; 3:0|0:1|0:0;;Ende;False;BOSSARD Arena, Zug;6042;20161105071294;NL A;CH;Regular Season
+Do;03.03.2016;19:45;ZSC Lions;SC Bern; 3:4; 1:1|1:1|1:1|0:1;SO;Ende;False;Hallenstadion AG, Zürich;10066;20161105076313;NL A;CH;Playoff 1/4 Final
+Do;03.03.2016;19:45;EV Zug;HC Lugano; 1:2; 0:0|0:1|1:0|0:1;SO;Ende;False;BOSSARD Arena, Zug;7015;20161105076316;NL A;CH;Playoff 1/4 Final
+Do;03.03.2016;19:45;Lausanne HC;SCL Tigers; 4:6; 1:4|1:1|2:1;;Ende;False;P. de Malley, Lausanne;4751;20161105084301;NL A;CH;Playout Round
+Do;03.03.2016;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 4:2; 3:2|1:0|0:0;;Ende;False;Tissot Arena 1, Biel-Bienne;5031;20161105084302;NL A;CH;Playout Round
+Do;03.03.2016;20:15;HC Davos;EHC Kloten; 4:1; 1:0|2:1|1:0;;Ende;False;Vaillant Arena, Davos;5597;20161105076314;NL A;CH;Playoff 1/4 Final
+Do;03.03.2016;20:15;Genève-Servette HC;Fribourg-Gottéron; 3:1; 1:0|1:0|1:1;;Ende;False;Les Vernets, Genève;6527;20161105076315;NL A;CH;Playoff 1/4 Final
+Sa;05.03.2016;19:45;EHC Kloten;HC Davos; 3:5; 1:2|2:2|0:1;;Ende;False;SWISS Arena, Kloten;6900;20161105076318;NL A;CH;Playoff 1/4 Final
+Sa;05.03.2016;19:45;Fribourg-Gottéron;Genève-Servette HC; 3:4; 2:0|1:2|0:1;OT;Ende;False;BCF Arena, Fribourg;6500;20161105076319;NL A;CH;Playoff 1/4 Final
+Sa;05.03.2016;19:45;HC Ambri-Piotta;Lausanne HC; 3:1; 1:0|2:0|0:1;;Ende;False;Stadio Valascia, Ambri;2280;20161105084303;NL A;CH;Playout Round
+Sa;05.03.2016;19:45;SCL Tigers;EHC Biel-Bienne; 2:3; 0:2|0:0|2:1;;Ende;False;Ilfis Stadion, Langnau;6000;20161105084304;NL A;CH;Playout Round
+Sa;05.03.2016;20:15;SC Bern;ZSC Lions; 2:1; 0:1|1:0|1:0;;Ende;False;PostFinance-Arena, Bern;17031;20161105076317;NL A;CH;Playoff 1/4 Final
+Sa;05.03.2016;20:15;HC Lugano;EV Zug; 4:2; 1:1|2:1|1:0;;Ende;False;Pista Resega, Porza;6746;20161105076320;NL A;CH;Playoff 1/4 Final
+Di;08.03.2016;19:45;ZSC Lions;SC Bern; 3:4; 1:0|1:2|1:1;OT;Ende;False;Hallenstadion AG, Zürich;11200;20161105076321;NL A;CH;Playoff 1/4 Final
+Di;08.03.2016;19:45;HC Davos;EHC Kloten; 3:1; 2:0|0:0|1:1;;Ende;False;Vaillant Arena, Davos;5363;20161105076322;NL A;CH;Playoff 1/4 Final
+Di;08.03.2016;19:45;SCL Tigers;HC Ambri-Piotta; 3:4; 1:2|0:1|2:1;;Ende;False;Ilfis Stadion, Langnau;5514;20161105084305;NL A;CH;Playout Round
+Di;08.03.2016;19:45;Lausanne HC;EHC Biel-Bienne; 2:0; 0:0|0:0|2:0;;Ende;False;P. de Malley, Lausanne;4807;20161105084306;NL A;CH;Playout Round
+Di;08.03.2016;20:15;Genève-Servette HC;Fribourg-Gottéron; 4:1; 2:0|2:1|0:0;;Ende;False;Les Vernets, Genève;7135;20161105076323;NL A;CH;Playoff 1/4 Final
+Di;08.03.2016;20:15;EV Zug;HC Lugano; 2:5; 0:2|1:2|1:1;;Ende;False;BOSSARD Arena, Zug;7015;20161105076324;NL A;CH;Playoff 1/4 Final
+Do;10.03.2016;19:45;EHC Kloten;HC Davos; 1:4; 0:1|0:1|1:2;;Ende;False;SWISS Arena, Kloten;6146;20161105076326;NL A;CH;Playoff 1/4 Final
+Do;10.03.2016;19:45;HC Lugano;EV Zug; 5:4; 1:2|3:1|1:1;;Ende;False;Pista Resega, Porza;6761;20161105076328;NL A;CH;Playoff 1/4 Final
+Do;10.03.2016;20:15;SC Bern;ZSC Lions; 3:0; 1:0|1:0|1:0;;Ende;False;PostFinance-Arena, Bern;17031;20161105076325;NL A;CH;Playoff 1/4 Final
+Do;10.03.2016;20:15;Fribourg-Gottéron;Genève-Servette HC; 3:0; 0:0|2:0|1:0;;Ende;False;BCF Arena, Fribourg;6104;20161105076327;NL A;CH;Playoff 1/4 Final
+Sa;12.03.2016;19:45;HC Ambri-Piotta;SCL Tigers; 9:4; 5:2|3:1|1:1;;Ende;False;Stadio Valascia, Ambri;5053;20161105084307;NL A;CH;Playout Round
+Sa;12.03.2016;19:45;EHC Biel-Bienne;Lausanne HC; 2:0; 0:0|2:0|0:0;;Ende;False;Tissot Arena 1, Biel-Bienne;5276;20161105084308;NL A;CH;Playout Round
+Sa;12.03.2016;20:15;Genève-Servette HC;Fribourg-Gottéron; 4:1; 2:1|1:0|1:0;;Ende;False;Les Vernets, Genève;6975;20161105076331;NL A;CH;Playoff 1/4 Final
+Di;15.03.2016;19:45;SCL Tigers;Lausanne HC; 1:3; 1:1|0:0|0:2;;Ende;False;Ilfis Stadion, Langnau;5173;20161105084309;NL A;CH;Playout Round
+Di;15.03.2016;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 2:3; 0:2|0:0|2:1;;Ende;False;Stadio Valascia, Ambri;4637;20161105084310;NL A;CH;Playout Round
+Do;17.03.2016;19:45;HC Davos;SC Bern; 4:5; 0:1|1:3|3:0;OT;Ende;False;Vaillant Arena, Davos;5425;20161105077341;NL A;CH;Playoff 1/2 Final
+Do;17.03.2016;19:45;Lausanne HC;HC Ambri-Piotta; 7:0; 2:0|1:0|4:0;;Ende;False;P. de Malley, Lausanne;5072;20161105084311;NL A;CH;Playout Round
+Do;17.03.2016;19:45;EHC Biel-Bienne;SCL Tigers; 3:2; 2:1|1:0|0:1;;Ende;False;Tissot Arena 1, Biel-Bienne;5147;20161105084312;NL A;CH;Playout Round
+Do;17.03.2016;20:15;Genève-Servette HC;HC Lugano; 0:5; 0:2|0:1|0:2;;Ende;False;Les Vernets, Genève;6662;20161105077342;NL A;CH;Playoff 1/2 Final
+Sa;19.03.2016;19:45;HC Lugano;Genève-Servette HC; 1:2; 1:0|0:1|0:0;OT;Ende;False;Pista Resega, Porza;7405;20161105077344;NL A;CH;Playoff 1/2 Final
+Sa;19.03.2016;19:45;EHC Biel-Bienne;SCL Tigers; 6:1; 1:1|3:0|2:0;;Ende;False;Tissot Arena 1, Biel-Bienne;5454;20161105079362;NL A;CH;Playout Final
+Sa;19.03.2016;20:15;SC Bern;HC Davos; 2:1; 1:0|1:0|0:1;;Ende;False;PostFinance-Arena, Bern;17031;20161105077343;NL A;CH;Playoff 1/2 Final
+Di;22.03.2016;19:45;Genève-Servette HC;HC Lugano; 3:4; 0:0|2:2|1:1;OT;Ende;False;Les Vernets, Genève;7135;20161105077346;NL A;CH;Playoff 1/2 Final
+Di;22.03.2016;19:45;SCL Tigers;EHC Biel-Bienne; 1:0; 1:0|0:0|0:0;;Ende;False;Ilfis Stadion, Langnau;5377;20161105079363;NL A;CH;Playout Final
+Di;22.03.2016;20:15;HC Davos;SC Bern; 7:1; 4:1|1:0|2:0;;Ende;False;Vaillant Arena, Davos;5796;20161105077345;NL A;CH;Playoff 1/2 Final
+Do;24.03.2016;19:45;SC Bern;HC Davos; 3:2; 2:1|0:1|0:0;OT;Ende;False;PostFinance-Arena, Bern;17031;20161105077347;NL A;CH;Playoff 1/2 Final
+Do;24.03.2016;19:45;EHC Biel-Bienne;SCL Tigers; 3:0; 1:0|1:0|1:0;;Ende;False;Tissot Arena 1, Biel-Bienne;6238;20161105079364;NL A;CH;Playout Final
+Do;24.03.2016;20:15;HC Lugano;Genève-Servette HC; 1:6; 0:3|1:1|0:2;;Ende;False;Pista Resega, Porza;7524;20161105077348;NL A;CH;Playoff 1/2 Final
+Sa;26.03.2016;19:45;Genève-Servette HC;HC Lugano; 2:3; 0:0|0:1|2:1;OT;Ende;False;Les Vernets, Genève;7135;20161105077350;NL A;CH;Playoff 1/2 Final
+Sa;26.03.2016;19:45;SCL Tigers;EHC Biel-Bienne; 6:5; 0:0|3:1|3:4;;Ende;False;Ilfis Stadion, Langnau;6000;20161105079365;NL A;CH;Playout Final
+Sa;26.03.2016;20:15;HC Davos;SC Bern; 3:4; 2:3|0:1|1:0;;Ende;False;Vaillant Arena, Davos;6800;20161105077349;NL A;CH;Playoff 1/2 Final
+Mo;28.03.2016;16:30;HC Lugano;Genève-Servette HC; 4:3; 1:0|1:2|1:1;OT;Ende;False;Pista Resega, Porza;7628;20161105077352;NL A;CH;Playoff 1/2 Final
+Mo;28.03.2016;16:30;EHC Biel-Bienne;SCL Tigers; 1:3; 0:1|1:1|0:1;;Ende;False;Tissot Arena 1, Biel-Bienne;6319;20161105079366;NL A;CH;Playout Final
+Do;31.03.2016;19:45;SCL Tigers;EHC Biel-Bienne; 4:3; 2:0|1:1|0:2;OT;Ende;False;Ilfis Stadion, Langnau;6000;20161105079367;NL A;CH;Playout Final
+Sa;02.04.2016;20:15;HC Lugano;SC Bern; 5:4; 2:0|2:3|1:1;;Ende;False;Pista Resega, Porza;7800;20161105078355;NL A;CH;Playoff Final
+Di;05.04.2016;20:15;SC Bern;HC Lugano; 1:0; 0:0|0:0|1:0;;Ende;False;PostFinance-Arena, Bern;17031;20161105078356;NL A;CH;Playoff Final
+Do;07.04.2016;20:15;HC Lugano;SC Bern; 2:3; 0:0|2:1|0:1;OT;Ende;False;Pista Resega, Porza;7800;20161105078357;NL A;CH;Playoff Final
+Sa;09.04.2016;20:15;SC Bern;HC Lugano; 2:1; 0:1|0:0|1:0;OT;Ende;False;PostFinance-Arena, Bern;17031;20161105078358;NL A;CH;Playoff Final
+Di;12.04.2016;20:15;HC Lugano;SC Bern; 2:3; 1:0|0:2|1:1;;Ende;False;Pista Resega, Porza;7800;20161105078359;NL A;CH;Playoff Final

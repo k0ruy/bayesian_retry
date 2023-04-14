@@ -1,0 +1,6 @@
+conda install numpy scipy pandas matplotlib seaborn arviz
+pip install scikit-learn
+conda install jupyter
+conda install pymc3
+conda install rise
+

@@ -1,0 +1,301 @@
+﻿Tag;Datum;Zeit;Home;Away;Resultat;Drittel;OT/SO;Status;Versch.;Stadion;Zus.;TV/Online;Id;Liga;Region;Phase
+Fr;13.09.2019;19:45;HC Ambri-Piotta;EV Zug; 3:4; 0:2|2:1|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;5611;MYSPORTS;20201105000001;NL;CH;Regular Season
+Fr;13.09.2019;19:45;SC Bern;SC Rapperswil-Jona Lakers; 6:3; 1:0|2:3|3:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15135;MYSPORTS;20201105000002;NL;CH;Regular Season
+Fr;13.09.2019;19:45;EHC Biel-Bienne;Fribourg-Gottéron; 3:1; 0:0|1:0|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6135;MYSPORTS;20201105000003;NL;CH;Regular Season
+Fr;13.09.2019;19:45;SCL Tigers;Genève-Servette HC; 1:3; 1:0|0:2|0:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5497;MYSPORTS;20201105000005;NL;CH;Regular Season
+Fr;13.09.2019;19:45;ZSC Lions;HC Davos; 6:3; 0:1|2:2|4:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;10012;MYSPORTS,MYSPORTSONE;20201105000006;NL;CH;Regular Season
+Fr;13.09.2019;19:55;HC Lugano;Lausanne HC; 2:5; 2:0|0:3|0:2;;Ende;False;Cornèr Arena, 6948 Porza Ti;6018;MYSPORTS;20201105000004;NL;CH;Regular Season
+Sa;14.09.2019;19:45;Genève-Servette HC;EHC Biel-Bienne; 2:4; 2:1|0:0|0:3;;Ende;False;Les Vernets, 1227 Les Acacias GE;5331;MYSPORTS;20201105000009;NL;CH;Regular Season
+Sa;14.09.2019;19:45;SC Rapperswil-Jona Lakers;HC Ambri-Piotta; 3:0; 1:0|2:0|0:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4315;MYSPORTS;20201105000010;NL;CH;Regular Season
+Sa;14.09.2019;19:45;EV Zug;ZSC Lions; 5:4; 0:1|1:2|3:1|1:0;OT;Ende;False;BOSSARD Arena, 6303 Zug;6886;MYSPORTS;20201105000012;NL;CH;Regular Season
+Di;17.09.2019;19:45;SC Bern;HC Ambri-Piotta; 4:1; 1:0|3:0|0:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;15222;MYSPORTS;20201105000013;NL;CH;Regular Season
+Di;17.09.2019;19:45;EHC Biel-Bienne;SC Rapperswil-Jona Lakers; 0:1; 0:0|0:0|0:0|0:1;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;4977;MYSPORTS;20201105000014;NL;CH;Regular Season
+Di;17.09.2019;19:45;Genève-Servette HC;ZSC Lions; 3:0; 0:0|1:0|2:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;4606;MYSPORTS;20201105000016;NL;CH;Regular Season
+Di;17.09.2019;19:45;SCL Tigers;Fribourg-Gottéron; 3:2; 1:2|1:0|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5335;MYSPORTS;20201105000017;NL;CH;Regular Season
+Di;17.09.2019;19:45;EV Zug;Lausanne HC; 5:6; 1:4|2:1|2:1;;Ende;False;BOSSARD Arena, 6303 Zug;6312;MYSPORTS;20201105000018;NL;CH;Regular Season
+Di;17.09.2019;19:45;HC Lugano;HC Davos; 2:3; 0:0|1:2|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5434;MYSPORTS;20201105000089;NL;CH;Regular Season
+Fr;20.09.2019;19:45;HC Ambri-Piotta;Genève-Servette HC; 2:3; 1:0|1:2|0:0|0:1;SO;Ende;False;Stadio Valascia, 6775 Ambri TI;4578;MYSPORTS;20201105000019;NL;CH;Regular Season
+Fr;20.09.2019;19:45;SC Bern;EHC Biel-Bienne; 1:2; 0:1|1:0|0:0|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16321;MYSPORTS,MYSPORTSONE;20201105000020;NL;CH;Regular Season
+Fr;20.09.2019;19:45;SCL Tigers;EV Zug; 5:3; 2:1|1:2|2:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5538;MYSPORTS;20201105000023;NL;CH;Regular Season
+Fr;20.09.2019;19:45;ZSC Lions;Lausanne HC; 5:0; 1:0|4:0|0:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8015;MYSPORTS;20201105000024;NL;CH;Regular Season
+Sa;21.09.2019;19:45;EHC Biel-Bienne;SCL Tigers; 3:2; 0:1|1:1|1:0|1:0;SO;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5627;MYSPORTS;20201105000025;NL;CH;Regular Season
+Sa;21.09.2019;19:45;Genève-Servette HC;SC Bern; 4:2; 1:1|2:0|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;5544;MYSPORTS;20201105000027;NL;CH;Regular Season
+Sa;21.09.2019;19:45;SC Rapperswil-Jona Lakers;ZSC Lions; 3:2; 0:2|1:0|1:0|1:0;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4360;MYSPORTS;20201105000028;NL;CH;Regular Season
+Sa;21.09.2019;19:45;EV Zug;HC Lugano; 3:2; 1:1|1:1|0:0|1:0;SO;Ende;False;BOSSARD Arena, 6303 Zug;7086;MYSPORTS;20201105000030;NL;CH;Regular Season
+Di;24.09.2019;19:45;HC Ambri-Piotta;SCL Tigers; 2:0; 0:0|0:0|2:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4239;MYSPORTS;20201105000031;NL;CH;Regular Season
+Di;24.09.2019;19:45;EHC Biel-Bienne;HC Davos; 2:1; 0:0|1:0|1:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5433;MYSPORTS;20201105000032;NL;CH;Regular Season
+Di;24.09.2019;19:45;SC Rapperswil-Jona Lakers;EV Zug; 4:3; 1:0|1:1|1:2|1:0;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3839;MYSPORTS;20201105000033;NL;CH;Regular Season
+Di;24.09.2019;19:45;HC Lugano;SC Bern; 4:2; 2:0|1:1|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5396;MYSPORTS;20201105000035;NL;CH;Regular Season
+Di;24.09.2019;19:45;ZSC Lions;Fribourg-Gottéron; 4:1; 1:0|2:1|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8089;MYSPORTS;20201105000036;NL;CH;Regular Season
+Di;24.09.2019;20:00;Lausanne HC;Genève-Servette HC; 3:5; 1:1|1:2|1:2;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000034;NL;CH;Regular Season
+Fr;27.09.2019;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 3:1; 0:0|0:1|3:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4493;MYSPORTS;20201105000037;NL;CH;Regular Season
+Fr;27.09.2019;19:45;SC Bern;Lausanne HC; 2:5; 1:3|1:0|0:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;15699;MYSPORTS;20201105000038;NL;CH;Regular Season
+Fr;27.09.2019;19:45;HC Lugano;Genève-Servette HC; 1:2; 1:0|0:1|0:0|0:1;OT;Ende;False;Cornèr Arena, 6948 Porza Ti;5589;MYSPORTS,MYSPORTSONE;20201105000041;NL;CH;Regular Season
+Fr;27.09.2019;19:45;SCL Tigers;ZSC Lions; 4:6; 1:1|0:2|3:3;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5407;MYSPORTS;20201105000042;NL;CH;Regular Season
+Sa;28.09.2019;19:45;EHC Biel-Bienne;HC Lugano; 3:4; 1:2|1:0|1:1|0:1;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5629;MYSPORTS;20201105000043;NL;CH;Regular Season
+Sa;28.09.2019;19:45;Genève-Servette HC;Fribourg-Gottéron; 2:3; 0:0|1:1|1:1|0:1;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;6047;MYSPORTS;20201105000044;NL;CH;Regular Season
+Sa;28.09.2019;19:45;SC Rapperswil-Jona Lakers;SCL Tigers; 1:2; 0:0|0:1|1:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3962;MYSPORTS;20201105000045;NL;CH;Regular Season
+Sa;28.09.2019;19:45;Lausanne HC;HC Davos; 1:7; 0:1|0:4|1:2;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7776;MYSPORTS;20201105000046;NL;CH;Regular Season
+Sa;28.09.2019;19:45;ZSC Lions;HC Ambri-Piotta; 5:3; 2:1|0:1|3:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;8695;MYSPORTS;20201105000047;NL;CH;Regular Season
+Sa;28.09.2019;19:45;EV Zug;SC Bern; 5:2; 2:0|2:0|1:2;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS;20201105000048;NL;CH;Regular Season
+Di;01.10.2019;19:45;HC Ambri-Piotta;HC Lugano; 1:2; 1:1|0:1|0:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;5855;MYSPORTS,MYSPORTSONE,TELETICINO;20201105000049;NL;CH;Regular Season
+Di;01.10.2019;19:45;Fribourg-Gottéron;SC Bern; 1:3; 1:1|0:1|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000050;NL;CH;Regular Season
+Di;01.10.2019;19:45;SCL Tigers;HC Davos; 0:1; 0:0|0:0|0:0|0:1;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5696;MYSPORTS;20201105000052;NL;CH;Regular Season
+Di;01.10.2019;19:45;ZSC Lions;EHC Biel-Bienne; 5:2; 1:1|1:1|3:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;7970;MYSPORTS;20201105000053;NL;CH;Regular Season
+Di;01.10.2019;19:45;EV Zug;Genève-Servette HC; 5:1; 3:0|2:1|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;5959;MYSPORTS;20201105000054;NL;CH;Regular Season
+Mi;02.10.2019;19:45;Lausanne HC;SC Rapperswil-Jona Lakers; 4:1; 0:0|2:1|2:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;6456;MYSPORTS;20201105000051;NL;CH;Regular Season
+Fr;04.10.2019;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 4:0; 1:0|2:0|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4606;MYSPORTS;20201105000055;NL;CH;Regular Season
+Fr;04.10.2019;19:45;SC Bern;SCL Tigers; 4:3; 1:0|2:1|0:2|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;16771;MYSPORTS;20201105000056;NL;CH;Regular Season
+Fr;04.10.2019;19:45;EHC Biel-Bienne;Lausanne HC; 2:1; 0:0|2:1|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5488;MYSPORTS;20201105000057;NL;CH;Regular Season
+Fr;04.10.2019;19:45;SC Rapperswil-Jona Lakers;Genève-Servette HC; 2:0; 1:0|0:0|1:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3488;MYSPORTS;20201105000059;NL;CH;Regular Season
+Fr;04.10.2019;20:15;HC Lugano;ZSC Lions; 3:1; 1:1|0:0|2:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;5734;MYSPORTS;20201105000060;NL;CH;Regular Season
+Sa;05.10.2019;19:45;Fribourg-Gottéron;SC Rapperswil-Jona Lakers; 4:1; 2:0|2:0|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;6009;MYSPORTS;20201105000061;NL;CH;Regular Season
+Sa;05.10.2019;19:45;Genève-Servette HC;HC Davos; 5:6; 2:2|1:2|2:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;6605;MYSPORTS;20201105000062;NL;CH;Regular Season
+Sa;05.10.2019;19:45;Lausanne HC;HC Ambri-Piotta; 3:1; 0:0|1:1|2:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8210;MYSPORTS;20201105000063;NL;CH;Regular Season
+Sa;05.10.2019;19:45;SCL Tigers;HC Lugano; 4:3; 0:2|2:1|1:0|1:0;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5679;MYSPORTS;20201105000064;NL;CH;Regular Season
+Sa;05.10.2019;19:45;EV Zug;EHC Biel-Bienne; 2:3; 0:0|2:2|0:0|0:1;SO;Ende;False;BOSSARD Arena, 6303 Zug;6615;MYSPORTS;20201105000066;NL;CH;Regular Season
+So;06.10.2019;15:45;ZSC Lions;SC Bern; 3:2; 0:1|1:1|1:0|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;10584;MYSPORTS;20201105000065;NL;CH;Regular Season
+Di;08.10.2019;19:45;HC Lugano;SC Rapperswil-Jona Lakers; 6:3; 2:0|1:2|3:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5482;MYSPORTS;20201105000022;NL;CH;Regular Season
+Fr;11.10.2019;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 1:4; 0:2|1:1|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5894;MYSPORTS;20201105000068;NL;CH;Regular Season
+Fr;11.10.2019;19:45;Genève-Servette HC;SCL Tigers; 6:3; 4:1|0:0|2:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5207;MYSPORTS;20201105000069;NL;CH;Regular Season
+Fr;11.10.2019;19:45;SC Rapperswil-Jona Lakers;SC Bern; 5:4; 0:3|2:1|2:0|1:0;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4089;MYSPORTS;20201105000070;NL;CH;Regular Season
+Fr;11.10.2019;19:45;EV Zug;HC Ambri-Piotta; 5:1; 2:0|3:0|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;6612;MYSPORTS;20201105000072;NL;CH;Regular Season
+Sa;12.10.2019;19:45;HC Ambri-Piotta;SC Rapperswil-Jona Lakers; 4:2; 1:0|2:0|1:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;5032;MYSPORTS;20201105000073;NL;CH;Regular Season
+Sa;12.10.2019;19:45;SC Bern;HC Davos; 4:3; 2:1|1:0|0:2|1:0;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16945;MYSPORTS;20201105000074;NL;CH;Regular Season
+Sa;12.10.2019;19:45;EHC Biel-Bienne;Genève-Servette HC; 6:3; 2:1|2:0|2:2;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5903;MYSPORTS;20201105000075;NL;CH;Regular Season
+Sa;12.10.2019;19:45;HC Lugano;Fribourg-Gottéron; 1:4; 1:2|0:1|0:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;6039;MYSPORTS;20201105000076;NL;CH;Regular Season
+Sa;12.10.2019;19:45;SCL Tigers;Lausanne HC; 1:3; 0:0|1:1|0:2;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5499;MYSPORTS;20201105000077;NL;CH;Regular Season
+Sa;12.10.2019;19:45;ZSC Lions;EV Zug; 3:4; 1:0|0:2|2:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;9240;MYSPORTS;20201105000078;NL;CH;Regular Season
+So;13.10.2019;15:45;Lausanne HC;HC Lugano; 5:2; 0:0|3:1|2:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8543;MYSPORTS;20201105000071;NL;CH;Regular Season
+Di;15.10.2019;19:45;Fribourg-Gottéron;HC Davos; 4:2; 1:0|1:1|2:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5538;MYSPORTS;20201105000021;NL;CH;Regular Season
+Di;15.10.2019;19:45;SC Rapperswil-Jona Lakers;HC Lugano; 1:2; 0:0|1:0|0:1|0:1;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3750;MYSPORTS;20201105000094;NL;CH;Regular Season
+Di;15.10.2019;19:45;ZSC Lions;SCL Tigers; 5:4; 0:0|1:2|3:2|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;8055;MYSPORTS;20201105000113;NL;CH;Regular Season
+Fr;18.10.2019;19:45;SC Bern;HC Lugano; 2:5; 1:2|0:1|1:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;15777;MYSPORTS;20201105000079;NL;CH;Regular Season
+Fr;18.10.2019;19:45;HC Davos;EHC Biel-Bienne; 5:2; 2:0|2:1|1:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5435;MYSPORTS,MYSPORTSONE;20201105000080;NL;CH;Regular Season
+Fr;18.10.2019;19:45;Fribourg-Gottéron;ZSC Lions; 2:4; 0:2|2:1|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;6036;MYSPORTS;20201105000081;NL;CH;Regular Season
+Fr;18.10.2019;19:45;Genève-Servette HC;Lausanne HC; 2:1; 1:0|0:0|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6904;MYSPORTS;20201105000082;NL;CH;Regular Season
+Fr;18.10.2019;19:45;SCL Tigers;HC Ambri-Piotta; 3:4; 1:2|0:0|2:1|0:1;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5886;MYSPORTS;20201105000083;NL;CH;Regular Season
+Fr;18.10.2019;19:45;EV Zug;SC Rapperswil-Jona Lakers; 2:3; 1:3|1:0|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;6915;MYSPORTS;20201105000084;NL;CH;Regular Season
+Di;22.10.2019;19:45;HC Ambri-Piotta;SC Bern; 2:5; 1:3|0:0|1:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;4285;MYSPORTS;20201105000085;NL;CH;Regular Season
+Di;22.10.2019;19:45;Fribourg-Gottéron;SCL Tigers; 0:1; 0:0|0:0|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5853;MYSPORTS;20201105000086;NL;CH;Regular Season
+Di;22.10.2019;19:45;SC Rapperswil-Jona Lakers;EHC Biel-Bienne; 5:3; 0:2|1:1|4:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3341;MYSPORTS;20201105000087;NL;CH;Regular Season
+Di;22.10.2019;19:45;Lausanne HC;EV Zug; 2:1; 1:0|0:0|1:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7887;MYSPORTS,MYSPORTSONE;20201105000088;NL;CH;Regular Season
+Di;22.10.2019;19:45;ZSC Lions;Genève-Servette HC; 2:0; 0:0|2:0|0:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8052;MYSPORTS;20201105000090;NL;CH;Regular Season
+Fr;25.10.2019;19:45;EHC Biel-Bienne;SC Bern; 3:2; 2:1|0:1|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;MYSPORTS;20201105000091;NL;CH;Regular Season
+Fr;25.10.2019;19:45;HC Davos;Fribourg-Gottéron; 3:1; 1:1|1:0|1:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3717;MYSPORTS,MYSPORTSONE;20201105000092;NL;CH;Regular Season
+Fr;25.10.2019;19:45;Genève-Servette HC;HC Ambri-Piotta; 3:1; 1:1|0:0|2:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6080;MYSPORTS;20201105000093;NL;CH;Regular Season
+Fr;25.10.2019;19:45;Lausanne HC;ZSC Lions; 1:3; 0:2|0:1|1:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8002;MYSPORTS;20201105000095;NL;CH;Regular Season
+Sa;26.10.2019;19:45;HC Ambri-Piotta;HC Davos; 2:3; 0:1|1:2|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;5592;MYSPORTS;20201105000097;NL;CH;Regular Season
+Sa;26.10.2019;19:45;SC Bern;Genève-Servette HC; 5:4; 1:1|1:2|2:1|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;15747;MYSPORTS;20201105000098;NL;CH;Regular Season
+Sa;26.10.2019;19:45;Fribourg-Gottéron;Lausanne HC; 3:2; 1:0|0:0|2:2;;Ende;False;BCF Arena, 1700 Fribourg FR;6403;MYSPORTS;20201105000099;NL;CH;Regular Season
+Sa;26.10.2019;19:45;HC Lugano;EV Zug; 2:1; 0:0|1:1|0:0|1:0;OT;Ende;False;Cornèr Arena, 6948 Porza Ti;6027;MYSPORTS;20201105000100;NL;CH;Regular Season
+So;27.10.2019;15:45;ZSC Lions;SC Rapperswil-Jona Lakers; 3:1; 1:0|2:0|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9984;MYSPORTS;20201105000102;NL;CH;Regular Season
+Mo;28.10.2019;19:45;SCL Tigers;EHC Biel-Bienne; 3:2; 1:1|0:0|1:1|1:0;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5564;MYSPORTS;20201105000101;NL;CH;Regular Season
+Di;29.10.2019;19:45;SC Bern;Fribourg-Gottéron; 1:2; 0:1|1:1|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16768;MYSPORTS;20201105000103;NL;CH;Regular Season
+Di;29.10.2019;19:45;EHC Biel-Bienne;ZSC Lions; 4:3; 1:0|1:0|1:3|1:0;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5534;MYSPORTS;20201105000104;NL;CH;Regular Season
+Di;29.10.2019;19:45;Genève-Servette HC;EV Zug; 2:4; 0:1|2:1|0:2;;Ende;False;Les Vernets, 1227 Les Acacias GE;5062;MYSPORTS;20201105000106;NL;CH;Regular Season
+Di;29.10.2019;19:45;SC Rapperswil-Jona Lakers;Lausanne HC; 2:5; 1:0|0:4|1:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3670;MYSPORTS;20201105000107;NL;CH;Regular Season
+Di;29.10.2019;19:45;HC Lugano;HC Ambri-Piotta; 3:4; 0:1|1:2|2:0|0:1;SO;Ende;False;Cornèr Arena, 6948 Porza Ti;7200;MYSPORTS,MYSPORTSONE,TELETICINO;20201105000108;NL;CH;Regular Season
+Fr;01.11.2019;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 2:3; 1:0|1:2|0:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6332;MYSPORTS;20201105000109;NL;CH;Regular Season
+Fr;01.11.2019;19:45;Genève-Servette HC;HC Lugano; 4:0; 2:0|1:0|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6143;MYSPORTS;20201105000110;NL;CH;Regular Season
+Fr;01.11.2019;19:45;SC Rapperswil-Jona Lakers;HC Davos; 3:4; 0:1|1:3|2:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;6021;MYSPORTS,MYSPORTSONE;20201105000111;NL;CH;Regular Season
+Fr;01.11.2019;19:45;Lausanne HC;SC Bern; 5:0; 1:0|2:0|2:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8998;MYSPORTS;20201105000112;NL;CH;Regular Season
+Fr;01.11.2019;19:45;EV Zug;Fribourg-Gottéron; 0:4; 0:0|0:0|0:4;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS;20201105000114;NL;CH;Regular Season
+Sa;02.11.2019;19:45;HC Ambri-Piotta;ZSC Lions; 2:3; 1:1|1:0|0:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;5317;MYSPORTS;20201105000115;NL;CH;Regular Season
+Sa;02.11.2019;19:45;HC Davos;Lausanne HC; 4:3; 0:0|4:2|0:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4961;MYSPORTS;20201105000117;NL;CH;Regular Season
+Sa;02.11.2019;19:45;HC Lugano;EHC Biel-Bienne; 1:2; 0:0|0:1|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5868;MYSPORTS;20201105000119;NL;CH;Regular Season
+Sa;02.11.2019;19:45;SCL Tigers;SC Rapperswil-Jona Lakers; 4:1; 1:1|2:0|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000120;NL;CH;Regular Season
+Sa;02.11.2019;19:46;SC Bern;EV Zug; 4:5; 3:1|0:2|1:1|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16848;MYSPORTS,MYSPORTSONE;20201105000116;NL;CH;Regular Season
+Di;05.11.2019;19:45;Lausanne HC;HC Davos; 3:4; 1:0|0:2|2:1|0:1;SO;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7654;MYSPORTS;20201105000232;NL;CH;Regular Season
+Di;12.11.2019;19:45;Fribourg-Gottéron;Genève-Servette HC; 2:1; 1:0|0:1|0:0|1:0;OT;Ende;False;BCF Arena, 1700 Fribourg FR;5755;MYSPORTS;20201105000118;NL;CH;Regular Season
+Di;12.11.2019;19:45;ZSC Lions;HC Lugano; 7:2; 2:1|3:0|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9411;MYSPORTS;20201105000125;NL;CH;Regular Season
+Fr;15.11.2019;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 4:2; 3:1|0:1|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6260;MYSPORTS;20201105000121;NL;CH;Regular Season
+Fr;15.11.2019;19:45;Lausanne HC;EHC Biel-Bienne; 2:3; 1:2|1:0|0:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8888;MYSPORTS;20201105000123;NL;CH;Regular Season
+Fr;15.11.2019;19:45;SCL Tigers;SC Bern; 3:1; 1:0|0:0|2:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000124;NL;CH;Regular Season
+Fr;15.11.2019;19:45;EV Zug;HC Davos; 4:5; 1:1|1:1|2:3;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS;20201105000126;NL;CH;Regular Season
+Sa;16.11.2019;19:45;HC Ambri-Piotta;Lausanne HC; 1:2; 0:1|1:0|0:0|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;4807;MYSPORTS;20201105000127;NL;CH;Regular Season
+Sa;16.11.2019;19:45;SC Bern;ZSC Lions; 2:1; 1:0|1:1|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16205;MYSPORTS,MYSPORTSONE;20201105000128;NL;CH;Regular Season
+Sa;16.11.2019;19:45;EHC Biel-Bienne;EV Zug; 1:2; 1:2|0:0|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6004;MYSPORTS;20201105000129;NL;CH;Regular Season
+Sa;16.11.2019;19:45;HC Davos;Genève-Servette HC; 2:3; 0:2|0:0|2:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4361;MYSPORTS;20201105000130;NL;CH;Regular Season
+Sa;16.11.2019;19:45;SC Rapperswil-Jona Lakers;Fribourg-Gottéron; 9:4; 2:2|6:1|1:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3912;MYSPORTS;20201105000131;NL;CH;Regular Season
+Sa;16.11.2019;19:45;HC Lugano;SCL Tigers; 1:2; 1:0|0:1|0:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5963;MYSPORTS;20201105000132;NL;CH;Regular Season
+Di;19.11.2019;19:45;HC Davos;HC Lugano; 3:2; 0:0|1:2|2:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3419;MYSPORTS;20201105000015;NL;CH;Regular Season
+Di;19.11.2019;19:45;Genève-Servette HC;SC Rapperswil-Jona Lakers; 6:2; 2:0|2:1|2:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;5151;MYSPORTS;20201105000122;NL;CH;Regular Season
+Fr;22.11.2019;19:45;SC Bern;Lausanne HC; 2:3; 1:0|0:2|1:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;15559;MYSPORTS;20201105000133;NL;CH;Regular Season
+Fr;22.11.2019;19:45;EHC Biel-Bienne;SCL Tigers; 4:1; 1:1|0:0|3:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6009;MYSPORTS;20201105000134;NL;CH;Regular Season
+Fr;22.11.2019;19:45;Genève-Servette HC;Fribourg-Gottéron; 3:4; 0:1|1:0|2:2|0:1;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;6429;MYSPORTS;20201105000136;NL;CH;Regular Season
+Fr;22.11.2019;19:45;HC Lugano;SC Rapperswil-Jona Lakers; 5:1; 2:0|2:1|1:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;5580;MYSPORTS;20201105000137;NL;CH;Regular Season
+Fr;22.11.2019;19:45;EV Zug;ZSC Lions; 3:1; 1:1|0:0|2:0;;Ende;False;BOSSARD Arena, 6303 Zug;6900;MYSPORTS,MYSPORTSONE;20201105000138;NL;CH;Regular Season
+Sa;23.11.2019;19:45;HC Ambri-Piotta;HC Lugano; 3:2; 1:1|1:1|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;MYSPORTS;20201105000139;NL;CH;Regular Season
+Sa;23.11.2019;19:45;Fribourg-Gottéron;SC Bern; 5:1; 2:0|1:1|2:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS,MYSPORTSONE;20201105000140;NL;CH;Regular Season
+Sa;23.11.2019;19:45;SC Rapperswil-Jona Lakers;HC Davos; 4:5; 2:1|0:1|2:2|0:1;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;5571;MYSPORTS;20201105000141;NL;CH;Regular Season
+Sa;23.11.2019;19:45;Lausanne HC;Genève-Servette HC; 2:3; 1:0|1:0|0:2|0:1;OT;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000142;NL;CH;Regular Season
+Sa;23.11.2019;19:45;SCL Tigers;EV Zug; 2:3; 1:1|1:1|0:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000143;NL;CH;Regular Season
+Sa;23.11.2019;19:45;ZSC Lions;EHC Biel-Bienne; 3:1; 1:0|0:0|2:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;9445;MYSPORTS;20201105000144;NL;CH;Regular Season
+So;24.11.2019;15:45;HC Davos;HC Ambri-Piotta; 5:3; 0:0|3:0|2:3;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5226;MYSPORTS;20201105000135;NL;CH;Regular Season
+Do;28.11.2019;19:45;EV Zug;EHC Biel-Bienne; 3:4; 2:3|1:0|0:0|0:1;OT;Ende;False;BOSSARD Arena, 6303 Zug;6676;MYSPORTS;20201105000156;NL;CH;Regular Season
+Fr;29.11.2019;19:45;HC Ambri-Piotta;Fribourg-Gottéron; 3:1; 1:0|2:1|0:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4639;MYSPORTS;20201105000145;NL;CH;Regular Season
+Fr;29.11.2019;19:45;SC Bern;HC Davos; 3:4; 1:2|1:0|1:1|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16178;MYSPORTS;20201105000146;NL;CH;Regular Season
+Fr;29.11.2019;19:45;Lausanne HC;SCL Tigers; 4:3; 3:0|1:0|0:3;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7899;MYSPORTS;20201105000148;NL;CH;Regular Season
+Fr;29.11.2019;19:45;HC Lugano;EV Zug; 3:5; 1:3|1:1|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5752;MYSPORTS;20201105000149;NL;CH;Regular Season
+Fr;29.11.2019;19:45;ZSC Lions;Genève-Servette HC; 1:2; 1:1|0:0|0:1;;Ende;False;Hallenstadion, 8050 Zürich ZH;8622;MYSPORTS;20201105000150;NL;CH;Regular Season
+Sa;30.11.2019;19:45;HC Davos;ZSC Lions; 0:5; 0:1|0:2|0:2;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5689;MYSPORTS;20201105000151;NL;CH;Regular Season
+Sa;30.11.2019;19:45;Fribourg-Gottéron;Lausanne HC; 3:2; 0:1|1:0|1:1|1:0;OT;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000152;NL;CH;Regular Season
+Sa;30.11.2019;19:45;Genève-Servette HC;SC Bern; 1:2; 0:0|1:2|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6140;MYSPORTS,MYSPORTSONE;20201105000153;NL;CH;Regular Season
+Sa;30.11.2019;19:45;SC Rapperswil-Jona Lakers;HC Lugano; 2:1; 0:0|0:1|2:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3712;MYSPORTS;20201105000154;NL;CH;Regular Season
+Sa;30.11.2019;19:45;SCL Tigers;HC Ambri-Piotta; 4:3; 1:0|1:2|2:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000155;NL;CH;Regular Season
+So;01.12.2019;15:45;EHC Biel-Bienne;SC Rapperswil-Jona Lakers; 3:2; 2:2|1:0|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6095;MYSPORTS;20201105000147;NL;CH;Regular Season
+Di;03.12.2019;19:45;Fribourg-Gottéron;HC Lugano; 1:3; 0:0|0:2|1:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5701;MYSPORTS;20201105000008;NL;CH;Regular Season
+Di;03.12.2019;19:45;HC Davos;SCL Tigers; 5:3; 1:1|2:1|2:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3307;MYSPORTS;20201105000105;NL;CH;Regular Season
+Fr;06.12.2019;19:45;Fribourg-Gottéron;HC Davos; 3:1; 1:1|1:0|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6136;MYSPORTS;20201105000158;NL;CH;Regular Season
+Fr;06.12.2019;19:45;Lausanne HC;SC Bern; 2:5; 1:1|0:0|1:4;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8889;MYSPORTS,MYSPORTSONE;20201105000160;NL;CH;Regular Season
+Fr;06.12.2019;19:45;SCL Tigers;HC Lugano; 3:2; 2:1|0:1|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5585;MYSPORTS;20201105000161;NL;CH;Regular Season
+Fr;06.12.2019;19:45;ZSC Lions;SC Rapperswil-Jona Lakers; 5:4; 2:3|0:0|2:1|1:0;SO;Ende;False;Hallenstadion, 8050 Zürich ZH;8667;MYSPORTS;20201105000162;NL;CH;Regular Season
+Fr;06.12.2019;19:49;Genève-Servette HC;EHC Biel-Bienne; 3:2; 0:1|2:0|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;5906;MYSPORTS;20201105000159;NL;CH;Regular Season
+Sa;07.12.2019;19:45;SC Bern;Fribourg-Gottéron; 4:2; 1:1|1:1|2:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16461;MYSPORTS;20201105000163;NL;CH;Regular Season
+Sa;07.12.2019;19:45;HC Davos;Lausanne HC; 2:1; 0:0|0:1|1:0|1:0;OT;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4629;MYSPORTS;20201105000165;NL;CH;Regular Season
+Sa;07.12.2019;19:45;SC Rapperswil-Jona Lakers;Genève-Servette HC; 4:1; 3:0|0:1|1:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3613;MYSPORTS;20201105000166;NL;CH;Regular Season
+Sa;07.12.2019;19:45;HC Lugano;ZSC Lions; 3:1; 1:0|0:0|2:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5890;MYSPORTS,MYSPORTSONE;20201105000167;NL;CH;Regular Season
+Sa;07.12.2019;19:45;EV Zug;SCL Tigers; 5:2; 3:0|1:2|1:0;;Ende;False;BOSSARD Arena, 6303 Zug;6543;MYSPORTS;20201105000168;NL;CH;Regular Season
+So;08.12.2019;15:45;HC Ambri-Piotta;EV Zug; 3:2; 1:0|1:1|0:1|1:0;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;5721;MYSPORTS;20201105000157;NL;CH;Regular Season
+Di;10.12.2019;19:45;HC Davos;HC Ambri-Piotta; 1:2; 0:1|0:1|1:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3389;MYSPORTS;20201105000026;NL;CH;Regular Season
+Di;17.12.2019;19:45;HC Ambri-Piotta;HC Lugano; 7:2; 3:0|1:1|3:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;6038;MYSPORTS,MYSPORTSONE;20201105000169;NL;CH;Regular Season
+Di;17.12.2019;19:45;Fribourg-Gottéron;EHC Biel-Bienne; 3:2; 2:1|1:0|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;5744;MYSPORTS;20201105000170;NL;CH;Regular Season
+Di;17.12.2019;19:45;Genève-Servette HC;HC Davos; 3:2; 0:1|0:0|2:1|1:0;OT;Ende;False;Les Vernets, 1227 Les Acacias GE;5815;MYSPORTS;20201105000171;NL;CH;Regular Season
+Di;17.12.2019;19:45;Lausanne HC;EV Zug; 0:3; 0:0|0:0|0:3;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7777;MYSPORTS;20201105000172;NL;CH;Regular Season
+Di;17.12.2019;19:45;SCL Tigers;SC Rapperswil-Jona Lakers; 2:1; 2:1|0:0|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5384;MYSPORTS;20201105000173;NL;CH;Regular Season
+Di;17.12.2019;19:45;ZSC Lions;SC Bern; 1:4; 0:1|1:1|0:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;9872;MYSPORTS;20201105000174;NL;CH;Regular Season
+Fr;20.12.2019;19:45;HC Ambri-Piotta;SC Rapperswil-Jona Lakers; 3:2; 0:1|2:1|1:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;4670;MYSPORTS;20201105000175;NL;CH;Regular Season
+Fr;20.12.2019;19:45;Fribourg-Gottéron;ZSC Lions; 0:3; 0:0|0:2|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;6076;MYSPORTS;20201105000176;NL;CH;Regular Season
+Fr;20.12.2019;19:45;Lausanne HC;Genève-Servette HC; 2:4; 0:0|2:0|0:4;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000177;NL;CH;Regular Season
+Fr;20.12.2019;19:45;HC Lugano;EHC Biel-Bienne; 6:3; 2:0|1:2|3:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5597;MYSPORTS;20201105000178;NL;CH;Regular Season
+Fr;20.12.2019;19:45;SCL Tigers;SC Bern; 1:2; 0:0|0:0|1:1|0:1;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000179;NL;CH;Regular Season
+Fr;20.12.2019;19:45;EV Zug;HC Davos; 4:2; 0:1|2:0|2:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS,MYSPORTSONE;20201105000180;NL;CH;Regular Season
+Sa;21.12.2019;19:45;SC Bern;HC Ambri-Piotta; 2:3; 0:2|1:0|1:0|0:1;SO;Ende;False;PostFinance-Arena, 3014 Bern BE;16889;MYSPORTS;20201105000181;NL;CH;Regular Season
+Sa;21.12.2019;19:45;EHC Biel-Bienne;SCL Tigers; 2:5; 1:1|1:1|0:3;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6132;MYSPORTS,MYSPORTSONE;20201105000182;NL;CH;Regular Season
+Sa;21.12.2019;19:45;HC Davos;HC Lugano; 3:2; 0:1|1:1|2:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5409;MYSPORTS;20201105000183;NL;CH;Regular Season
+Sa;21.12.2019;19:45;Genève-Servette HC;Fribourg-Gottéron; 3:0; 2:0|0:0|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6777;MYSPORTS;20201105000184;NL;CH;Regular Season
+Sa;21.12.2019;19:45;SC Rapperswil-Jona Lakers;EV Zug; 1:4; 1:2|0:1|0:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4121;MYSPORTS;20201105000185;NL;CH;Regular Season
+Sa;21.12.2019;19:45;ZSC Lions;Lausanne HC; 2:6; 2:2|0:2|0:2;;Ende;False;Hallenstadion, 8050 Zürich ZH;10832;MYSPORTS;20201105000186;NL;CH;Regular Season
+Mo;23.12.2019;19:45;HC Ambri-Piotta;HC Davos; 4:5; 2:1|1:2|1:1|0:1;SO;Ende;False;Stadio Valascia, 6775 Ambri TI;6500;MYSPORTS;20201105000187;NL;CH;Regular Season
+Mo;23.12.2019;19:45;EHC Biel-Bienne;ZSC Lions; 4:5; 3:1|0:1|1:2|0:1;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6281;MYSPORTS;20201105000188;NL;CH;Regular Season
+Mo;23.12.2019;19:45;SC Rapperswil-Jona Lakers;Fribourg-Gottéron; 2:3; 0:0|2:2|0:0|0:1;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4019;MYSPORTS;20201105000189;NL;CH;Regular Season
+Mo;23.12.2019;19:45;HC Lugano;Lausanne HC; 0:2; 0:1|0:0|0:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;6120;MYSPORTS;20201105000190;NL;CH;Regular Season
+Mo;23.12.2019;19:45;SCL Tigers;Genève-Servette HC; 1:2; 0:0|0:1|1:0|0:1;SO;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5951;MYSPORTS;20201105000191;NL;CH;Regular Season
+Mo;23.12.2019;19:45;EV Zug;SC Bern; 1:0; 0:0|0:0|1:0;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS;20201105000192;NL;CH;Regular Season
+Do;02.01.2020;15:45;ZSC Lions;SCL Tigers; 2:3; 0:1|1:1|1:0|0:1;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;10350;MYSPORTS;20201105000198;NL;CH;Regular Season
+Do;02.01.2020;19:45;SC Bern;EHC Biel-Bienne; 3:2; 1:0|1:0|1:2;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;MYSPORTS,MYSPORTSONE;20201105000193;NL;CH;Regular Season
+Do;02.01.2020;19:45;HC Davos;SC Rapperswil-Jona Lakers; 3:1; 1:0|1:0|1:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5419;MYSPORTS;20201105000194;NL;CH;Regular Season
+Do;02.01.2020;19:45;Fribourg-Gottéron;EV Zug; 2:3; 1:0|1:2|0:1;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000195;NL;CH;Regular Season
+Do;02.01.2020;19:45;Lausanne HC;HC Ambri-Piotta; 5:1; 1:1|3:0|1:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9234;MYSPORTS;20201105000197;NL;CH;Regular Season
+Fr;03.01.2020;19:45;EHC Biel-Bienne;Lausanne HC; 4:5; 2:0|2:3|0:1|0:1;SO;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6102;MYSPORTS;20201105000200;NL;CH;Regular Season
+Fr;03.01.2020;19:45;SC Rapperswil-Jona Lakers;SC Bern; 3:2; 1:1|1:1|0:0|1:0;SO;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4463;MYSPORTS;20201105000201;NL;CH;Regular Season
+Fr;03.01.2020;19:45;HC Lugano;Fribourg-Gottéron; 4:2; 1:0|2:1|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5879;MYSPORTS;20201105000202;NL;CH;Regular Season
+Fr;03.01.2020;19:45;SCL Tigers;HC Davos; 1:2; 0:0|0:0|1:1|0:1;OT;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS,MYSPORTSONE;20201105000203;NL;CH;Regular Season
+Fr;03.01.2020;19:45;EV Zug;Genève-Servette HC; 1:5; 1:1|0:3|0:1;;Ende;False;BOSSARD Arena, 6303 Zug;7200;MYSPORTS;20201105000204;NL;CH;Regular Season
+Sa;04.01.2020;19:45;HC Ambri-Piotta;ZSC Lions; 2:3; 0:0|1:0|1:2|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;6120;MYSPORTS;20201105000199;NL;CH;Regular Season
+So;05.01.2020;15:45;SC Bern;HC Lugano; 2:5; 1:1|1:1|0:3;;Ende;False;PostFinance-Arena, 3014 Bern BE;17031;MYSPORTS;20201105000205;NL;CH;Regular Season
+So;05.01.2020;15:45;HC Davos;EHC Biel-Bienne; 4:3; 1:1|1:2|1:0|1:0;OT;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4640;MYSPORTS;20201105000206;NL;CH;Regular Season
+So;05.01.2020;15:45;Fribourg-Gottéron;SCL Tigers; 5:4; 0:2|2:1|2:1|1:0;OT;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000207;NL;CH;Regular Season
+So;05.01.2020;15:45;Genève-Servette HC;HC Ambri-Piotta; 2:0; 2:0|0:0|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6676;MYSPORTS;20201105000208;NL;CH;Regular Season
+So;05.01.2020;15:45;ZSC Lions;EV Zug; 1:2; 0:1|0:0|1:0|0:1;SO;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;MYSPORTS,MYSPORTSONE;20201105000210;NL;CH;Regular Season
+Di;07.01.2020;19:45;HC Davos;ZSC Lions; 3:4; 2:1|1:1|0:1|0:1;OT;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3716;MYSPORTS;20201105000067;NL;CH;Regular Season
+Fr;10.01.2020;19:45;EHC Biel-Bienne;EV Zug; 6:5; 3:3|0:0|2:2|1:0;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5761;MYSPORTS;20201105000211;NL;CH;Regular Season
+Fr;10.01.2020;19:45;Genève-Servette HC;SC Bern; 2:1; 0:0|1:1|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;6503;MYSPORTS,MYSPORTSONE;20201105000212;NL;CH;Regular Season
+Fr;10.01.2020;19:45;SCL Tigers;ZSC Lions; 1:6; 1:2|0:1|0:3;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5886;MYSPORTS;20201105000216;NL;CH;Regular Season
+Sa;11.01.2020;19:45;HC Ambri-Piotta;SC Rapperswil-Jona Lakers; 2:5; 0:2|2:1|0:2;;Ende;False;Stadio Valascia, 6775 Ambri TI;5333;MYSPORTS;20201105000217;NL;CH;Regular Season
+Sa;11.01.2020;19:45;SC Bern;Genève-Servette HC; 3:2; 3:1|0:1|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;16299;MYSPORTS;20201105000218;NL;CH;Regular Season
+Sa;11.01.2020;19:45;HC Davos;HC Lugano; 5:1; 1:1|2:0|2:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4909;MYSPORTS;20201105000219;NL;CH;Regular Season
+Sa;11.01.2020;19:45;Fribourg-Gottéron;Lausanne HC; 3:1; 0:1|2:0|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000220;NL;CH;Regular Season
+Sa;11.01.2020;19:45;EV Zug;EHC Biel-Bienne; 4:3; 1:1|1:0|2:2;;Ende;False;BOSSARD Arena, 6303 Zug;7048;MYSPORTS,MYSPORTSONE;20201105000222;NL;CH;Regular Season
+So;12.01.2020;15:45;SC Rapperswil-Jona Lakers;HC Ambri-Piotta; 1:4; 0:1|1:2|0:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;5679;MYSPORTS;20201105000213;NL;CH;Regular Season
+So;12.01.2020;15:45;HC Lugano;HC Davos; 2:1; 1:0|0:1|1:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;6309;MYSPORTS;20201105000215;NL;CH;Regular Season
+Di;14.01.2020;19:45;Genève-Servette HC;HC Lugano; 0:2; 0:1|0:1|0:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;5788;MYSPORTS;20201105000196;NL;CH;Regular Season
+Di;14.01.2020;19:45;ZSC Lions;SCL Tigers; 6:1; 0:0|2:1|4:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;8418;MYSPORTS;20201105000221;NL;CH;Regular Season
+Fr;17.01.2020;19:45;SC Bern;Lausanne HC; 4:3; 0:1|1:1|2:1|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;16301;MYSPORTS;20201105000223;NL;CH;Regular Season
+Fr;17.01.2020;19:45;EHC Biel-Bienne;Genève-Servette HC; 7:3; 2:2|1:0|4:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5675;MYSPORTS;20201105000224;NL;CH;Regular Season
+Fr;17.01.2020;19:45;HC Davos;Fribourg-Gottéron; 7:2; 5:0|0:2|2:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4341;MYSPORTS;20201105000225;NL;CH;Regular Season
+Fr;17.01.2020;19:45;SC Rapperswil-Jona Lakers;ZSC Lions; 3:0; 1:0|0:0|2:0;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;5891;MYSPORTS;20201105000226;NL;CH;Regular Season
+Fr;17.01.2020;19:45;HC Lugano;SCL Tigers; 1:3; 0:0|1:0|0:3;;Ende;False;Cornèr Arena, 6948 Porza Ti;5670;MYSPORTS;20201105000227;NL;CH;Regular Season
+Fr;17.01.2020;19:45;EV Zug;HC Ambri-Piotta; 3:1; 1:0|1:1|1:0;;Ende;False;BOSSARD Arena, 6303 Zug;6886;MYSPORTS;20201105000228;NL;CH;Regular Season
+Sa;18.01.2020;19:45;HC Ambri-Piotta;EHC Biel-Bienne; 5:4; 0:1|3:1|1:2|1:0;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;4923;MYSPORTS;20201105000229;NL;CH;Regular Season
+Sa;18.01.2020;19:45;Fribourg-Gottéron;SC Bern; 2:3; 1:1|0:0|1:1|0:1;OT;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS,MYSPORTSONE;20201105000230;NL;CH;Regular Season
+Sa;18.01.2020;19:45;Genève-Servette HC;SC Rapperswil-Jona Lakers; 5:1; 3:0|1:1|1:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;7135;MYSPORTS;20201105000231;NL;CH;Regular Season
+Sa;18.01.2020;19:45;SCL Tigers;EV Zug; 5:1; 2:0|1:1|2:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5970;MYSPORTS;20201105000233;NL;CH;Regular Season
+Sa;18.01.2020;19:45;ZSC Lions;HC Lugano; 1:2; 1:1|0:1|0:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9781;MYSPORTS;20201105000234;NL;CH;Regular Season
+Di;21.01.2020;19:45;EV Zug;SCL Tigers; 2:1; 0:1|2:0|0:0;;Ende;False;BOSSARD Arena, 6303 Zug;6428;MYSPORTS;20201105000096;NL;CH;Regular Season
+Di;21.01.2020;19:45;EHC Biel-Bienne;HC Ambri-Piotta; 3:1; 1:1|2:0|0:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5701;MYSPORTS;20201105000164;NL;CH;Regular Season
+Di;21.01.2020;19:45;HC Lugano;SC Rapperswil-Jona Lakers; 2:1; 0:1|1:0|1:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;5439;MYSPORTS;20201105000245;NL;CH;Regular Season
+Do;23.01.2020;19:45;Genève-Servette HC;ZSC Lions; 6:9; 3:2|1:3|2:4;;Ende;False;Les Vernets, 1227 Les Acacias GE;5505;MYSPORTS;20201105000237;NL;CH;Regular Season
+Fr;24.01.2020;19:45;Fribourg-Gottéron;HC Ambri-Piotta; 3:2; 0:0|0:1|2:1|1:0;SO;Ende;False;BCF Arena, 1700 Fribourg FR;6186;MYSPORTS;20201105000236;NL;CH;Regular Season
+Fr;24.01.2020;19:45;SC Rapperswil-Jona Lakers;EHC Biel-Bienne; 4:6; 1:2|3:1|0:3;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3644;MYSPORTS;20201105000238;NL;CH;Regular Season
+Fr;24.01.2020;19:45;SCL Tigers;Lausanne HC; 0:4; 0:0|0:2|0:2;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;5845;MYSPORTS;20201105000239;NL;CH;Regular Season
+Fr;24.01.2020;19:45;EV Zug;HC Lugano; 1:2; 0:1|0:1|1:0;;Ende;False;BOSSARD Arena, 6303 Zug;6650;MYSPORTS;20201105000240;NL;CH;Regular Season
+Sa;25.01.2020;19:45;HC Ambri-Piotta;SCL Tigers; 4:2; 1:1|2:0|1:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;5359;MYSPORTS;20201105000241;NL;CH;Regular Season
+Sa;25.01.2020;19:45;SC Bern;Genève-Servette HC; 3:4; 2:2|0:1|1:0|0:1;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;15550;MYSPORTS;20201105000242;NL;CH;Regular Season
+Sa;25.01.2020;19:45;EHC Biel-Bienne;EV Zug; 0:1; 0:0|0:0|0:0|0:1;OT;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6303;MYSPORTS;20201105000243;NL;CH;Regular Season
+Sa;25.01.2020;19:45;Lausanne HC;Fribourg-Gottéron; 1:3; 0:0|1:1|0:2;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000244;NL;CH;Regular Season
+Sa;25.01.2020;19:45;ZSC Lions;HC Davos; 5:4; 3:1|0:1|1:2|1:0;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;11200;MYSPORTS,MYSPORTSONE;20201105000246;NL;CH;Regular Season
+So;26.01.2020;15:45;HC Davos;SC Bern; 4:3; 1:0|3:2|0:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5663;MYSPORTS;20201105000235;NL;CH;Regular Season
+Di;28.01.2020;19:45;Lausanne HC;SC Rapperswil-Jona Lakers; 2:1; 0:0|0:1|1:0|1:0;SO;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;7887;MYSPORTS;20201105000209;NL;CH;Regular Season
+Do;30.01.2020;19:45;HC Davos;EV Zug; 2:4; 1:1|1:1|0:2;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4524;MYSPORTS,MYSPORTSONE;20201105000249;NL;CH;Regular Season
+Do;30.01.2020;19:45;Genève-Servette HC;Lausanne HC; 0:3; 0:2|0:0|0:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;7135;MYSPORTS;20201105000250;NL;CH;Regular Season
+Do;30.01.2020;19:45;SC Rapperswil-Jona Lakers;HC Ambri-Piotta; 3:2; 2:0|0:0|0:2|1:0;SO;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3722;MYSPORTS;20201105000251;NL;CH;Regular Season
+Do;30.01.2020;19:45;ZSC Lions;Fribourg-Gottéron; 1:2; 1:1|0:0|0:0|0:1;OT;Ende;False;Hallenstadion, 8050 Zürich ZH;8926;MYSPORTS;20201105000252;NL;CH;Regular Season
+Fr;31.01.2020;19:45;HC Ambri-Piotta;SC Bern; 3:0; 0:0|1:0|2:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;5126;MYSPORTS;20201105000253;NL;CH;Regular Season
+Fr;31.01.2020;19:45;Lausanne HC;ZSC Lions; 4:2; 1:1|1:1|2:0;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8675;MYSPORTS,MYSPORTSONE;20201105000255;NL;CH;Regular Season
+Fr;31.01.2020;19:45;HC Lugano;HC Davos; 5:3; 1:3|3:0|1:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;6066;MYSPORTS;20201105000256;NL;CH;Regular Season
+Fr;31.01.2020;19:45;SCL Tigers;EHC Biel-Bienne; 2:0; 0:0|1:0|1:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000257;NL;CH;Regular Season
+Fr;31.01.2020;19:45;EV Zug;SC Rapperswil-Jona Lakers; 4:1; 1:0|1:0|2:1;;Ende;False;BOSSARD Arena, 6303 Zug;6919;MYSPORTS;20201105000258;NL;CH;Regular Season
+Sa;01.02.2020;19:45;SC Bern;SCL Tigers; 3:2; 1:0|2:1|0:1;;Ende;False;PostFinance-Arena, 3014 Bern BE;17016;MYSPORTS,MYSPORTSONE;20201105000247;NL;CH;Regular Season
+Sa;01.02.2020;19:45;EHC Biel-Bienne;HC Lugano; 5:3; 0:1|2:0|3:2;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5928;MYSPORTS;20201105000248;NL;CH;Regular Season
+Sa;01.02.2020;19:45;Fribourg-Gottéron;Genève-Servette HC; 0:3; 0:0|0:3|0:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000254;NL;CH;Regular Season
+Sa;08.02.2020;19:45;Lausanne HC;Fribourg-Gottéron; 4:6; 0:2|3:3|1:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000214;NL;CH;Regular Season
+So;09.02.2020;15:45;HC Davos;SC Rapperswil-Jona Lakers; 3:2; 0:0|2:0|1:2;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4650;MYSPORTS;20201105000039;NL;CH;Regular Season
+Di;11.02.2020;19:45;SC Bern;ZSC Lions; 3:4; 2:0|1:3|0:0|0:1;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;16206;MYSPORTS;20201105000259;NL;CH;Regular Season
+Di;11.02.2020;19:45;EHC Biel-Bienne;Fribourg-Gottéron; 5:6; 1:3|2:0|2:2|0:1;SO;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;5924;MYSPORTS;20201105000260;NL;CH;Regular Season
+Di;11.02.2020;19:45;HC Davos;Genève-Servette HC; 2:1; 1:0|1:0|0:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;3932;MYSPORTS;20201105000261;NL;CH;Regular Season
+Di;11.02.2020;19:45;SC Rapperswil-Jona Lakers;SCL Tigers; 7:3; 3:0|1:1|3:2;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3589;MYSPORTS;20201105000262;NL;CH;Regular Season
+Di;11.02.2020;19:45;HC Lugano;HC Ambri-Piotta; 5:1; 1:1|1:0|3:0;;Ende;False;Cornèr Arena, 6948 Porza Ti;7023;MYSPORTS,MYSPORTSONE;20201105000263;NL;CH;Regular Season
+Di;11.02.2020;19:45;EV Zug;Lausanne HC; 3:0; 1:0|0:0|2:0;;Ende;False;BOSSARD Arena, 6303 Zug;6561;MYSPORTS;20201105000264;NL;CH;Regular Season
+Do;13.02.2020;19:45;HC Davos;HC Ambri-Piotta; 3:2; 1:0|0:2|1:0|1:0;SO;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4254;MYSPORTS;20201105000266;NL;CH;Regular Season
+Fr;14.02.2020;19:45;SC Bern;EV Zug; 2:1; 0:1|2:0|0:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15999;MYSPORTS;20201105000265;NL;CH;Regular Season
+Fr;14.02.2020;19:45;Fribourg-Gottéron;SC Rapperswil-Jona Lakers; 5:3; 3:1|1:2|1:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6069;MYSPORTS;20201105000267;NL;CH;Regular Season
+Fr;14.02.2020;19:45;Lausanne HC;HC Lugano; 2:3; 0:0|0:1|2:1|0:1;SO;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8000;MYSPORTS;20201105000269;NL;CH;Regular Season
+Sa;15.02.2020;19:45;HC Ambri-Piotta;Lausanne HC; 2:3; 0:0|1:2|1:0|0:1;OT;Ende;False;Stadio Valascia, 6775 Ambri TI;4864;MYSPORTS;20201105000271;NL;CH;Regular Season
+Sa;15.02.2020;19:45;EHC Biel-Bienne;SC Bern; 4:0; 0:0|3:0|1:0;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6521;MYSPORTS,MYSPORTSONE;20201105000272;NL;CH;Regular Season
+Sa;15.02.2020;19:45;SC Rapperswil-Jona Lakers;HC Davos; 5:2; 1:0|2:1|2:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;4957;MYSPORTS;20201105000273;NL;CH;Regular Season
+Sa;15.02.2020;19:45;HC Lugano;Genève-Servette HC; 1:2; 0:1|0:0|1:1;;Ende;False;Cornèr Arena, 6948 Porza Ti;5806;MYSPORTS;20201105000274;NL;CH;Regular Season
+Sa;15.02.2020;19:45;SCL Tigers;ZSC Lions; 0:3; 0:2|0:0|0:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000275;NL;CH;Regular Season
+Sa;15.02.2020;19:45;EV Zug;Fribourg-Gottéron; 5:0; 0:0|1:0|4:0;;Ende;False;BOSSARD Arena, 6303 Zug;7030;MYSPORTS;20201105000276;NL;CH;Regular Season
+So;16.02.2020;15:45;ZSC Lions;EHC Biel-Bienne; 5:2; 2:2|2:0|1:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9807;MYSPORTS;20201105000270;NL;CH;Regular Season
+Di;18.02.2020;19:45;Lausanne HC;Fribourg-Gottéron; 2:3; 0:1|0:1|2:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;9600;MYSPORTS;20201105000029;NL;CH;Regular Season
+Di;18.02.2020;19:45;HC Davos;EV Zug; 1:2; 0:0|1:1|0:0|0:1;OT;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5229;MYSPORTS;20201105000058;NL;CH;Regular Season
+Di;18.02.2020;19:45;Genève-Servette HC;SCL Tigers; 2:3; 2:1|0:0|0:1|0:1;SO;Ende;False;Les Vernets, 1227 Les Acacias GE;5707;MYSPORTS;20201105000268;NL;CH;Regular Season
+Fr;21.02.2020;19:45;SC Bern;SC Rapperswil-Jona Lakers; 5:2; 1:0|0:2|4:0;;Ende;False;PostFinance-Arena, 3014 Bern BE;15735;MYSPORTS;20201105000277;NL;CH;Regular Season
+Fr;21.02.2020;19:45;HC Davos;SCL Tigers; 5:2; 0:1|2:0|3:1;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;4948;MYSPORTS;20201105000278;NL;CH;Regular Season
+Fr;21.02.2020;19:45;Fribourg-Gottéron;HC Lugano; 6:3; 0:2|1:1|5:0;;Ende;False;BCF Arena, 1700 Fribourg FR;6500;MYSPORTS;20201105000279;NL;CH;Regular Season
+Fr;21.02.2020;19:45;Genève-Servette HC;EV Zug; 3:1; 2:0|0:0|1:1;;Ende;False;Les Vernets, 1227 Les Acacias GE;6817;MYSPORTS;20201105000280;NL;CH;Regular Season
+Fr;21.02.2020;19:45;Lausanne HC;EHC Biel-Bienne; 2:3; 1:0|0:2|1:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8333;MYSPORTS;20201105000281;NL;CH;Regular Season
+Fr;21.02.2020;19:45;ZSC Lions;HC Ambri-Piotta; 3:1; 0:1|1:0|2:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;9160;MYSPORTS;20201105000282;NL;CH;Regular Season
+Sa;22.02.2020;19:45;HC Ambri-Piotta;Genève-Servette HC; 0:1; 0:0|0:0|0:1;;Ende;False;Stadio Valascia, 6775 Ambri TI;4680;MYSPORTS;20201105000283;NL;CH;Regular Season
+Sa;22.02.2020;19:45;EHC Biel-Bienne;HC Davos; 5:2; 3:1|0:0|2:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;6388;MYSPORTS;20201105000284;NL;CH;Regular Season
+Sa;22.02.2020;19:45;SC Rapperswil-Jona Lakers;Lausanne HC; 3:2; 0:1|0:1|2:0|1:0;OT;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;3514;MYSPORTS;20201105000285;NL;CH;Regular Season
+Sa;22.02.2020;19:45;HC Lugano;SC Bern; 0:6; 0:3|0:0|0:3;;Ende;False;Cornèr Arena, 6948 Porza Ti;6102;MYSPORTS;20201105000286;NL;CH;Regular Season
+Sa;22.02.2020;19:45;SCL Tigers;Fribourg-Gottéron; 0:1; 0:0|0:1|0:0;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;6000;MYSPORTS;20201105000287;NL;CH;Regular Season
+Sa;22.02.2020;19:45;EV Zug;ZSC Lions; 1:4; 0:1|1:1|0:2;;Ende;False;BOSSARD Arena, 6303 Zug;7117;MYSPORTS;20201105000288;NL;CH;Regular Season
+Di;25.02.2020;19:45;HC Davos;SC Bern; 4:2; 0:1|3:1|1:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;5329;MYSPORTS;20201105000007;NL;CH;Regular Season
+Di;25.02.2020;19:45;Lausanne HC;SCL Tigers; 3:1; 1:0|0:0|2:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;8448;MYSPORTS;20201105000011;NL;CH;Regular Season
+Di;25.02.2020;19:45;Fribourg-Gottéron;EV Zug; 2:1; 0:0|0:0|1:1|1:0;SO;Ende;False;BCF Arena, 1700 Fribourg FR;6222;MYSPORTS;20201105000040;NL;CH;Regular Season
+Fr;28.02.2020;19:45;HC Ambri-Piotta;HC Davos; 3:0; 0:0|1:0|2:0;;Ende;False;Stadio Valascia, 6775 Ambri TI;0;MYSPORTS;20201105000289;NL;CH;Regular Season
+Fr;28.02.2020;19:45;SC Bern;Fribourg-Gottéron; 1:0; 0:0|0:0|0:0|1:0;OT;Ende;False;PostFinance-Arena, 3014 Bern BE;0;MYSPORTS,BLICKWEBTV;20201105000290;NL;CH;Regular Season
+Fr;28.02.2020;19:45;EHC Biel-Bienne;ZSC Lions; 5:1; 2:0|0:0|3:1;;Ende;False;Tissot Arena, 2504 Biel/Bienne BE;0;MYSPORTS;20201105000291;NL;CH;Regular Season
+Fr;28.02.2020;19:45;Genève-Servette HC;Lausanne HC; 4:1; 2:0|0:1|2:0;;Ende;False;Les Vernets, 1227 Les Acacias GE;0;MYSPORTS;20201105000292;NL;CH;Regular Season
+Fr;28.02.2020;19:45;SC Rapperswil-Jona Lakers;HC Lugano; 1:4; 1:1|0:2|0:1;;Ende;False;St.Galler Kantonalbank Arena, 8640 Rapperswil SG;0;MYSPORTS;20201105000293;NL;CH;Regular Season
+Fr;28.02.2020;19:45;EV Zug;SCL Tigers; 5:4; 2:1|1:2|1:1|1:0;SO;Ende;False;BOSSARD Arena, 6303 Zug;0;MYSPORTS;20201105000294;NL;CH;Regular Season
+Sa;29.02.2020;19:45;HC Davos;SC Rapperswil-Jona Lakers; 5:3; 1:2|0:1|4:0;;Ende;False;Eisstadion Davos, 7270 Davos-Platz GR;0;MYSPORTS;20201105000295;NL;CH;Regular Season
+Sa;29.02.2020;19:45;Fribourg-Gottéron;Genève-Servette HC; 1:6; 0:1|0:1|1:4;;Ende;False;BCF Arena, 1700 Fribourg FR;0;MYSPORTS;20201105000296;NL;CH;Regular Season
+Sa;29.02.2020;19:45;Lausanne HC;SC Bern; 3:2; 0:0|2:1|1:1;;Ende;False;Vaudoise Aréna, 1008 Lausanne VD;0;MYSPORTS;20201105000297;NL;CH;Regular Season
+Sa;29.02.2020;19:45;HC Lugano;HC Ambri-Piotta; 1:4; 0:0|1:1|0:3;;Ende;False;Cornèr Arena, 6948 Porza Ti;0;MYSPORTS;20201105000298;NL;CH;Regular Season
+Sa;29.02.2020;19:45;SCL Tigers;EHC Biel-Bienne; 4:2; 1:0|1:1|2:1;;Ende;False;Ilfishalle, 3550 Langnau im Emmental BE;0;MYSPORTS;20201105000299;NL;CH;Regular Season
+Sa;29.02.2020;19:45;ZSC Lions;EV Zug; 4:1; 2:0|2:1|0:0;;Ende;False;Hallenstadion, 8050 Zürich ZH;0;MYSPORTS;20201105000300;NL;CH;Regular Season
